@@ -1,0 +1,43 @@
+CONSTR MGMT INSPCTR III
+Alchemy API
+Construction Management Inspector, 0.793075, JobTitle
+CMI, 0.779756, Organization
+supervisor, 0.683938, JobTitle
+Construction Management Inspectors, 0.67991, Company
+Construction Management Inspectors, 0.678122, JobTitle
+Construction Management, 0.601259, JobTitle
+Construction Management Inspector supervisor, 0.543096, JobTitle
+Construction Management Inspector II, 0.516058, JobTitle
+Construction Management Technology, 0.482274, Company
+CMI II, 0.456494, Company
+SMUD, 0.45601, Company
+Construction Management Group, 0.415057, Organization
+SMUD, 0.31809, Organization
+SACRAMENTO, 0.287694, City
+supervisor Provide input, 0.275335, JobTitle
+Project Management, 0.263772, JobTitle
+California, 0.235136, StateOrCounty
+School Diploma, 0.224193, Degree
+superintendent, 0.214812, JobTitle
+transmission systems, 0.208866, FieldTerminology
+project manager, 0.202014, JobTitle
+personal computer, 0.197587, FieldTerminology
+word processors, 0.189194, FieldTerminology
+application software, 0.174353, FieldTerminology
+three years, 0.174353, Quantity
+48 months, 0.174353, Quantity
+Klangoo API
+II, 0.6, People
+Construction Management, 0.6, Companies
+III Job Code, 0.6, People
+IIs, 0.45, People
+Provide, 0.45, People
+Line Inspector, 0.45, People
+Inspection Technology, 0.45, Companies
+Construction Management Group, 0.45, Organizations
+Acts, 0.45, Publication
+Construction Management Technology, 0.45, Companies
+Jeff Jacobson, 0.45, People
+Teri Bernhard Page, 0.45, People
+California, 0.45, Locations & natural formations
+SACRAMENTO, 0.26, Locations & natural formations

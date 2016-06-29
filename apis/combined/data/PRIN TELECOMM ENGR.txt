@@ -1,0 +1,28 @@
+PRIN TELECOMM ENGR
+Alchemy API
+SMUD, 0.858839, Company
+telecommunications networks, 0.383447, FieldTerminology
+power systems, 0.323925, FieldTerminology
+network systems, 0.31299, FieldTerminology
+Sacramento Municipal Utility District, 0.297975, Organization
+word processing, 0.28806, FieldTerminology
+consultant, 0.276646, JobTitle
+Professional Electrical Engineer, 0.264603, JobTitle
+Board, 0.256637, Organization
+California, 0.25415, StateOrCounty
+FCC, 0.247894, Organization
+PRINCIPAL, 0.245873, JobTitle
+regulatory agency, 0.244106, FieldTerminology
+data communications, 0.243803, FieldTerminology
+ENGINEER, 0.243004, JobTitle
+Johnson & Associates, 0.240701, Company
+emergency services, 0.234522, FieldTerminology
+data processing, 0.232222, FieldTerminology
+coaxial cable, 0.230697, FieldTerminology
+data management, 0.22409, FieldTerminology
+software applications, 0.194486, FieldTerminology
+10 years, 0.194486, Quantity
+Klangoo API
+Sacramento Municipal Utility district, 0.85, Locations & natural formations
+FCC, 0.6, Companies
+California, 0.6, Locations & natural formations

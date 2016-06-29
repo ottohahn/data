@@ -1,0 +1,37 @@
+CONSTR MGMT INSPCTR II
+Alchemy API
+CMI, 0.804645, Organization
+SMUD, 0.675248, Company
+Construction Management Inspector, 0.516694, JobTitle
+Construction Management Inspector work group, 0.503167, JobTitle
+SMUD, 0.399561, Organization
+Construction Management Inspection, 0.396417, JobTitle
+CMI III, 0.333343, Company
+SACRAMENTO, 0.297387, City
+Project Engineer/Process Coordinator, 0.264793, JobTitle
+representative, 0.255194, JobTitle
+Coordinator, 0.23847, JobTitle
+California, 0.236382, StateOrCounty
+supervisor, 0.234524, JobTitle
+Engineer/Project Manager, 0.231777, JobTitle
+Representative, 0.226567, JobTitle
+electrical systems, 0.225805, FieldTerminology
+Project Manager, 0.218213, JobTitle
+OHSA, 0.208334, Organization
+personal computer, 0.181, FieldTerminology
+word processors, 0.171503, FieldTerminology
+application software, 0.159733, FieldTerminology
+48 months, 0.159733, Quantity
+4 years, 0.159733, Quantity
+Klangoo API
+Construction Management, 0.85, Companies
+II Job Code, 0.85, People
+SMUD Project, 0.6, Companies
+Cal OSHA, 0.45, People
+Line Inspector, 0.45, People
+A. Field Construction Contract Administration, 0.45, Political group
+Jeff Jacobson, 0.45, People
+California, 0.45, Locations & natural formations
+Teri Bernhard Date Prepared, 0.45, People
+Teri Bernhard Page, 0.45, People
+SACRAMENTO, 0.26, Locations & natural formations

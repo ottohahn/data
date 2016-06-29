@@ -1,0 +1,18 @@
+DISTRIBUTION LINE DESIGN SUPVR
+Alchemy API
+SMUD, 0.805683, Company
+SMUD, 0.561711, Organization
+distribution system, 0.264753, FieldTerminology
+SACRAMENTO, 0.264352, City
+MUNICIPAL UTILITY DISTRICT, 0.238176, Organization
+service design, 0.235114, JobTitle
+High School, 0.229225, Degree
+software systems, 0.218463, FieldTerminology
+California, 0.215717, StateOrCounty
+Klangoo API
+DS, 0.85, Agencies
+Line Design SUPVR, 0.85, People
+COST CENTER, 0.85, Artifacts
+Line Design NATURE, 0.6, People
+California, 0.6, Locations & natural formations
+SACRAMENTO, 0.45, Locations & natural formations

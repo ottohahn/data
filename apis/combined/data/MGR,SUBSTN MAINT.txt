@@ -1,0 +1,18 @@
+MGR,SUBSTN MAINT
+Alchemy API
+transmission systems, 0.766495, FieldTerminology
+Director, 0.491467, JobTitle
+Substation Assets Supervisor, 0.461453, JobTitle
+SUBSTATION MAINT, 0.450478, Organization
+SACRAMENTO, 0.40687, City
+MUNICIPAL UTILITY DISTRICT, 0.361296, Organization
+IBEW, 0.347938, Organization
+Cost/Schedule Specialist, 0.345969, JobTitle
+Health and Environmental Services, 0.331667, JobTitle
+personal computer, 0.3273, FieldTerminology
+fiscal year, 0.322771, FieldTerminology
+Memorandum of Understanding, 0.314689, FieldTerminology
+Klangoo API
+COST CENTER, 0.85, Artifacts
+Environmental Services, 0.6, Companies
+SACRAMENTO, 0.45, Locations & natural formations

@@ -1,25 +1,22 @@
-import wikipedia as wk
-import pandas as pd
-import numpy as np
 import nltk
-import unicodedata
+import numpy as np
+import pandas as pd
 import string
-from sklearn.cross_validation import train_test_split, cross_val_score
+import unicodedata
+import wikipedia as wk
+from sklearn.cross_validation import cross_val_score, train_test_split
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
-from sklearn.ensemble import RandomForestClassifier
 
 
-languages_s = ['es','it','en','de','fr','pt','nl']
-languages_l = ['Spanish','Italian','English','German','French','Portuguese','Danish']
-page_names  = ['Divina_comedia',
-               'Divina_Commedia',
-               'Divine_Comedy',
-               'Göttliche_Komödie',
-               'Divine_Comédie',
-               'Divina_Comédia',
-               'De_goddelijke_komedie']
+languages_s = ['es', 'it', 'en', 'de', 'fr', 'pt', 'nl']
+languages_l = ['Spanish', 'Italian', 'English', 'German',
+               'French', 'Portugues', 'Danish']
+page_names = ['Divina_comedia', 'Divina_Commedia', 'Divine_Comedy',
+              'Göttliche_Komödie', 'Divine_Comédie', 'Divina_Comédia',
+              'De_goddelijke_komedie']
 text_splits = ['== Traducciones ==',
                '== Data di composizione ==',
                '== Earliest manuscripts ==',
@@ -28,8 +25,9 @@ text_splits = ['== Traducciones ==',
                'Virgem Maria e esta concede sua visita',
                '== Receptie ==']
 
-lang_dict = dict(zip(languages_l, [1,2,3,4,5,6,7]))
-rev_dict = dict(zip([1,2,3,4,5,6,7], languages_l))
+lang_dict = dict(zip(languages_l, [1, 2, 3, 4, 5, 6, 7]))
+rev_dict = dict(zip([1, 2, 3, 4, 5, 6, 7], languages_l))
+
 
 def get_wiki(language, page_name):
     wk.set_lang(language)
@@ -40,22 +38,25 @@ content = {}
 for row in zip(languages_s, languages_l, page_names, text_splits):
     content[row[1]] = (get_wiki(row[0], row[2])).split(row[3])[0]
 
+
 def transform_df(languages, content, int_conv):
     dfs = []
     idx = 0
     for l in languages:
-        sent = unicodedata.normalize('NFKC', content[l]).encode('ascii', 'ignore')
+        sent = unicodedata.normalize(
+            'NFKC', content[l]).encode('ascii', 'ignore')
         sent = nltk.sent_tokenize(sent, language=l)
-        sent = [(x.translate(string.maketrans("",""), string.punctuation)).lower() for x in sent]
-        rge = np.arange(idx, idx+len(sent), 1)
-        text= pd.Series(data=sent, name='Text', index=rge)
-        label = pd.Series(data=[int_conv[l] for x in sent], name='Label', index=rge)
+        sent = [(x.translate(string.maketrans("", ""),
+                string.punctuation)).lower() for x in sent]
+        rge = np.arange(idx, idx + len(sent), 1)
+        text = pd.Series(data=sent, name='Text', index=rge)
+        label = pd.Series(data=[int_conv[l] for x in sent],
+                          name='Label', index=rge)
         dfs.append(pd.concat([text, label], axis=1))
         idx = idx + 1 + len(sent)
     return pd.concat([x for x in dfs], axis=0)
 
 result = transform_df(languages_l, content, lang_dict)
-
 count_vectorizer = CountVectorizer(max_df=0.95)
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95)
 
@@ -64,11 +65,13 @@ count = count_vectorizer.fit_transform(result['Text'].values)
 mnb = MultinomialNB(alpha=0.1, fit_prior=False)
 rf = RandomForestClassifier(n_estimators=100, n_jobs=-1)
 
+
 def model_test(data, model, t_size, data_type, model_type):
-    X_train, X_test, y_train, y_test = train_test_split(data, \
-        result['Label'].values, test_size = t_size, random_state=8)
+    X_train, X_test, y_train, y_test = train_test_split(
+        data, result['Label'].values, test_size=t_size, random_state=8)
     model.fit(X_train, y_train)
-    cv_score = np.mean(cross_val_score(model, X_train, y_train, cv=5, scoring='accuracy'))
+    cv_score = np.mean(cross_val_score(
+        model, X_train, y_train, cv=5, scoring='accuracy'))
     test_score = model.score(X_test, y_test)
     print "The cross-validation score for the %s model, using %s data is %s" \
         % (model_type, data_type, cv_score)
@@ -103,7 +106,8 @@ test_txt_cln = []
 for txt in test_txt:
     source = unicode(txt, 'utf-8')
     sent = unicodedata.normalize('NFKC', source).encode('ascii', 'ignore')
-    sent = sent.translate(string.maketrans("",""), string.punctuation).lower()
+    sent = sent.translate(
+        string.maketrans("", ""), string.punctuation).lower()
     test_txt_cln.append(txt)
 
 test_txt_cln = np.array(test_txt_cln)

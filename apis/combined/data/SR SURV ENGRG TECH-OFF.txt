@@ -1,0 +1,17 @@
+SR SURV ENGRG TECH-OFF
+Alchemy API
+Survey Engineering Technician, 0.938118, JobTitle
+SACRAMENTO, 0.454204, City
+Certificate of Registration, 0.429995, Degree
+civil engineering, 0.404097, FieldTerminology
+computer software, 0.368153, FieldTerminology
+DTMs, 0.353373, Company
+California, 0.351547, StateOrCounty
+Global Positioning System, 0.345542, FieldTerminology
+Klangoo API
+SMI, 0.6, Stock market
+Global Positioning System, 0.6, Artifacts
+AA, 0.6, Organizations
+SAP, 0.6, Companies
+California, 0.6, Locations & natural formations
+SACRAMENTO, 0.45, Locations & natural formations
