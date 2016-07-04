@@ -38,14 +38,15 @@ def transform_df(languages, content, int_conv):
     return pd.concat([x for x in dfs], axis=0)
 
 
-def model_test(data, model, t_size, data_type, model_type):
-    """Test the models."""
-    X_train, X_test, y_train, y_test = train_test_split(
-        data, result['Label'].values, test_size=t_size, random_state=8)
-    model.fit(X_train, y_train)
-    cv_score = np.mean(cross_val_score(
-        model, X_train, y_train, cv=5, scoring='accuracy'))
-    test_score = model.score(X_test, y_test)
+def model_test(x_train, model, data_type, model_type):
+    """Test model cross-validation and test set scores."""
+    model.fit(x_train, y_train)
+    cv_score = np.mean(cross_val_score(model, x_train, y_train, cv=5, scoring='accuracy'))
+    if data_type == "TFIDF":
+        x_test = tfidf_vectorizer.transform(X_test)
+    if data_type == "Count Vectorizer":
+        x_test = count_vectorizer.transform(X_test)
+    test_score = model.score(x_test, y_test)
     print "The cross-validation score for the %s model, using %s data is %s" \
         % (model_type, data_type, cv_score)
     print "The test set score for the %s model, using %s data is %s" \
@@ -75,6 +76,20 @@ if __name__ == '__main__':
         content[row[1]] = (get_wiki(row[0], row[2])).split(row[3])[0]
 
     result = transform_df(languages_l, content, lang_dict)
-    result.to_pickle('data/result.pkl')
-    result.to_csv('data/result.csv')
-    result.to_json('data/result.json')
+    # result.to_pickle('data/result.pkl')
+    # result.to_csv('data/result.csv')
+    # result.to_json('data/result.json')
+
+    count_vectorizer = CountVectorizer(max_df=0.95)
+    tfidf_vectorizer = TfidfVectorizer(max_df=0.95)
+    X_train, X_test, y_train, y_test = train_test_split(result['Text'].values, \
+        result['Label'].values, test_size = .25, random_state=8)
+    tfidf = tfidf_vectorizer.fit_transform(X_train)
+    count = count_vectorizer.fit_transform(X_train)
+    mnb = MultinomialNB(alpha=0.1, fit_prior=False)
+    rf = RandomForestClassifier(n_estimators=100, n_jobs=-1)
+
+    model_test(tfidf, mnb, "TFIDF", "Multinomial NB")
+    model_test(count, mnb, "Count Vectorizer", "Multinomial NB")
+    model_test(tfidf, rf, "TFIDF", "Random Forest")
+    model_test(count, rf, "Count Vectorizer", "Random Forest")

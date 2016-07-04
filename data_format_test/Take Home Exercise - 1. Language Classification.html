@@ -52,8 +52,10 @@
 .highlight .err { border: 1px solid #FF0000 } /* Error */
 .highlight .k { color: #008000; font-weight: bold } /* Keyword */
 .highlight .o { color: #666666 } /* Operator */
+.highlight .ch { color: #408080; font-style: italic } /* Comment.Hashbang */
 .highlight .cm { color: #408080; font-style: italic } /* Comment.Multiline */
 .highlight .cp { color: #BC7A00 } /* Comment.Preproc */
+.highlight .cpf { color: #408080; font-style: italic } /* Comment.PreprocFile */
 .highlight .c1 { color: #408080; font-style: italic } /* Comment.Single */
 .highlight .cs { color: #408080; font-style: italic } /* Comment.Special */
 .highlight .gd { color: #A00000 } /* Generic.Deleted */
@@ -190,10 +192,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[531]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="kn">import</span> <span class="nn">wikipedia</span> <span class="kn">as</span> <span class="nn">wk</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">import</span> <span class="nn">wikipedia</span> <span class="kn">as</span> <span class="nn">wk</span>
 <span class="kn">import</span> <span class="nn">pandas</span> <span class="kn">as</span> <span class="nn">pd</span>
 <span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
 <span class="kn">import</span> <span class="nn">nltk</span>
@@ -223,18 +225,25 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[532]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">languages_s</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;es&#39;</span><span class="p">,</span><span class="s">&#39;it&#39;</span><span class="p">,</span><span class="s">&#39;en&#39;</span><span class="p">,</span><span class="s">&#39;de&#39;</span><span class="p">,</span><span class="s">&#39;fr&#39;</span><span class="p">,</span><span class="s">&#39;pt&#39;</span><span class="p">,</span><span class="s">&#39;nl&#39;</span><span class="p">]</span>
-<span class="n">languages_l</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;Spanish&#39;</span><span class="p">,</span><span class="s">&#39;Italian&#39;</span><span class="p">,</span><span class="s">&#39;English&#39;</span><span class="p">,</span><span class="s">&#39;German&#39;</span><span class="p">,</span><span class="s">&#39;French&#39;</span><span class="p">,</span><span class="s">&#39;Portuguese&#39;</span><span class="p">,</span><span class="s">&#39;Danish&#39;</span><span class="p">]</span>
-<span class="n">page_names</span>  <span class="o">=</span> <span class="p">[</span><span class="s">&#39;Divina_comedia&#39;</span><span class="p">,</span> <span class="s">&#39;Divina_Commedia&#39;</span><span class="p">,</span> <span class="s">&#39;Divine_Comedy&#39;</span><span class="p">,</span>
-              <span class="s">&#39;Göttliche_Komödie&#39;</span><span class="p">,</span> <span class="s">&#39;Divine_Comédie&#39;</span><span class="p">,</span> <span class="s">&#39;Divina_Comédia&#39;</span><span class="p">,</span>
-              <span class="s">&#39;De_goddelijke_komedie&#39;</span><span class="p">]</span>
-<span class="n">text_splits</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;== Traducciones ==&#39;</span><span class="p">,</span> <span class="s">&#39;== Data di composizione ==&#39;</span><span class="p">,</span>
-               <span class="s">&#39;== Earliest manuscripts ==&#39;</span><span class="p">,</span> <span class="s">&#39;== Rezeptionsgeschichte ==&#39;</span><span class="p">,</span> 
-               <span class="s">&#39;Sainte Vierge et finalement Dante&#39;</span><span class="p">,</span>
-               <span class="s">&#39;Virgem Maria e esta concede sua visita&#39;</span><span class="p">,</span> <span class="s">&#39;== Receptie ==&#39;</span><span class="p">]</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">languages_s</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;es&#39;</span><span class="p">,</span><span class="s1">&#39;it&#39;</span><span class="p">,</span><span class="s1">&#39;en&#39;</span><span class="p">,</span><span class="s1">&#39;de&#39;</span><span class="p">,</span><span class="s1">&#39;fr&#39;</span><span class="p">,</span><span class="s1">&#39;pt&#39;</span><span class="p">,</span><span class="s1">&#39;nl&#39;</span><span class="p">]</span>
+<span class="n">languages_l</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Spanish&#39;</span><span class="p">,</span><span class="s1">&#39;Italian&#39;</span><span class="p">,</span><span class="s1">&#39;English&#39;</span><span class="p">,</span><span class="s1">&#39;German&#39;</span><span class="p">,</span><span class="s1">&#39;French&#39;</span><span class="p">,</span><span class="s1">&#39;Portuguese&#39;</span><span class="p">,</span><span class="s1">&#39;Danish&#39;</span><span class="p">]</span>
+<span class="n">page_names</span>  <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;Divina_comedia&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;Divina_Commedia&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;Divine_Comedy&#39;</span><span class="p">,</span>
+               <span class="s1">&#39;Göttliche_Komödie&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;Divine_Comédie&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;Divina_Comédia&#39;</span><span class="p">,</span>
+               <span class="s1">&#39;De_goddelijke_komedie&#39;</span><span class="p">]</span>
+<span class="n">text_splits</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;== Traducciones ==&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;== Data di composizione ==&#39;</span><span class="p">,</span>
+               <span class="s1">&#39;== Earliest manuscripts ==&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;== Rezeptionsgeschichte ==&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;Sainte Vierge et finalement Dante&#39;</span><span class="p">,</span>
+               <span class="s1">&#39;Virgem Maria e esta concede sua visita&#39;</span><span class="p">,</span> 
+               <span class="s1">&#39;== Receptie ==&#39;</span><span class="p">]</span>
 </pre></div>
 
 </div>
@@ -255,10 +264,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[533]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">text_splits</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">text_splits</span>
 </pre></div>
 
 </div>
@@ -269,7 +278,7 @@ div#notebook {
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[533]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[3]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -300,10 +309,10 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[534]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">for</span> <span class="n">language</span> <span class="ow">in</span> <span class="n">languages_s</span><span class="p">:</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">for</span> <span class="n">language</span> <span class="ow">in</span> <span class="n">languages_s</span><span class="p">:</span>
     <span class="k">print</span> <span class="n">wk</span><span class="o">.</span><span class="n">languages</span><span class="p">()[</span><span class="n">language</span><span class="p">]</span>
 </pre></div>
 
@@ -334,10 +343,10 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[535]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">lang_dict</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">languages_l</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">]))</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">lang_dict</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">(</span><span class="n">languages_l</span><span class="p">,</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">]))</span>
 <span class="n">rev_dict</span> <span class="o">=</span> <span class="nb">dict</span><span class="p">(</span><span class="nb">zip</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">],</span> <span class="n">languages_l</span><span class="p">))</span>
 <span class="n">lang_dict</span>
 </pre></div>
@@ -350,7 +359,7 @@ Nederlands
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[535]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[5]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -381,10 +390,10 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[536]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">get_wiki</span><span class="p">(</span><span class="n">language</span><span class="p">,</span> <span class="n">page_name</span><span class="p">):</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">get_wiki</span><span class="p">(</span><span class="n">language</span><span class="p">,</span> <span class="n">page_name</span><span class="p">):</span>
     <span class="n">wk</span><span class="o">.</span><span class="n">set_lang</span><span class="p">(</span><span class="n">language</span><span class="p">)</span>
     <span class="n">data</span> <span class="o">=</span> <span class="n">wk</span><span class="o">.</span><span class="n">page</span><span class="p">(</span><span class="n">page_name</span><span class="p">)</span>
     <span class="k">return</span> <span class="n">data</span><span class="o">.</span><span class="n">content</span>
@@ -397,10 +406,10 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[537]:</div>
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">content</span> <span class="o">=</span> <span class="p">{}</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">content</span> <span class="o">=</span> <span class="p">{}</span>
 <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">languages_s</span><span class="p">,</span> <span class="n">languages_l</span><span class="p">,</span> <span class="n">page_names</span><span class="p">,</span> <span class="n">text_splits</span><span class="p">):</span>
     <span class="n">content</span><span class="p">[</span><span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="p">(</span><span class="n">get_wiki</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">row</span><span class="p">[</span><span class="mi">2</span><span class="p">]))</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="mi">3</span><span class="p">])[</span><span class="mi">0</span><span class="p">]</span>
 </pre></div>
@@ -428,19 +437,19 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[538]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">transform_df</span><span class="p">(</span><span class="n">languages</span><span class="p">,</span> <span class="n">content</span><span class="p">,</span> <span class="n">int_conv</span><span class="p">):</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">transform_df</span><span class="p">(</span><span class="n">languages</span><span class="p">,</span> <span class="n">content</span><span class="p">,</span> <span class="n">int_conv</span><span class="p">):</span>
     <span class="n">dfs</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="n">idx</span> <span class="o">=</span> <span class="mi">0</span>
     <span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">languages</span><span class="p">:</span>
-        <span class="n">sent</span> <span class="o">=</span> <span class="n">unicodedata</span><span class="o">.</span><span class="n">normalize</span><span class="p">(</span><span class="s">&#39;NFKC&#39;</span><span class="p">,</span> <span class="n">content</span><span class="p">[</span><span class="n">l</span><span class="p">])</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s">&#39;ascii&#39;</span><span class="p">,</span> <span class="s">&#39;ignore&#39;</span><span class="p">)</span>
+        <span class="n">sent</span> <span class="o">=</span> <span class="n">unicodedata</span><span class="o">.</span><span class="n">normalize</span><span class="p">(</span><span class="s1">&#39;NFKC&#39;</span><span class="p">,</span> <span class="n">content</span><span class="p">[</span><span class="n">l</span><span class="p">])</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;ascii&#39;</span><span class="p">,</span> <span class="s1">&#39;ignore&#39;</span><span class="p">)</span>
         <span class="n">sent</span> <span class="o">=</span> <span class="n">nltk</span><span class="o">.</span><span class="n">sent_tokenize</span><span class="p">(</span><span class="n">sent</span><span class="p">,</span> <span class="n">language</span><span class="o">=</span><span class="n">l</span><span class="p">)</span>
-        <span class="n">sent</span> <span class="o">=</span> <span class="p">[(</span><span class="n">x</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="n">string</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s">&quot;&quot;</span><span class="p">,</span><span class="s">&quot;&quot;</span><span class="p">),</span> <span class="n">string</span><span class="o">.</span><span class="n">punctuation</span><span class="p">))</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">sent</span><span class="p">]</span>
+        <span class="n">sent</span> <span class="o">=</span> <span class="p">[(</span><span class="n">x</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="n">string</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">,</span><span class="s2">&quot;&quot;</span><span class="p">),</span> <span class="n">string</span><span class="o">.</span><span class="n">punctuation</span><span class="p">))</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">sent</span><span class="p">]</span>
         <span class="n">rge</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="n">idx</span><span class="p">,</span> <span class="n">idx</span><span class="o">+</span><span class="nb">len</span><span class="p">(</span><span class="n">sent</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
-        <span class="n">text</span><span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">sent</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s">&#39;Text&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="n">rge</span><span class="p">)</span>
-        <span class="n">label</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="p">[</span><span class="n">int_conv</span><span class="p">[</span><span class="n">l</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">sent</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s">&#39;Label&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="n">rge</span><span class="p">)</span>
+        <span class="n">text</span><span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">sent</span><span class="p">,</span> <span class="n">name</span><span class="o">=</span><span class="s1">&#39;Text&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="n">rge</span><span class="p">)</span>
+        <span class="n">label</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="p">[</span><span class="n">int_conv</span><span class="p">[</span><span class="n">l</span><span class="p">]</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">sent</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s1">&#39;Label&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="n">rge</span><span class="p">)</span>
         <span class="n">dfs</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">text</span><span class="p">,</span> <span class="n">label</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">))</span>
         <span class="n">idx</span> <span class="o">=</span> <span class="n">idx</span> <span class="o">+</span> <span class="mi">1</span> <span class="o">+</span> <span class="nb">len</span><span class="p">(</span><span class="n">sent</span><span class="p">)</span>
     <span class="k">return</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">x</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">dfs</span><span class="p">],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
@@ -453,10 +462,10 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[539]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">result</span> <span class="o">=</span> <span class="n">transform_df</span><span class="p">(</span><span class="n">languages_l</span><span class="p">,</span> <span class="n">content</span><span class="p">,</span> <span class="n">lang_dict</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">result</span> <span class="o">=</span> <span class="n">transform_df</span><span class="p">(</span><span class="n">languages_l</span><span class="p">,</span> <span class="n">content</span><span class="p">,</span> <span class="n">lang_dict</span><span class="p">)</span>
 <span class="n">result</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </pre></div>
 
@@ -468,7 +477,7 @@ Nederlands
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[539]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[9]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
@@ -529,10 +538,10 @@ Nederlands
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[540]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">result</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">result</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 
 </div>
@@ -543,17 +552,17 @@ Nederlands
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[540]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[10]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
 <pre>7    361
 5    277
 4    218
-2    113
-1    106
+2    112
+1    107
 6     88
-3     68
+3     66
 Name: Label, dtype: int64</pre>
 </div>
 
@@ -600,10 +609,10 @@ Name: Label, dtype: int64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[541]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">count_vectorizer</span> <span class="o">=</span> <span class="n">CountVectorizer</span><span class="p">(</span><span class="n">max_df</span><span class="o">=</span><span class="mf">0.95</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">count_vectorizer</span> <span class="o">=</span> <span class="n">CountVectorizer</span><span class="p">(</span><span class="n">max_df</span><span class="o">=</span><span class="mf">0.95</span><span class="p">)</span>
 <span class="n">tfidf_vectorizer</span> <span class="o">=</span> <span class="n">TfidfVectorizer</span><span class="p">(</span><span class="n">max_df</span><span class="o">=</span><span class="mf">0.95</span><span class="p">)</span>
 </pre></div>
 
@@ -614,12 +623,38 @@ Name: Label, dtype: int64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[542]:</div>
+<div class="prompt input_prompt">In&nbsp;[31]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">tfidf</span> <span class="o">=</span> <span class="n">tfidf_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">result</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
-<span class="n">count</span> <span class="o">=</span> <span class="n">count_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">result</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
-<span class="n">mnb</span> <span class="o">=</span> <span class="n">MultinomialNB</span><span class="p">(</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fit_prior</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">result</span><span class="p">[</span><span class="s1">&#39;Text&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> \
+    <span class="n">result</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> <span class="n">test_size</span> <span class="o">=</span> <span class="o">.</span><span class="mi">25</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[32]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">tfidf</span> <span class="o">=</span> <span class="n">tfidf_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">X_train</span><span class="p">)</span>
+<span class="n">count</span> <span class="o">=</span> <span class="n">count_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">X_train</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">mnb</span> <span class="o">=</span> <span class="n">MultinomialNB</span><span class="p">(</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fit_prior</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
 <span class="n">rf</span> <span class="o">=</span> <span class="n">RandomForestClassifier</span><span class="p">(</span><span class="n">n_estimators</span><span class="o">=</span><span class="mi">100</span><span class="p">,</span> <span class="n">n_jobs</span><span class="o">=-</span><span class="mi">1</span><span class="p">)</span>
 </pre></div>
 
@@ -630,18 +665,20 @@ Name: Label, dtype: int64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[543]:</div>
+<div class="prompt input_prompt">In&nbsp;[34]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="k">def</span> <span class="nf">model_test</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> <span class="n">model</span><span class="p">,</span> <span class="n">t_size</span><span class="p">,</span> <span class="n">data_type</span><span class="p">,</span> <span class="n">model_type</span><span class="p">):</span>
-    <span class="n">X_train</span><span class="p">,</span> <span class="n">X_test</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">y_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">data</span><span class="p">,</span> \
-        <span class="n">result</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">,</span> <span class="n">test_size</span> <span class="o">=</span> <span class="n">t_size</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-    <span class="n">model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
-    <span class="n">cv_score</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s">&#39;accuracy&#39;</span><span class="p">))</span>
-    <span class="n">test_score</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">score</span><span class="p">(</span><span class="n">X_test</span><span class="p">,</span> <span class="n">y_test</span><span class="p">)</span>
-    <span class="k">print</span> <span class="s">&quot;The cross-validation score for the </span><span class="si">%s</span><span class="s"> model, using </span><span class="si">%s</span><span class="s"> data is </span><span class="si">%s</span><span class="s">&quot;</span> \
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">model_test</span><span class="p">(</span><span class="n">x_train</span><span class="p">,</span> <span class="n">model</span><span class="p">,</span> <span class="n">data_type</span><span class="p">,</span> <span class="n">model_type</span><span class="p">):</span>
+    <span class="n">model</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">x_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">)</span>
+    <span class="n">cv_score</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">mean</span><span class="p">(</span><span class="n">cross_val_score</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">x_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">,</span> <span class="n">cv</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">scoring</span><span class="o">=</span><span class="s1">&#39;accuracy&#39;</span><span class="p">))</span>
+    <span class="k">if</span> <span class="n">data_type</span> <span class="o">==</span> <span class="s2">&quot;TFIDF&quot;</span><span class="p">:</span>
+        <span class="n">x_test</span> <span class="o">=</span> <span class="n">tfidf_vectorizer</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">data_type</span> <span class="o">==</span> <span class="s2">&quot;Count Vectorizer&quot;</span><span class="p">:</span>
+        <span class="n">x_test</span> <span class="o">=</span> <span class="n">count_vectorizer</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
+    <span class="n">test_score</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">score</span><span class="p">(</span><span class="n">x_test</span><span class="p">,</span> <span class="n">y_test</span><span class="p">)</span>
+    <span class="k">print</span> <span class="s2">&quot;The cross-validation score for the </span><span class="si">%s</span><span class="s2"> model, using </span><span class="si">%s</span><span class="s2"> data is </span><span class="si">%s</span><span class="s2">&quot;</span> \
         <span class="o">%</span> <span class="p">(</span><span class="n">model_type</span><span class="p">,</span> <span class="n">data_type</span><span class="p">,</span> <span class="n">cv_score</span><span class="p">)</span>
-    <span class="k">print</span> <span class="s">&quot;The test set score for the </span><span class="si">%s</span><span class="s"> model, using </span><span class="si">%s</span><span class="s"> data is </span><span class="si">%s</span><span class="s">&quot;</span> \
+    <span class="k">print</span> <span class="s2">&quot;The test set score for the </span><span class="si">%s</span><span class="s2"> model, using </span><span class="si">%s</span><span class="s2"> data is </span><span class="si">%s</span><span class="s2">&quot;</span> \
         <span class="o">%</span> <span class="p">(</span><span class="n">model_type</span><span class="p">,</span> <span class="n">data_type</span><span class="p">,</span> <span class="n">test_score</span><span class="p">)</span>
 </pre></div>
 
@@ -652,10 +689,10 @@ Name: Label, dtype: int64</pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[544]:</div>
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">model_test</span><span class="p">(</span><span class="n">tfidf</span><span class="p">,</span> <span class="n">mnb</span><span class="p">,</span> <span class="o">.</span><span class="mi">25</span><span class="p">,</span> <span class="s">&quot;TFIDF&quot;</span><span class="p">,</span> <span class="s">&quot;Multinomial NB&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">model_test</span><span class="p">(</span><span class="n">tfidf</span><span class="p">,</span> <span class="n">mnb</span><span class="p">,</span> <span class="s2">&quot;TFIDF&quot;</span><span class="p">,</span> <span class="s2">&quot;Multinomial NB&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -668,8 +705,8 @@ Name: Label, dtype: int64</pre>
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The cross-validation score for the Multinomial NB model, using TFIDF data is 0.989221534899
-The test set score for the Multinomial NB model, using TFIDF data is 0.977272727273
+<pre>The cross-validation score for the Multinomial NB model, using TFIDF data is 0.989147422064
+The test set score for the Multinomial NB model, using TFIDF data is 0.980519480519
 </pre>
 </div>
 </div>
@@ -680,10 +717,10 @@ The test set score for the Multinomial NB model, using TFIDF data is 0.977272727
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[545]:</div>
+<div class="prompt input_prompt">In&nbsp;[37]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">model_test</span><span class="p">(</span><span class="n">count</span><span class="p">,</span> <span class="n">mnb</span><span class="p">,</span> <span class="o">.</span><span class="mi">25</span><span class="p">,</span> <span class="s">&quot;Count Vectorizer&quot;</span><span class="p">,</span> <span class="s">&quot;Multinomial NB&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">model_test</span><span class="p">(</span><span class="n">count</span><span class="p">,</span> <span class="n">mnb</span><span class="p">,</span> <span class="s2">&quot;Count Vectorizer&quot;</span><span class="p">,</span> <span class="s2">&quot;Multinomial NB&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -696,7 +733,7 @@ The test set score for the Multinomial NB model, using TFIDF data is 0.977272727
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The cross-validation score for the Multinomial NB model, using Count Vectorizer data is 0.988134578378
+<pre>The cross-validation score for the Multinomial NB model, using Count Vectorizer data is 0.990246323163
 The test set score for the Multinomial NB model, using Count Vectorizer data is 0.980519480519
 </pre>
 </div>
@@ -708,10 +745,10 @@ The test set score for the Multinomial NB model, using Count Vectorizer data is 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[546]:</div>
+<div class="prompt input_prompt">In&nbsp;[38]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">model_test</span><span class="p">(</span><span class="n">tfidf</span><span class="p">,</span> <span class="n">rf</span><span class="p">,</span> <span class="o">.</span><span class="mi">25</span><span class="p">,</span> <span class="s">&quot;TFIDF&quot;</span><span class="p">,</span> <span class="s">&quot;Random Forest&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">model_test</span><span class="p">(</span><span class="n">tfidf</span><span class="p">,</span> <span class="n">rf</span><span class="p">,</span> <span class="s2">&quot;TFIDF&quot;</span><span class="p">,</span> <span class="s2">&quot;Random Forest&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -724,8 +761,8 @@ The test set score for the Multinomial NB model, using Count Vectorizer data is 
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The cross-validation score for the Random Forest model, using TFIDF data is 0.946887706354
-The test set score for the Random Forest model, using TFIDF data is 0.957792207792
+<pre>The cross-validation score for the Random Forest model, using TFIDF data is 0.953487787054
+The test set score for the Random Forest model, using TFIDF data is 0.954545454545
 </pre>
 </div>
 </div>
@@ -736,10 +773,10 @@ The test set score for the Random Forest model, using TFIDF data is 0.9577922077
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[547]:</div>
+<div class="prompt input_prompt">In&nbsp;[39]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">model_test</span><span class="p">(</span><span class="n">count</span><span class="p">,</span> <span class="n">rf</span><span class="p">,</span> <span class="o">.</span><span class="mi">25</span><span class="p">,</span> <span class="s">&quot;Count Vectorizer&quot;</span><span class="p">,</span> <span class="s">&quot;Random Forest&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">model_test</span><span class="p">(</span><span class="n">count</span><span class="p">,</span> <span class="n">rf</span><span class="p">,</span> <span class="s2">&quot;Count Vectorizer&quot;</span><span class="p">,</span> <span class="s2">&quot;Random Forest&quot;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -752,8 +789,8 @@ The test set score for the Random Forest model, using TFIDF data is 0.9577922077
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The cross-validation score for the Random Forest model, using Count Vectorizer data is 0.943626008017
-The test set score for the Random Forest model, using Count Vectorizer data is 0.941558441558
+<pre>The cross-validation score for the Random Forest model, using Count Vectorizer data is 0.952377263522
+The test set score for the Random Forest model, using Count Vectorizer data is 0.954545454545
 </pre>
 </div>
 </div>
@@ -784,10 +821,12 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[548]:</div>
+<div class="prompt input_prompt">In&nbsp;[47]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">final_model</span> <span class="o">=</span> <span class="n">mnb</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">tfidf</span><span class="p">,</span> <span class="n">result</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">tfidf_fin_vectorizer</span> <span class="o">=</span> <span class="n">TfidfVectorizer</span><span class="p">(</span><span class="n">max_df</span><span class="o">=</span><span class="mf">0.95</span><span class="p">)</span>
+<span class="n">tfidf_final</span> <span class="o">=</span> <span class="n">tfidf_fin_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">result</span><span class="p">[</span><span class="s1">&#39;Text&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
+<span class="n">final_model</span> <span class="o">=</span> <span class="n">mnb</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">tfidf_final</span><span class="p">,</span> <span class="n">result</span><span class="p">[</span><span class="s1">&#39;Label&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">values</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -797,10 +836,10 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[549]:</div>
+<div class="prompt input_prompt">In&nbsp;[48]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">final_model</span><span class="o">.</span><span class="n">classes_</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">final_model</span><span class="o">.</span><span class="n">classes_</span>
 </pre></div>
 
 </div>
@@ -811,7 +850,7 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[549]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[48]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -845,23 +884,23 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[550]:</div>
+<div class="prompt input_prompt">In&nbsp;[49]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">txt1</span> <span class="o">=</span> <span class="s">&quot;A peer review of 42 science articles found in both Encyclopædia Britannica and Wikipedia was published in Nature in 2005, and found that Wikipedia&#39;s level of accuracy approaches Encyclopedia Britannica&#39;s&quot;</span>
-<span class="n">lang1</span> <span class="o">=</span> <span class="s">&quot;English&quot;</span>
-<span class="n">txt2</span> <span class="o">=</span> <span class="s">&quot;A pesar de que el bajo imperio se extendía por las tierras de la periferia del Mediterráneo, en la historia militar de Roma las batallas navales fueron, por lo general, menos significativas que las batallas terrestres, debido a su dominio casi incuestionable del mar tras las feroces luchas navales de la Primera Guerra Púnica.&quot;</span>
-<span class="n">lang2</span> <span class="o">=</span> <span class="s">&quot;Spanish&quot;</span>
-<span class="n">txt3</span> <span class="o">=</span> <span class="s">&quot;Dal 1951 al 1956 con la compagine biancorossa vinse numerosi trofei e disputò la finale di Coppa dei Campioni contro il Real Madrid nell&#39;edizione 1955-1956; qualche settimana dopo si trasferì proprio alla squadra spagnola. Giocò tre stagioni a Madrid in cui vinse tre volte la Coppa dei Campioni, due volte il campionato nazionale e una Coppa Latina.&quot;</span>
-<span class="n">lang3</span> <span class="o">=</span> <span class="s">&quot;Italian&quot;</span>
-<span class="n">txt4</span> <span class="o">=</span> <span class="s">&quot;Son règne est marqué par une double fidélité : à l&#39;Empire, dont il tire sa légitimité en tant que vicaire impérial ; au parti gibelin, dont il devient le chef incontesté dans le nord de l&#39;Italie.&quot;</span>
-<span class="n">lang4</span> <span class="o">=</span> <span class="s">&quot;French&quot;</span>
-<span class="n">txt5</span> <span class="o">=</span> <span class="s">&quot;Den ihr allgemein gegebenen Namen der „großen Gräfin“ verdankt sie ebenso ihrer Macht wie ihren glänzenden Geistesgaben und ihrer hohen Bildung.&quot;</span>
-<span class="n">lang5</span> <span class="o">=</span> <span class="s">&quot;German&quot;</span>
-<span class="n">txt6</span> <span class="o">=</span> <span class="s">&quot;Ao final da Guerra de Sucessão Espanhola com o Tratado de Utrecht em 1713, o duque de Savoia readquiriu suas possessões originais e recebeu o título de Rei da Sicília.&quot;</span>
-<span class="n">lang6</span> <span class="o">=</span> <span class="s">&quot;Portuguese&quot;</span>
-<span class="n">txt7</span> <span class="o">=</span> <span class="s">&quot;Sinds de nieuwe tijd, toen de Europeanen met de verkenning en onderwerping van de rest van de wereld begonnen werd de westerse cultuur de dominante cultuur van de wereld.&quot;</span>
-<span class="n">lang7</span> <span class="o">=</span> <span class="s">&quot;Danish&quot;</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">txt1</span> <span class="o">=</span> <span class="s2">&quot;A peer review of 42 science articles found in both Encyclopædia Britannica and Wikipedia was published in Nature in 2005, and found that Wikipedia&#39;s level of accuracy approaches Encyclopedia Britannica&#39;s&quot;</span>
+<span class="n">lang1</span> <span class="o">=</span> <span class="s2">&quot;English&quot;</span>
+<span class="n">txt2</span> <span class="o">=</span> <span class="s2">&quot;A pesar de que el bajo imperio se extendía por las tierras de la periferia del Mediterráneo, en la historia militar de Roma las batallas navales fueron, por lo general, menos significativas que las batallas terrestres, debido a su dominio casi incuestionable del mar tras las feroces luchas navales de la Primera Guerra Púnica.&quot;</span>
+<span class="n">lang2</span> <span class="o">=</span> <span class="s2">&quot;Spanish&quot;</span>
+<span class="n">txt3</span> <span class="o">=</span> <span class="s2">&quot;Dal 1951 al 1956 con la compagine biancorossa vinse numerosi trofei e disputò la finale di Coppa dei Campioni contro il Real Madrid nell&#39;edizione 1955-1956; qualche settimana dopo si trasferì proprio alla squadra spagnola. Giocò tre stagioni a Madrid in cui vinse tre volte la Coppa dei Campioni, due volte il campionato nazionale e una Coppa Latina.&quot;</span>
+<span class="n">lang3</span> <span class="o">=</span> <span class="s2">&quot;Italian&quot;</span>
+<span class="n">txt4</span> <span class="o">=</span> <span class="s2">&quot;Son règne est marqué par une double fidélité : à l&#39;Empire, dont il tire sa légitimité en tant que vicaire impérial ; au parti gibelin, dont il devient le chef incontesté dans le nord de l&#39;Italie.&quot;</span>
+<span class="n">lang4</span> <span class="o">=</span> <span class="s2">&quot;French&quot;</span>
+<span class="n">txt5</span> <span class="o">=</span> <span class="s2">&quot;Den ihr allgemein gegebenen Namen der „großen Gräfin“ verdankt sie ebenso ihrer Macht wie ihren glänzenden Geistesgaben und ihrer hohen Bildung.&quot;</span>
+<span class="n">lang5</span> <span class="o">=</span> <span class="s2">&quot;German&quot;</span>
+<span class="n">txt6</span> <span class="o">=</span> <span class="s2">&quot;Ao final da Guerra de Sucessão Espanhola com o Tratado de Utrecht em 1713, o duque de Savoia readquiriu suas possessões originais e recebeu o título de Rei da Sicília.&quot;</span>
+<span class="n">lang6</span> <span class="o">=</span> <span class="s2">&quot;Portuguese&quot;</span>
+<span class="n">txt7</span> <span class="o">=</span> <span class="s2">&quot;Sinds de nieuwe tijd, toen de Europeanen met de verkenning en onderwerping van de rest van de wereld begonnen werd de westerse cultuur de dominante cultuur van de wereld.&quot;</span>
+<span class="n">lang7</span> <span class="o">=</span> <span class="s2">&quot;Danish&quot;</span>
 </pre></div>
 
 </div>
@@ -871,16 +910,16 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[551]:</div>
+<div class="prompt input_prompt">In&nbsp;[50]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">test_txt</span> <span class="o">=</span> <span class="p">[</span><span class="n">txt1</span><span class="p">,</span> <span class="n">txt2</span><span class="p">,</span> <span class="n">txt3</span><span class="p">,</span> <span class="n">txt4</span><span class="p">,</span> <span class="n">txt5</span><span class="p">,</span> <span class="n">txt6</span><span class="p">,</span> <span class="n">txt7</span><span class="p">]</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">test_txt</span> <span class="o">=</span> <span class="p">[</span><span class="n">txt1</span><span class="p">,</span> <span class="n">txt2</span><span class="p">,</span> <span class="n">txt3</span><span class="p">,</span> <span class="n">txt4</span><span class="p">,</span> <span class="n">txt5</span><span class="p">,</span> <span class="n">txt6</span><span class="p">,</span> <span class="n">txt7</span><span class="p">]</span>
 <span class="n">test_lang</span> <span class="o">=</span> <span class="p">[</span><span class="n">lang1</span><span class="p">,</span> <span class="n">lang2</span><span class="p">,</span> <span class="n">lang3</span><span class="p">,</span> <span class="n">lang4</span><span class="p">,</span> <span class="n">lang5</span><span class="p">,</span> <span class="n">lang6</span><span class="p">,</span> <span class="n">lang7</span><span class="p">]</span>
 <span class="n">test_txt_cln</span> <span class="o">=</span> <span class="p">[]</span>
 <span class="k">for</span> <span class="n">txt</span> <span class="ow">in</span> <span class="n">test_txt</span><span class="p">:</span>
-    <span class="n">source</span> <span class="o">=</span> <span class="nb">unicode</span><span class="p">(</span><span class="n">txt</span><span class="p">,</span> <span class="s">&#39;utf-8&#39;</span><span class="p">)</span>
-    <span class="n">sent</span> <span class="o">=</span> <span class="n">unicodedata</span><span class="o">.</span><span class="n">normalize</span><span class="p">(</span><span class="s">&#39;NFKC&#39;</span><span class="p">,</span> <span class="n">source</span><span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s">&#39;ascii&#39;</span><span class="p">,</span> <span class="s">&#39;ignore&#39;</span><span class="p">)</span>
-    <span class="n">sent</span> <span class="o">=</span> <span class="n">sent</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="n">string</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s">&quot;&quot;</span><span class="p">,</span><span class="s">&quot;&quot;</span><span class="p">),</span> <span class="n">string</span><span class="o">.</span><span class="n">punctuation</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+    <span class="n">source</span> <span class="o">=</span> <span class="nb">unicode</span><span class="p">(</span><span class="n">txt</span><span class="p">,</span> <span class="s1">&#39;utf-8&#39;</span><span class="p">)</span>
+    <span class="n">sent</span> <span class="o">=</span> <span class="n">unicodedata</span><span class="o">.</span><span class="n">normalize</span><span class="p">(</span><span class="s1">&#39;NFKC&#39;</span><span class="p">,</span> <span class="n">source</span><span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">&#39;ascii&#39;</span><span class="p">,</span> <span class="s1">&#39;ignore&#39;</span><span class="p">)</span>
+    <span class="n">sent</span> <span class="o">=</span> <span class="n">sent</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="n">string</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">,</span><span class="s2">&quot;&quot;</span><span class="p">),</span> <span class="n">string</span><span class="o">.</span><span class="n">punctuation</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
     <span class="n">test_txt_cln</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">txt</span><span class="p">)</span>
 </pre></div>
 
@@ -891,10 +930,10 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[552]:</div>
+<div class="prompt input_prompt">In&nbsp;[51]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">test_txt_cln</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">test_txt_cln</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">test_txt_cln</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">test_txt_cln</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -914,10 +953,10 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[553]:</div>
+<div class="prompt input_prompt">In&nbsp;[52]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">X_test</span> <span class="o">=</span> <span class="n">tfidf_vectorizer</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">test_txt_cln</span><span class="p">)</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">X_test</span> <span class="o">=</span> <span class="n">tfidf_fin_vectorizer</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">test_txt_cln</span><span class="p">)</span>
 <span class="n">pred</span> <span class="o">=</span> <span class="n">final_model</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">X_test</span><span class="p">)</span>
 </pre></div>
 
@@ -928,17 +967,16 @@ The test set score for the Random Forest model, using Count Vectorizer data is 0
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[554]:</div>
+<div class="prompt input_prompt">In&nbsp;[53]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython2"><pre><span class="n">pred_l</span> <span class="o">=</span> <span class="p">[]</span>
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">pred_l</span> <span class="o">=</span> <span class="p">[]</span>
 <span class="k">for</span> <span class="n">val</span> <span class="ow">in</span> <span class="n">pred</span><span class="p">:</span>
     <span class="n">pred_l</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">rev_dict</span><span class="p">[</span><span class="n">val</span><span class="p">])</span>
-
 <span class="k">for</span> <span class="n">val</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">pred_l</span><span class="p">,</span> <span class="n">test_lang</span><span class="p">):</span>
-    <span class="k">print</span> <span class="s">&quot;Prediction: </span><span class="si">%s</span><span class="s">&quot;</span> <span class="o">%</span> <span class="n">val</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
-    <span class="k">print</span> <span class="s">&quot;Actual: </span><span class="si">%s</span><span class="s">&quot;</span> <span class="o">%</span> <span class="n">val</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
-    <span class="k">print</span> <span class="s">&quot;_____&quot;</span>
+    <span class="k">print</span> <span class="s2">&quot;Prediction: </span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="n">val</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    <span class="k">print</span> <span class="s2">&quot;Actual: </span><span class="si">%s</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="n">val</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+    <span class="k">print</span> <span class="s2">&quot;_____&quot;</span>
 </pre></div>
 
 </div>
