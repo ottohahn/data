@@ -1,0 +1,3 @@
+[submodule "gender_model/genderPredictor"]
+	path = gender_model/genderPredictor
+	url = https://github.com/sholiday/genderPredictor.git

@@ -1,6 +1,7 @@
 # File types
 *.pyc
 *.py[cod]
+.ipynb_checkpoints
 
 # C extensions
 *.so
@@ -39,3 +40,4 @@ nosetests.xml
 # API Key (This is secret so it should not go in the git repo!!!)
 alchemy_api_key.txt
 klangoo_api_key.txt
+genderize_api_key.txt
