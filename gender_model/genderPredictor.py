@@ -3,10 +3,10 @@
 """
 genderPredictor.py
 """
-
 from nltk import NaiveBayesClassifier, classify
 import USSSALoader
 import random
+import pickle
 
 class genderPredictor():
 
@@ -31,7 +31,7 @@ class genderPredictor():
 
         return featureset
 
-    def trainAndTest(self,trainingPercent=0.80):
+    def trainAndTest(self, trainingPercent=0.80):
         featureset = self.getFeatures()
         random.shuffle(featureset)
 
@@ -46,22 +46,31 @@ class genderPredictor():
 
         return self.test(test_set)
 
-    def classify(self,name):
+    def classify(self, name):
         feats=self._nameFeatures(name)
         return self.classifier.classify(feats)
 
-    def prob_classify(self,name):
+    def prob_classify(self, name):
         feats=self._nameFeatures(name)
         m_prob = self.classifier.prob_classify(feats).prob('M')
         f_prob = self.classifier.prob_classify(feats).prob('F')
         return (m_prob, f_prob)
 
-    def train(self,train_set):
+    def train(self, train_set):
         self.classifier = NaiveBayesClassifier.train(train_set)
         return self.classifier
 
-    def test(self,test_set):
+    def test(self, test_set):
         return classify.accuracy(self.classifier, test_set)
+
+    def dump_pickle(self, name):
+        try:
+            self.classifier
+            f = open(name + '.pickle', 'wb')
+            pickle.dump(self, f)
+            f.close()
+        except AttributeError:
+            print "Oops! Looks like a classifier hasn't been trained yet."
 
     def _getProbDistr(self, nameTuple):
             male_prob = (nameTuple[1] * 1.0) / (nameTuple[1] + nameTuple[2])
@@ -91,7 +100,7 @@ class genderPredictor():
 
 if __name__ == "__main__":
     gp = genderPredictor()
-    accuracy=gp.trainAndTest()
+    accuracy = gp.trainAndTest()
     print 'Accuracy: %f'%accuracy
     print 'Most Informative Features'
     feats=gp.getMostInformativeFeatures(10)

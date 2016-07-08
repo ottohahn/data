@@ -1,14 +1,24 @@
-# genderPredictor #
-GenderPredictor is a wrapper around [NLTK](http://www.nltk.org/)'s [Naive Bayes](http://en.wikipedia.org/wiki/Naive_Bayes_classifier) classifier for predicting the gender given a name.
+# Gender Model
 
-This problem is common when dealing with incomplete contact information for users.
+## Getting Started
 
-Currently it appears to be about 82% accurate on American names but this is just the framework.
-The name files are from the [US Social Security Administration](http://www.ssa.gov/oact/babynames/limits.html) and are likely in the public domain. The processed files are distributed under the same rules as the original data (which is likely public domain...).
+Our gender prediction model for Atipica uses [Genderize.io] to provide probabilities for whether or not a first name is likely to be male or female. While Genderize.io works pretty well for the most part (~89% accuracy), it doesn't perform as well on female names as it does male names, and if it hasn't seen a name before, it outputs the values as **None**.
 
-The code is under the [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
+[Genderize.io]: https://genderize.io/
 
-Comments and suggestions are welcome at [stephen.holiday@gmail.com](mailto:stephen.holiday@gmail.com),
+I found another model that uses a naive bayes implementation and featurizes words based on the following characteristics:
+* last 3 letters
+* last 2 letters
+* last letter
+* is the last letter a vowel
 
-Stephen Holiday
-[stephenholiday.com](http://stephenholiday.com)
+The original code for the naive bayes implementation is included in the **genderPredictor** submodule above. Please view the python notebook (.ipynb) for an analysis of both models and how a combination of the two can achieve higher accuracy than either model on its own.
+
+I pickled the pre-trained naive bayes classifier instance so it can be called up more easily and used to make quick predictions (naive_bayes_classifier.pickle). To run it from bash, please see below commands:
+
+```
+python run_pretrained_model.py Amelia
+python run_pretrained_model.py Vineet
+```
+
+The output will print the name, followed by (probability male, probability female).
