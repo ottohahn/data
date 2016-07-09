@@ -6,15 +6,15 @@ Our gender prediction model for Atipica uses [Genderize.io] to provide probabili
 
 [Genderize.io]: https://genderize.io/
 
-To supplement the Genderize.io model, I found another model that uses a naive bayes implementation and featurizes words based on the following characteristics:
+To supplement the Genderize.io model, I found another model that uses a Naive Bayes implementation and featurizes words based on the following characteristics:
 * last 3 letters
 * last 2 letters
 * last letter
 * is the last letter a vowel
 
-The original code for the naive bayes implementation is included in the **genderPredictor** submodule above. Please view the python notebook (gender_model_test.ipynb) for an analysis of both models and how a combination of the two can achieve higher accuracy than either model on its own. I found that the 2 models performed the best together when the probability of certainty from Genderize.io was less than or equal to **0.60**.
+The original code for the Naive Bayes implementation is included in the **genderPredictor** submodule above. Please view the python notebook (gender_model_test.ipynb) for an analysis of both models and how a combination of the two can achieve higher accuracy than either model on its own. I found that the best performance occurred when replacing the Genderize.io model for Naive Bayes when the Genderize confidence was less than or equal to **0.60**.
 
-I pickled the pre-trained naive bayes classifier instance so it can be called easily from shell/bash and used to make quick predictions (naive_bayes_classifier.pickle). To run it from bash, please see below commands:
+I pickled the pre-trained Naive Bayes classifier instance so it can be called easily from shell/bash and used to make quick predictions (naive_bayes_classifier.pickle). To run it from bash, please see below commands:
 
 ```
 python run_pretrained_model.py Amelia
