@@ -40,7 +40,7 @@ class genderPredictor():
         cut_point=int(name_count*trainingPercent)
 
         train_set = featureset[:cut_point]
-        test_set  = featureset[cut_point:]
+        test_set = featureset[cut_point:]
 
         self.train(train_set)
 
@@ -50,11 +50,21 @@ class genderPredictor():
         feats=self._nameFeatures(name)
         return self.classifier.classify(feats)
 
+    def classify_many(self, list_names):
+        featsets = [self._nameFeatures(name) for name in list_names]
+        return [self.classifier.classify(fs) for fs in featsets]
+
     def prob_classify(self, name):
         feats=self._nameFeatures(name)
         m_prob = self.classifier.prob_classify(feats).prob('M')
         f_prob = self.classifier.prob_classify(feats).prob('F')
         return (m_prob, f_prob)
+
+    def prob_classify_many(self, list_names):
+        featsets = [self._nameFeatures(name) for name in list_names]
+        m_prob = [self.classifier.prob_classify(fs).prob('M') for fs in featsets]
+        f_prob = [self.classifier.prob_classify(fs).prob('F') for fs in featsets]
+        return zip(m_prob, f_prob)
 
     def train(self, train_set):
         self.classifier = NaiveBayesClassifier.train(train_set)
