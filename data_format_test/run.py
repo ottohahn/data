@@ -41,7 +41,8 @@ def transform_df(languages, content, int_conv):
 def model_test(x_train, model, data_type, model_type):
     """Test model cross-validation and test set scores."""
     model.fit(x_train, y_train)
-    cv_score = np.mean(cross_val_score(model, x_train, y_train, cv=5, scoring='accuracy'))
+    cv_score = np.mean(cross_val_score(model, x_train, y_train,
+                                       cv=5, scoring='accuracy'))
     if data_type == "TFIDF":
         x_test = tfidf_vectorizer.transform(X_test)
     if data_type == "Count Vectorizer":
@@ -82,8 +83,7 @@ if __name__ == '__main__':
 
     count_vectorizer = CountVectorizer(max_df=0.95)
     tfidf_vectorizer = TfidfVectorizer(max_df=0.95)
-    X_train, X_test, y_train, y_test = train_test_split(result['Text'].values, \
-        result['Label'].values, test_size = .25, random_state=8)
+    X_train, X_test, y_train, y_test = train_test_split(result['Text'].values, result['Label'].values, test_size = .25, random_state=8)
     tfidf = tfidf_vectorizer.fit_transform(X_train)
     count = count_vectorizer.fit_transform(X_train)
     mnb = MultinomialNB(alpha=0.1, fit_prior=False)

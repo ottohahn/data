@@ -1,5 +1,0 @@
-atipica_production
-atuser
-s2s-bkr-YZS-zPe
-atinstance.cqac0hx9wxlt.us-west-2.rds.amazonaws.com
-5432

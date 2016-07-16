@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# encoding: utf-8
+"""
+alchemyapi.py
+"""
 
 #   Copyright 2013 AlchemyAPI
 #
