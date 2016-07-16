@@ -12,12 +12,9 @@ if __name__ == '__main__':
     conn = psycopg2.connect(database=dct['database'], user=dct['user'],
                             password=dct['password'], host=dct['host'],
                             port=dct['port'])
-    # c = conn.cursor()
     query = """
     SELECT
         a.id,
-        -- a.first_name,
-        -- a.last_name,
         a.roles,
         at.trend_id,
         t.name,
@@ -48,7 +45,6 @@ if __name__ == '__main__':
     AND ARRAY['engineer', 'engineering'] @> a.roles
     ;
     """
-    # c.execute(query)
-    # output = c.fetchall()
+
     df = pd.read_sql_query(query, conn)
     df.to_csv(path_or_buf='data/skill_cluster_df.csv')
