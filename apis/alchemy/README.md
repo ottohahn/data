@@ -1,12 +1,11 @@
-# APIs
+# Alchemy API
 
 <!-- [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
 [2]: https://circleci.com/gh/atipica/analytics -->
 
 ## Getting Started
 
-Use these scripts to run the Alchemy and Klangoo APIs from python. The file **combined_query.py** is an executable that will run word documents located in the **/data** folder and return text files containing keywords found by using Alchemy and Klangoo.
-
+Use these scripts to run the Alchemy API from python. The file **alchemy_query.py** is an executable that will parse specified urls and return text files containing keywords found by using Alchemy.
 
 <!--     % ./bin/setup
 

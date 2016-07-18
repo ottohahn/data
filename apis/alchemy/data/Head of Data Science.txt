@@ -1,0 +1,14 @@
+Head of Data Science
+Thumbtack, 0.931838, City
+Thumbtack, 0.368651, Company
+Head of Data Science, 0.209577, JobTitle
+computer science, 0.20085, FieldTerminology
+San Francisco, 0.184166, City
+U.S., 0.13826, Country
+Hadoop, 0.132861, Company
+Sequoia Capital, 0.120531, Company
+Baillie Gifford, 0.113243, Company
+Google, 0.108788, Company
+Javelin Investment Partners, 0.0994111, Company
+Tiger Global Management, 0.0959566, Company
+$275 million, 0.0959566, Quantity

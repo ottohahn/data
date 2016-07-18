@@ -1,0 +1,15 @@
+iOS Engineer
+Thumbtack, 0.888865, City
+Thumbtack, 0.430898, Company
+App Store, 0.218085, FieldTerminology
+San Francisco, 0.202886, City
+iOS, 0.196034, Technology
+iPhone, 0.191451, Technology
+engineer, 0.182001, JobTitle
+Sequoia Capital, 0.167999, Company
+Baillie Gifford, 0.161276, Company
+Javelin Investment Partners, 0.149613, Company
+Google, 0.14764, Company
+Tiger Global Management, 0.131944, Company
+$275 million, 0.131944, Quantity
+#LI, 0.131944, Hashtag

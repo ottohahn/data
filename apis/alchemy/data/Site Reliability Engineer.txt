@@ -1,0 +1,18 @@
+Site Reliability Engineer
+Thumbtack, 0.769701, Person
+Thumbtack, 0.493231, City
+Thumbtack, 0.476036, Company
+configuration management, 0.35949, FieldTerminology
+San Francisco, 0.286814, City
+network protocols, 0.257397, FieldTerminology
+data structures, 0.250694, FieldTerminology
+UDP, 0.246671, Technology
+load balancing, 0.240472, FieldTerminology
+Sequoia Capital, 0.233551, Company
+Web Services, 0.232044, FieldTerminology
+Baillie Gifford, 0.221755, Company
+Google, 0.210532, Company
+Javelin Investment Partners, 0.196338, Company
+Tiger Global Management, 0.193686, Company
+$275 million, 0.193686, Quantity
+#LI, 0.193686, Hashtag

@@ -1,0 +1,16 @@
+Software Engineer
+Thumbtack, 0.881782, City
+Thumbtack, 0.868781, Person
+Software Engineer, 0.396303, JobTitle
+San Francisco, 0.384372, City
+Scala, 0.37214, Company
+programming language, 0.346598, FieldTerminology
+Elastic Beanstalk, 0.328398, Company
+AWS, 0.323887, Company
+Sequoia Capital, 0.306172, Company
+Baillie Gifford, 0.29277, Company
+Google, 0.275299, Company
+Javelin Investment Partners, 0.260479, Company
+Tiger Global Management, 0.24526, Company
+$275 million, 0.24526, Quantity
+#LI, 0.24526, Hashtag
