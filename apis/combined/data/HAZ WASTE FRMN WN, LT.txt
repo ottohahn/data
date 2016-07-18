@@ -1,0 +1,26 @@
+HAZ WASTE FRMN WN, LT
+Alchemy API
+Hazardous Materials, 0.823352, Company
+SMUD, 0.748351, Company
+crew of Hazardous Waste Technicians, 0.706076, JobTitle
+Hazardous Waste Technician, 0.640937, JobTitle
+California, 0.372493, StateOrCounty
+supervisor, 0.33245, JobTitle
+Environmental and Distribution Services, 0.320178, JobTitle
+U.S. Department of Transportation, 0.307412, Organization
+SACRAMENTO, 0.300017, StateOrCounty
+Asbestos Supervisor, 0.279748, JobTitle
+Industrial Forklift Operator, 0.275555, JobTitle
+Technician, 0.275547, JobTitle
+California Health, 0.268094, Organization
+Emergency Contact, 0.262931, JobTitle
+60 pounds, 0.262931, Quantity
+two years, 0.262931, Quantity
+24 hours, 0.262931, Quantity
+Klangoo API
+California, 0.6, Locations & natural formations
+waste management, 0.6, Companies
+Distribution Services, 0.6, Companies
+Department of Transportation, 0.6, Political group
+U.S., 0.6, Countries
+SACRAMENTO, 0.45, Locations & natural formations

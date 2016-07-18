@@ -1,0 +1,12 @@
+MAINT PLANNER SUBS
+Alchemy API
+SMUD, 0.96729, Company
+SMUD management, 0.925021, Company
+Sacramento Municipal Utility District, 0.753782, Organization
+personal computer, 0.621081, FieldTerminology
+Johnson & Associates, 0.612243, Company
+software packages, 0.596219, FieldTerminology
+7 years, 0.596219, Quantity
+Klangoo API
+Sacramento Municipal Utility district, 0.6, Locations & natural formations
+California, 0.6, Locations & natural formations

@@ -1,0 +1,22 @@
+MGR,ACCOUNT MGMT & SALES
+Alchemy API
+SMUD, 0.920987, Company
+SMUD, 0.636342, Degree
+SMUD, 0.498463, Organization
+SMUD electric, 0.481455, Company
+Account Management & Sales SACRAMENTO MUNICIPAL UTILITY, 0.363456, JobTitle
+Account Management & Sales, 0.315207, JobTitle
+executive, 0.300422, JobTitle
+department Manager, 0.296683, JobTitle
+energy efficiency, 0.286068, FieldTerminology
+retail sales, 0.276901, FieldTerminology
+personal computer, 0.254851, FieldTerminology
+fiscal year, 0.24677, FieldTerminology
+transmission systems, 0.244934, FieldTerminology
+Health and Environmental Services, 0.241106, JobTitle
+Board of Directors, 0.223132, Organization
+5 years, 0.223132, Quantity
+Klangoo API
+Account Management, 0.6, Companies
+SACRAMENTO, 0.6, Locations & natural formations
+Environmental Services, 0.6, Companies

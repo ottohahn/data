@@ -1,0 +1,26 @@
+PRIN TRNSMSN PLNG ENGR
+Alchemy API
+SMUD, 0.913779, Organization
+SMUD Board, 0.341763, Organization
+technical support, 0.225852, JobTitle
+consultant, 0.210553, JobTitle
+transmission systems, 0.200768, FieldTerminology
+Professional Electrical Engineer, 0.175533, JobTitle
+United States, 0.171162, Country
+California, 0.170741, StateOrCounty
+PRINCIPAL, 0.16389, JobTitle
+CPUC, 0.160245, Organization
+Johnson & Associates, 0.159749, Company
+ENGINEER, 0.159717, JobTitle
+Energy Operations, 0.157288, Organization
+Electric System Design, 0.154707, Company
+personal computer, 0.147783, FieldTerminology
+10 years, 0.147783, Quantity
+Klangoo API
+SMUD Board, 0.85, Associations & groups
+Sacramento Municipal Utility district, 0.85, Locations & natural formations
+Western United States, 0.45, Locations & natural formations
+SMUD departments, 0.45, Companies
+AC / DC, 0.45, People
+Energy Operations departments, 0.45, Companies
+California, 0.45, Locations & natural formations

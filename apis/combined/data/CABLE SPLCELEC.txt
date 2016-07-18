@@ -1,0 +1,14 @@
+CABLE SPLCELEC
+Alchemy API
+Underground Secondary Network, 0.951221, Organization
+Advanced Apprentice, 0.921707, JobTitle
+SACRAMENTO, 0.725907, City
+IBEW, 0.713692, Organization
+circuit breakers, 0.638113, FieldTerminology
+distribution system, 0.627028, FieldTerminology
+transmission systems, 0.616988, FieldTerminology
+80 pounds, 0.616988, Quantity
+36-month, 0.616988, Quantity
+54-month, 0.616988, Quantity
+Klangoo API
+SACRAMENTO, 0.45, Locations & natural formations

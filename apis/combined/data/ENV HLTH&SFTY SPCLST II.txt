@@ -1,0 +1,16 @@
+ENV HLTH&SFTY SPCLST II
+Alchemy API
+SMUD, 0.898351, Organization
+Occupational Health, 0.642471, Degree
+SMUD, 0.545326, Company
+Environmental Assessor Certification and Hazardous Materials Management Certificate, 0.523263, JobTitle
+personal computer, 0.349225, FieldTerminology
+SDP, 0.347983, Organization
+Johnson & Associates, 0.336249, Company
+risk management, 0.32644, FieldTerminology
+4.7.2.2, 0.32644, IPAddress
+5 years, 0.32644, Quantity
+Klangoo API
+Sacramento Municipal Utility district, 0.85, Locations & natural formations
+Waste Management, 0.6, Companies
+California, 0.6, Locations & natural formations
