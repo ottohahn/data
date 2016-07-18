@@ -5,7 +5,8 @@
 
 ## Getting Started
 
-Use these scripts to run the Alchemy and Klangoo APIs from python. The file **combined_query.py** is an executable that will parse word documents located in the **/data** folder and return text files containing keywords found by using Alchemy and Klangoo.
+Use these scripts to run the Alchemy and Klangoo APIs from python. The file **combined_query.py** is an executable that will run word documents located in the **/data** folder and return text files containing keywords found by using Alchemy and Klangoo.
+
 
 <!--     % ./bin/setup
 

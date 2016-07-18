@@ -37,7 +37,8 @@ nosetests.xml
 .project
 .pydevproject
 
-# API Key (This is secret so it should not go in the git repo!!!)
+# API Keys (This is secret so it should not go in the git repo!!!)
 alchemy_api_key.txt
 klangoo_api_key.txt
 genderize_api_key.txt
+postgres.txt
