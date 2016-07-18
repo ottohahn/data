@@ -1,0 +1,13 @@
+Front End Engineer
+Thumbtack, 0.779145, City
+Rube Goldberg, 0.256902, Person
+San Francisco, 0.235784, City
+engineer, 0.224304, JobTitle
+Sequoia Capital, 0.194633, Company
+Baillie Gifford, 0.185647, Company
+Google, 0.173604, Company
+Javelin Investment Partners, 0.163985, Company
+Tiger Global Management, 0.153774, Company
+$275 million, 0.153774, Quantity
+five years, 0.153774, Quantity
+#LI, 0.153774, Hashtag

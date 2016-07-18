@@ -1,0 +1,16 @@
+Data Scientist
+Thumbtack, 0.930496, City
+Thumbtack, 0.812295, Person
+Thumbtack, 0.56927, Company
+computer science, 0.483187, FieldTerminology
+San Francisco, 0.28596, City
+scripting language, 0.268749, FieldTerminology
+U.S., 0.268018, Country
+productArchitect, 0.252871, JobTitle
+Sequoia Capital, 0.233573, Company
+Baillie Gifford, 0.221537, Company
+Google, 0.21096, Company
+Javelin Investment Partners, 0.19625, Company
+Tiger Global Management, 0.185765, Company
+$275 million, 0.185765, Quantity
+#LI, 0.185765, Hashtag

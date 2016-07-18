@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+# encoding: utf-8
+"""
+combined_query.py
+"""
 import time
 import re
 from docx2txt import process
