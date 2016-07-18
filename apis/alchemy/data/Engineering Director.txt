@@ -1,0 +1,11 @@
+Engineering Director
+Thumbtack, 0.901186, City
+engineering director, 0.198974, JobTitle
+San Francisco, 0.187544, City
+Sequoia Capital, 0.154618, Company
+Baillie Gifford, 0.150368, Company
+product development, 0.143545, JobTitle
+Google, 0.133143, Company
+Javelin Investment Partners, 0.132904, Company
+Tiger Global Management, 0.12159, Company
+$275 million, 0.12159, Quantity

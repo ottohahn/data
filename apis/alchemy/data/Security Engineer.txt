@@ -1,0 +1,15 @@
+Security Engineer
+Thumbtack, 0.91195, Person
+Thumbtack, 0.608579, City
+San Francisco, 0.424343, City
+Bobby Tables, 0.273116, Person
+Philippines, 0.266041, Country
+Linux, 0.260145, OperatingSystem
+Sequoia Capital, 0.240997, Company
+Baillie Gifford, 0.231055, Company
+Salt Lake City, 0.223406, City
+Google, 0.214227, Company
+Javelin Investment Partners, 0.204727, Company
+Tiger Global Management, 0.191335, Company
+$275 million, 0.191335, Quantity
+#LI, 0.191335, Hashtag

@@ -1,3 +1,7 @@
+# encoding: utf-8
+"""
+klangooapi.py
+"""
 import requests
 
 

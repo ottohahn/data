@@ -1,0 +1,11 @@
+Android Engineer
+Thumbtack, 0.828617, Person
+Android, 0.341118, OperatingSystem
+San Francisco, 0.312476, City
+Sequoia Capital, 0.209989, Company
+Baillie Gifford, 0.204032, Company
+Javelin Investment Partners, 0.191891, Company
+Google, 0.182829, Company
+Tiger Global Management, 0.166603, Company
+$275 million, 0.166603, Quantity
+#LI, 0.166603, Hashtag

@@ -1,0 +1,19 @@
+Director of IT
+Thumbtack, 0.923005, Person
+Thumbtack, 0.723074, City
+customer support, 0.381385, FieldTerminology
+San Francisco, 0.361297, City
+Google, 0.357668, Company
+partner, 0.355529, JobTitle
+New Relic, 0.32771, Company
+end user, 0.325449, FieldTerminology
+Director, 0.324205, JobTitle
+high availability, 0.321412, FieldTerminology
+Sequoia Capital, 0.310468, Company
+OS X, 0.302331, OperatingSystem
+Okta, 0.300344, Company
+Baillie Gifford, 0.294968, Company
+Windows, 0.274438, OperatingSystem
+Tiger Global Management, 0.271401, Company
+Javelin Investment Partners, 0.263836, Company
+$275 million, 0.263836, Quantity
