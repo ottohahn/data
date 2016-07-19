@@ -1,0 +1,18 @@
+Here at Thumbtack, we’re building the easiest way for people to hire local professionals for projects big and small. From house painting to personal training and everything in between, we match customers to the right pros for all of life’s projects.
+
+We’re looking for an engineering director to lead core product development at Thumbtack. Thumbtack’s engineering team continues to grow quickly and we’re looking to hire an outstanding engineering leader to run core parts of our product, scale our engineering team, and help drive our technical direction.
+
+Requirements
+
+Experience in a senior engineering management role.
+8-10+ years experience building software at scale.
+Strong leadership, communication, and organizational skills.
+Passion for leading teams, setting vision, and developing highly functioning organizations.
+Deep understanding of how to build scalable distributed systems.
+Passionate about technology and not afraid to write code.
+Experience working on a consumer product or startup a plus.
+About You
+
+You have a passion for building software and successful engineering teams. You like to get things done by shipping well-crafted software. You have strong interpersonal skills and a strong technical base to help your team make great technical decisions.
+
+We expect you to be excited by Thumbtack's mission to transform the local services economy with technology, our marketplace more efficient and optimized for consumers and professionals.  We deeply believe in the transformative power of technology in the services industry.
