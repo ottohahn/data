@@ -1,6 +1,6 @@
-# Atipica Data
+# Data Format for Ingestion
 
-Placeholder
+This sub-directory was created to test various file output formats for modeling data. The **run.py** script simulates a text classification exercise and outputs the data into various formats in the **data/** folder.
 
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
