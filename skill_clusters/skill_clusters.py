@@ -108,8 +108,8 @@ class SkillClusters():
         """
         Return the cluster a list of words most likely belongs to.
 
-        NOTE** This method was developed on 7/20/2016 using a subset of
-        Thumbtack engineering profiles using an NMF model and the parameters
+        NOTE** This method was developed on 7/25/2016 using a large subset of
+        Thumbtack engineering profiles and an NMF model with the parameters
         defined above. The below cluster definitions will likely change as
         more data is acquired.
 
@@ -153,5 +153,3 @@ if __name__ == '__main__':
                      index=True)
     sk.train_model('nmf', 20)
     sk.print_top_words(15)
-    sk.dump_pickle('nmf_cluster_mod')
-    sk.cluster(['Python', 'R', 'data science', 'data analysis', 'regression', 'modeling', 'kmeans', 'k-means', 'machine learning'])
