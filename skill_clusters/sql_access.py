@@ -35,18 +35,13 @@ if __name__ == '__main__':
     INNER JOIN trends t
     ON at.trend_id = t.id
     WHERE t.kind IN (
-        'Agencies',
-        'Animal',
         'Awards',
         'Brands',
-        'Character',
         'Communication',
         'Custom',
         'FieldTerminology',
         'JobTitle',
         'OperatingSystem',
-        'Organization',
-        'Organizations',
         'ProfessionalDegree',
         'Skill Cluster',
         'Software systems',

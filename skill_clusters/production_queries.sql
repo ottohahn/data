@@ -67,18 +67,13 @@ ON a.id = at.applicant_id
 INNER JOIN trends t
 ON at.trend_id = t.id
 WHERE t.kind IN (
-    'Agencies',
-    'Animal',
     'Awards',
     'Brands',
-    'Character',
     'Communication',
     'Custom',
     'FieldTerminology',
     'JobTitle',
     'OperatingSystem',
-    'Organization',
-    'Organizations',
     'ProfessionalDegree',
     'Skill Cluster',
     'Software systems',
@@ -86,28 +81,26 @@ WHERE t.kind IN (
 ;
 
 -- # "kinds" to keep
--- Agencies
--- Animal
 -- Awards
 -- Brands
--- Character
 -- Communication
 -- Custom
 -- FieldTerminology
 -- JobTitle
 -- OperatingSystem
--- Organization
--- Organizations
 -- ProfessionalDegree
 -- Skill Cluster
 -- Software systems
 -- Technology
 
 -- # "kinds" to remove
+-- Animal
+-- Agencies
 -- Anatomy
 -- Artifacts
 -- Associations & groups
 -- Automobile
+-- Character
 -- City
 -- Communication system
 -- Companies
@@ -143,6 +136,8 @@ WHERE t.kind IN (
 -- MusicGroup
 -- NaturalDisaster
 -- Natural events
+-- Organization
+-- Organizations
 -- OTHERS
 -- Outlets
 -- People

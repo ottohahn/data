@@ -44,17 +44,18 @@ class SkillClusters():
 
         return self.tf_model, self.data
 
-    def train_model(self, data):
+    def train_model(self, data, n_clusters):
         """
         Train the Non-Negative Matrix Factorization (NMF) model.
 
         INPUT:
         data -> self.data (from load_csv_data)
+        n_clusters -> number of clusters or components
 
         OUTPUT:
         Returns the fitted NMF model using pre-specified parameters.
         """
-        self.cl_model = NMF(n_components=20, random_state=1,
+        self.cl_model = NMF(n_components=n_clusters, random_state=1,
                             alpha=.1, l1_ratio=.5).fit(data)
         return self.cl_model
 
@@ -127,3 +128,10 @@ class SkillClusters():
             return "Android Engineer"
         else:
             return None
+
+if __name__ == '__main__':
+    sk = SkillClusters()
+    sk.load_csv_data("data/thumbtack_skill_cluster_df_2016-07-25.csv",
+                     index=True)
+    sk.train_model(sk.data, 20)
+    sk.print_top_words(sk.tf_model, sk.cl_model, 10)
