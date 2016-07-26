@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # encoding: utf-8
 """
 skill_clusters.py
@@ -7,6 +8,7 @@ import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF
+from sklearn.decomposition import LatentDirichletAllocation as LDA
 
 
 class SkillClusters():
@@ -44,22 +46,33 @@ class SkillClusters():
 
         return self.tf_model, self.data
 
-    def train_model(self, data, n_clusters):
+    def train_model(self, model, n_clusters):
         """
         Train the Non-Negative Matrix Factorization (NMF) model.
 
         INPUT:
-        data -> self.data (from load_csv_data)
+        model -> 'nmf': Non-negative matrix factorization
+        'lda': Latent Dirichlet Allocation
         n_clusters -> number of clusters or components
 
         OUTPUT:
         Returns the fitted NMF model using pre-specified parameters.
         """
-        self.cl_model = NMF(n_components=n_clusters, random_state=1,
-                            alpha=.1, l1_ratio=.5).fit(data)
-        return self.cl_model
+        model = model.lower()
+        if model == 'nmf':
+            self.cl_model = NMF(n_components=n_clusters, random_state=1,
+                                alpha=.1, l1_ratio=.5).fit(self.data)
+            return self.cl_model
+        elif model == 'lda':
+            self.cl_model = LDA(n_topics=n_clusters, max_iter=5,
+                                learning_method='online', learning_offset=50.,
+                                random_state=0).fit(self.data)
+            return self.cl_model
+        else:
+            print "'nmf' or 'lda' are the only available modeling options"
+            return None
 
-    def print_top_words(self, tf_model, cl_model, n_top_words):
+    def print_top_words(self, n_top_words):
         """
         Print the top n words for each component/cluster.
 
@@ -69,8 +82,8 @@ class SkillClusters():
         n_top_words -> number of top words to print per topic
         """
         print("Topics:")
-        feature_names = tf_model.get_feature_names()
-        for topic_idx, topic in enumerate(cl_model.components_):
+        feature_names = self.tf_model.get_feature_names()
+        for topic_idx, topic in enumerate(self.cl_model.components_):
             print("Topic #%d:" % topic_idx)
             print(", ".join([feature_names[i]
                             for i in topic.argsort()[:-n_top_words - 1:-1]]))
@@ -81,7 +94,7 @@ class SkillClusters():
         Create a pickle file of the class instance.
 
         INPUT:
-        name -> name of the new pickle file
+        name -> name of the new pickle file (string)
         """
         try:
             self.cl_model
@@ -96,8 +109,9 @@ class SkillClusters():
         Return the cluster a list of words most likely belongs to.
 
         NOTE** This method was developed on 7/20/2016 using a subset of
-        Thumbtack engineering profiles. The below cluster definitions will
-        likely change as more data is acquired.
+        Thumbtack engineering profiles using an NMF model and the parameters
+        defined above. The below cluster definitions will likely change as
+        more data is acquired.
 
         INPUT:
         list_of_words = a list of words
@@ -110,22 +124,26 @@ class SkillClusters():
         tf_text = self.tf_model.transform(np.array([text]))
         result = self.cl_model.transform(tf_text)
         category = result.argmax()
-        if category in [0, 2]:
-            return "Front End Engineer"
-        elif category in [1]:
-            return "Engineering Director"
-        elif category in [4]:
-            return "Data Scientist"
-        elif category in [9]:
-            return "Site Reliability Engineer"
-        elif category in [11, 14, 15, 16]:
-            return "Software Engineer"
-        elif category in [13]:
-            return "Head of Data Science"
-        elif category in [17, 19]:
-            return "Director of IT"
-        elif category in [18]:
+        if category in [3]:
             return "Android Engineer"
+        elif category in [9, 18]:
+            return "Data Scientist"
+        # elif category in []:
+        #     return "Director of IT"
+        elif category in [16]:
+            return "Engineering Director"
+        elif category in [0, 10, 11]:
+            return "Front End Engineer"
+        # elif category in []:
+        #     return "Head of Data Science"
+        elif category in [12]:
+            return "iOS Engineer"
+        # elif category in []:
+        #     return "Security Engineer"
+        elif category in [7, 19]:
+            return "Site Reliability Engineer"
+        elif category in [1, 4, 6, 14]:
+            return "Software Engineer"
         else:
             return None
 
@@ -133,5 +151,7 @@ if __name__ == '__main__':
     sk = SkillClusters()
     sk.load_csv_data("data/thumbtack_skill_cluster_df_2016-07-25.csv",
                      index=True)
-    sk.train_model(sk.data, 20)
-    sk.print_top_words(sk.tf_model, sk.cl_model, 10)
+    sk.train_model('nmf', 20)
+    sk.print_top_words(15)
+    sk.dump_pickle('nmf_cluster_mod')
+    sk.cluster(['Python', 'R', 'data science', 'data analysis', 'regression', 'modeling', 'kmeans', 'k-means', 'machine learning'])
