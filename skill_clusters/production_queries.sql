@@ -180,3 +180,37 @@ SELECT DISTINCT(kind)
 FROM trends
 ORDER BY 1
 ;
+
+# Count of trends for engineering roles at Thumbtack
+SELECT COUNT(1), t.name
+FROM trends t, applicant_trends at, applicants a
+WHERE t.id = at.trend_id
+AND a.id = at.applicant_id
+AND a.company_id = 8
+AND ARRAY['engineer', 'engineering'] @> a.roles
+GROUP BY t.name
+ORDER BY 2
+;
+
+# Leads for 3 positions at Thumbtack
+SELECT * FROM leads WHERE position_id IN(188, 190, 192)
+;
+
+where ARRAY['engineer', 'engineering'] @> roles
+
+# Create temp table of hires from Thumbtack only
+DROP TABLE IF EXISTS hires;
+CREATE TEMP TABLE hires AS
+SELECT id
+      ,company_id
+      ,hired
+FROM   applicants
+WHERE  company_id = 8
+AND hired = TRUE
+;
+
+# Count estimate for applicants from Thumbtack
+SELECT count_estimate('SELECT id
+    FROM applicants
+    WHERE company_id = 8')
+;
