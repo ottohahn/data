@@ -20,7 +20,7 @@ f.close()
 cluster_mod.cluster(['perl','sdk','java','python','c++','ios'])
 ```
 
-**Note:** The file *postgres.txt* is not included in the Atipica master repository. Please reach out to any of the team members to get the Postgres Database credentials.
+**Note:** The file **_postgres.txt_** is not included in the Atipica master repository. Please reach out to any of the team members to get the Postgres Database credentials.
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
 [2]: https://circleci.com/gh/atipica/analytics
