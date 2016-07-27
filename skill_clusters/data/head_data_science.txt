@@ -1,0 +1,19 @@
+Here at Thumbtack, we’re building the easiest way for people to hire local professionals for projects big and small. From house painting to personal training and everything in between, we match customers to the right pros for all of life’s projects.
+
+We’re looking for a Head of Data Science at Thumbtack. Thumbtack’s engineering team continues to grow quickly and we’re looking to hire an outstanding leader who can synthesize deep statistical expertise and product vision to lead our Data Science team in designing & building data products. As the leader of this team, you will articulate a vision for Data Science at Thumbtack, and work with Engineering, Product, and Analytics teams in executing against that vision.
+
+At Thumbtack, the Data Science team is responsible for solving a wide variety of problems spanning statistics, machine learning, and computer science:
+
+Understand marketplace dynamics. Thumbtack’s marketplaces are comprised of thousands of active markets across our service categories and U.S. cities. Via exploratory data analysis and experimental design, our team works to understand trends and user behavior within these markets.
+Improve customer and service provider matching. Matching and optimization algorithms are fundamental to Thumbtack’s product: we now service millions of matches per week. Identifying better matches between customers and service providers has an incredible impact on the experience of customers and pros transacting on our platform.
+Model complex relationships in the presence of many confounding factors. Predictive modeling problems are everywhere across our product. Our team works to scope, design and implement machine learning models to support Thumbtack’s product.
+Experimental design At Thumbtack, we are always running A/B tests to evaluate changes to our product.
+Requirements
+
+Experience in a senior management role.
+Passion for leading teams, setting vision, and developing highly functioning organizations.
+Expert knowledge of probability and statistics, including machine learning / predictive modeling, experimental design and optimization.
+Strong communication skills. Able to communicate complex data analysis across the company.
+Ph.D. or equivalent experience in Computer Science, Engineering, Statistics, or other relevant technical field.
+Experience working on a consumer product or startup a plus.
+Experience with Hadoop / Spark a plus.
