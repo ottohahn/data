@@ -3,6 +3,6 @@
     url = https://github.com/sholiday/genderPredictor.git
     ignore = all
 [submodule "apis/alchemyapi_python"]
-	path = apis/alchemyapi_python
-	url = https://github.com/AlchemyAPI/alchemyapi_python.git
+    path = apis/alchemyapi_python
+    url = https://github.com/AlchemyAPI/alchemyapi_python.git
     ignore = all
