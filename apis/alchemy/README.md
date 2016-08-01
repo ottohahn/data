@@ -7,6 +7,7 @@
 
 Use these scripts to run the Alchemy API from python. The file **alchemy_query.py** is an executable that will parse specified urls and return text files containing keywords found by using Alchemy.
 
+**Note:** The file _**alchemy_api_key.txt**_ is not included in the Atipica master repository. Please reach out to any of the team members to get the API key.
 <!--     % ./bin/setup
 
 It assumes you have a machine equipped with Ruby, Postgres, etc. If not, set up

@@ -7,7 +7,7 @@ import json
 
 
 def get_genders(names):
-        """Create a call to genderize for up to 10 names in a list."""
+    """Create a call to genderize for up to 10 names in a list."""
     url = ""
     cnt = 0
     if not isinstance(names, list):
