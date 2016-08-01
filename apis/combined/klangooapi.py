@@ -72,5 +72,4 @@ class KlangooAPI:
                         'docID': response_1.json()['docID']}
         response_2 = self.s.post(self.url_2, data=parameters_2)
 
-        # return response_2.json()['document']['entities']
         return response_2.json()['document']['keyTopics']

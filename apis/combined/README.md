@@ -7,7 +7,7 @@
 
 Use these scripts to run the Alchemy and Klangoo APIs from python. The file **combined_query.py** is an executable that will run word documents located in the **/data** folder and return text files containing keywords found by using Alchemy and Klangoo.
 
-
+**Note:** The files _**alchemy_api_key.txt**_ and _**klangoo_api_key.txt**_ are not included in the Atipica master repository. Please reach out to any of the team members to get the API keys.
 <!--     % ./bin/setup
 
 It assumes you have a machine equipped with Ruby, Postgres, etc. If not, set up

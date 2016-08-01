@@ -2,6 +2,9 @@
 # encoding: utf-8
 """
 alchemy_query.py
+
+This script runs the Alchemy API on various urls, returning their entity
+outputs.
 """
 from alchemyapi import AlchemyAPI
 
