@@ -52,5 +52,6 @@ if __name__ == '__main__':
     """
 
     df = pd.read_sql_query(query, conn)
+    conn.close()
     df.to_csv(path_or_buf='data/thumbtack_skill_cluster_df_' +
               str(datetime.date.today()) + '.csv')
