@@ -7,7 +7,7 @@ import json
 
 
 def get_genders(names):
-        """Create a call to genderize for up to 10 names."""
+        """Create a call to genderize for up to 10 names in a list."""
     url = ""
     cnt = 0
     if not isinstance(names, list):
@@ -38,6 +38,3 @@ def get_genders(names):
         else:
             retrn.append((u'None', u'0.0', 0.0))
     return retrn
-
-# if __name__ == '__main__':
-#     print(get_genders(["Mario"]))

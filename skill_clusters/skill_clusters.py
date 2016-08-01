@@ -77,8 +77,6 @@ class SkillClusters():
         Print the top n words for each component/cluster.
 
         INPUT:
-        tf_model -> self.tl_model (from load_csv_data)
-        cl_model -> self.cl_model (from train_model)
         n_top_words -> number of top words to print per topic
         """
         print("Topics:")
