@@ -1,6 +1,6 @@
 # Atipica Data
 
-Please select a folder depending on the project you are working on.
+**Please select a folder depending on the project you are working on.**
 
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
