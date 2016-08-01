@@ -209,3 +209,33 @@ SELECT count_estimate('SELECT id
     FROM applicants
     WHERE company_id = 8')
 ;
+
+#
+SELECT DISTINCT id
+FROM (SELECT id, jsonb_array_elements(job_applications) status
+      FROM applicants
+      WHERE company_id = 8
+      AND job_applications IS NOT NULL
+      AND ARRAY['engineer', 'engineering'] @> roles
+      LIMIT 10000) data
+WHERE status->>'status' = 'active'
+;
+
+#
+SELECT DISTINCT ON (status->'status') status
+FROM (
+    SELECT jsonb_array_elements(job_applications) status
+    FROM applicants
+    WHERE company_id=8
+    ) data
+;
+
+#
+SELECT DISTINCT ON (stage->'current_stage'->>'name') stage
+FROM (
+    SELECT jsonb_array_elements(job_applications) stage
+    FROM applicants
+    WHERE company_id=8
+    ) data
+;
+
