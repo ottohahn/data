@@ -191,8 +191,6 @@ ORDER BY 2
 SELECT * FROM leads WHERE position_id IN(188, 190, 192)
 ;
 
-where ARRAY['engineer', 'engineering'] @> roles
-
 # Create temp table of hires from Thumbtack only
 DROP TABLE IF EXISTS hires;
 CREATE TEMP TABLE hires AS
