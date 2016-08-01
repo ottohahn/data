@@ -2,6 +2,13 @@
 
 Please select a folder depending on the project you are working on.
 
+**apis** - Python API wrappers for IBM Alchemy and Klangoo
+
+**data_format_test** - Sample output files for ingestion by the back-end team
+
+**gender_model** - Testing of various gender models to improve performance
+
+**skill_clusters** - Testing of various clustering models
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
 [2]: https://circleci.com/gh/atipica/analytics
