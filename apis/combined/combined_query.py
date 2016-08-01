@@ -10,45 +10,10 @@ from alchemyapi import AlchemyAPI
 from klangooapi import KlangooAPI
 
 
-alchemyapi = AlchemyAPI()
-klangooapi = KlangooAPI()
-
-files = ['data/CABLE SPLCELEC.docx',
-         'data/CONSTR MGMT INSPCTR II.docx',
-         'data/CONSTR MGMT INSPCTR III.docx',
-         'data/DIR WORKFORCE HEALTH & SAFETY.docx',
-         'data/DISTRIBUTION LINE DESIGN SUPVR.docx',
-         'data/ENV HLTH&SFTY SPCLST II.docx',
-         'data/HAZ WASTE FRMN WN, LT.docx',
-         'data/MAINT PLANNER SUBS.docx',
-         'data/MGR,ACCOUNT MGMT & SALES.docx',
-         'data/MGR,SUBSTN MAINT.docx',
-         'data/PRIN TELECOMM ENGR.docx',
-         'data/PRIN TRNSMSN PLNG ENGR.docx',
-         'data/SR SURV ENGRG TECH-COP.docx',
-         'data/SR SURV ENGRG TECH-OFF.docx'
-         ]
-job_titles = ['CABLE SPLCELEC',
-              'CONSTR MGMT INSPCTR II',
-              'CONSTR MGMT INSPCTR III',
-              'DIR WORKFORCE HEALTH & SAFETY',
-              'DISTRIBUTION LINE DESIGN SUPVR',
-              'ENV HLTH&SFTY SPCLST II',
-              'HAZ WASTE FRMN WN, LT',
-              'MAINT PLANNER SUBS',
-              'MGR,ACCOUNT MGMT & SALES',
-              'MGR,SUBSTN MAINT',
-              'PRIN TELECOMM ENGR',
-              'PRIN TRNSMSN PLNG ENGR',
-              'SR SURV ENGRG TECH-COP',
-              'SR SURV ENGRG TECH-OFF'
-              ]
-
-
 def kl_conv(score):
     """Convert Klangoo ranks to scores.
 
-    This is taken directly from current Ruby/Rails code:
+    This is taken directly from current Ruby code:
     "https://github.com/atipica/analytics/blob/master/lib/klangoo/magnet_client.rb"
     """
     if score == 'VR':
@@ -60,12 +25,51 @@ def kl_conv(score):
     if score == 'NR':
         return '0.26'
 
+
+def convert_docx_to_txt(file):
+    """Convert docx files to a format which can be ingested by Klangoo."""
+    text = ' '.join(process(file).split())
+    text = re.sub(u"(\u2018|\u2019)", "'", text)
+    return text
+
+
 if __name__ == '__main__':
+    alchemyapi = AlchemyAPI()
+    klangooapi = KlangooAPI()
+
+    files = ['data/CABLE SPLCELEC.docx',
+             'data/CONSTR MGMT INSPCTR II.docx',
+             'data/CONSTR MGMT INSPCTR III.docx',
+             'data/DIR WORKFORCE HEALTH & SAFETY.docx',
+             'data/DISTRIBUTION LINE DESIGN SUPVR.docx',
+             'data/ENV HLTH&SFTY SPCLST II.docx',
+             'data/HAZ WASTE FRMN WN, LT.docx',
+             'data/MAINT PLANNER SUBS.docx',
+             'data/MGR,ACCOUNT MGMT & SALES.docx',
+             'data/MGR,SUBSTN MAINT.docx',
+             'data/PRIN TELECOMM ENGR.docx',
+             'data/PRIN TRNSMSN PLNG ENGR.docx',
+             'data/SR SURV ENGRG TECH-COP.docx',
+             'data/SR SURV ENGRG TECH-OFF.docx']
+    job_titles = ['CABLE SPLCELEC',
+                  'CONSTR MGMT INSPCTR II',
+                  'CONSTR MGMT INSPCTR III',
+                  'DIR WORKFORCE HEALTH & SAFETY',
+                  'DISTRIBUTION LINE DESIGN SUPVR',
+                  'ENV HLTH&SFTY SPCLST II',
+                  'HAZ WASTE FRMN WN, LT',
+                  'MAINT PLANNER SUBS',
+                  'MGR,ACCOUNT MGMT & SALES',
+                  'MGR,SUBSTN MAINT',
+                  'PRIN TELECOMM ENGR',
+                  'PRIN TRNSMSN PLNG ENGR',
+                  'SR SURV ENGRG TECH-COP',
+                  'SR SURV ENGRG TECH-OFF']
+
     text_data = []
     for file in files:
-        data = ' '.join(process(file).split())
-        data = re.sub(u"(\u2018|\u2019)", "'", data)
-        text_data.append(data)
+        text_data.append(convert_docx_to_txt(file))
+
     for position in zip(text_data, job_titles):
         al_response = alchemyapi.entities('text', position[0],
                                           options={'sentiment': 1})
