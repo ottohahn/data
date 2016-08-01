@@ -1,6 +1,6 @@
 # Atipica Data
 
-Please select a folder depending on the project you are working on.
+**Please select a folder depending on the project you are working on.**
 
 **apis** - Python API wrappers for IBM Alchemy and Klangoo
 
