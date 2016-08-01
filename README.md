@@ -4,9 +4,9 @@ Please select a folder depending on the project you are working on.
 
 **apis** - Python API wrappers for IBM Alchemy and Klangoo
 
-**data_format_test** - Sample output files for ingestion by the back-end team
+**data_format_test** - Sample data output files
 
-**gender_model** - Testing of various gender models to improve performance
+**gender_model** - Testing of various gender models
 
 **skill_clusters** - Testing of various clustering models
 <!--
