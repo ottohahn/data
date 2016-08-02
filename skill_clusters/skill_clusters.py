@@ -104,7 +104,7 @@ class SkillClusters():
 
     def cluster(self, list_of_words):
         """
-        Return the cluster a list of words most likely belongs to.
+        Return the cluster that the list of words most likely belongs to.
 
         NOTE** This method was developed on 7/25/2016 using a large subset of
         Thumbtack engineering profiles and an NMF model with the parameters
