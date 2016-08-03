@@ -3,12 +3,12 @@
 """
 skill_clusters.py
 """
-import pickle
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF
 from sklearn.decomposition import LatentDirichletAllocation as LDA
+from sklearn.externals import joblib
 
 
 class SkillClusters():
@@ -96,15 +96,13 @@ class SkillClusters():
         """
         try:
             self.cl_model
-            f = open(name + '.pickle', 'wb')
-            pickle.dump(self, f)
-            f.close()
+            joblib.dump(self, name + '.pkl',)
         except AttributeError:
             print "Oops! Looks like a classifier hasn't been trained yet."
 
     def cluster(self, list_of_words):
         """
-        Return the cluster a list of words most likely belongs to.
+        Return the cluster that the list of words most likely belongs to.
 
         NOTE** This method was developed on 7/25/2016 using a large subset of
         Thumbtack engineering profiles and an NMF model with the parameters
@@ -150,4 +148,5 @@ if __name__ == '__main__':
     sk.load_csv_data("data/thumbtack_skill_cluster_df_2016-07-25.csv",
                      index=True)
     sk.train_model('nmf', 20)
-    sk.print_top_words(15)
+    sk.print_top_words(10)
+    sk.dump_pickle('data/pickle_files/nmf/nmf_cluster_mod')

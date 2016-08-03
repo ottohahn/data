@@ -9,12 +9,11 @@ The pickled model included in this repository was created on 07/26/16. Please ch
 The ultimate goal is to get enough data in the clustering model and define general job types (clusters) so that any new data that is acquired can be easily clustered into one of the pre-defined job types.
 
 ```python
-import pickle
+from sklearn.externals import joblib
+from skill_clusters import SkillClusters
 
 
-f = open('nmf_cluster_mod.pickle')
-cluster_mod = pickle.load(f)
-f.close()
+cluster_mod = joblib.load('data/pickle_files/nmf/nmf_cluster_mod.pkl')
 
 # provide the clustering model a list of words, it will use these to determine which cluster/group they most likely belong to
 cluster_mod.cluster(['perl','sdk','java','python','c++','ios'])
