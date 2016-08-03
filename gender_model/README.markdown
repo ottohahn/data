@@ -49,3 +49,4 @@ classifier.classify_many(['Vineet', 'Amelia'])
 classifier.prob_classify_many(['Vineet', 'Amelia'])
 ```
 
+**Note:** The file _**agenderize_api_key.txt**_ is not included in the Atipica master repository. Please reach out to any of the team members to get the API key.

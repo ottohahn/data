@@ -11,7 +11,7 @@ import pickle
 class genderPredictor():
 
     def getFeatures(self):
-        maleNames,femaleNames=self._loadNames()
+        maleNames, femaleNames = self._loadNames()
 
         featureset = list()
 
@@ -20,14 +20,14 @@ class genderPredictor():
             male_prob, female_prob = self._getProbDistr(nameTuple)
             features['male_prob'] = male_prob
             features['female_prob'] = female_prob
-            featureset.append((features,'M'))
+            featureset.append((features, 'M'))
 
         for nameTuple in femaleNames:
             features = self._nameFeatures(nameTuple[0])
             male_prob, female_prob = self._getProbDistr(nameTuple)
             features['male_prob'] = male_prob
             features['female_prob'] = female_prob
-            featureset.append((features,'F'))
+            featureset.append((features, 'F'))
 
         return featureset
 
@@ -37,7 +37,7 @@ class genderPredictor():
 
         name_count = len(featureset)
 
-        cut_point=int(name_count*trainingPercent)
+        cut_point = int(name_count*trainingPercent)
 
         train_set = featureset[:cut_point]
         test_set = featureset[cut_point:]
@@ -47,7 +47,7 @@ class genderPredictor():
         return self.test(test_set)
 
     def classify(self, name):
-        feats=self._nameFeatures(name)
+        feats = self._nameFeatures(name)
         return self.classifier.classify(feats)
 
     def classify_many(self, list_names):
@@ -55,7 +55,7 @@ class genderPredictor():
         return [self.classifier.classify(fs) for fs in featsets]
 
     def prob_classify(self, name):
-        feats=self._nameFeatures(name)
+        feats = self._nameFeatures(name)
         m_prob = self.classifier.prob_classify(feats).prob('M')
         f_prob = self.classifier.prob_classify(feats).prob('F')
         return (m_prob, f_prob)
@@ -99,23 +99,23 @@ class genderPredictor():
     def _loadNames(self):
         return USSSALoader.getNameList()
 
-    def _nameFeatures(self,name):
-        name=name.upper()
+    def _nameFeatures(self, name):
+        name = name.upper()
         return {
             'last_letter': name[-1],
-            'last_two' : name[-2:],
+            'last_two': name[-2:],
             'last_three': name[-3:],
-            'last_is_vowel' : (name[-1] in 'AEIOUY')
+            'last_is_vowel': (name[-1] in 'AEIOUY')
         }
 
 if __name__ == "__main__":
     gp = genderPredictor()
     accuracy = gp.trainAndTest()
-    print 'Accuracy: %f'%accuracy
+    print 'Accuracy: %f' % accuracy
     print 'Most Informative Features'
     feats=gp.getMostInformativeFeatures(10)
     for feat in feats:
-        print '\t%s = %s'%feat
+        print '\t%s = %s' % feat
     name = raw_input('Enter name to classify: ')
     print '\n%s is classified as %s' % (name, gp.classify(name))
     print 'Probability male: %s, Probability female: %s' % (gp.prob_classify(name)[0], gp.prob_classify(name)[1])

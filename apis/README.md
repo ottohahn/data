@@ -9,7 +9,6 @@ We are currently using the following APIs to get keywords for Atipica:
 [Klangoo]: http://demo.klangoo.com/Search.aspx
 
 The IBM Alchemy API has a python wrapper which is linked as one of the submodules above. The Klangoo API does not have a python wrapper. The **alchemy** folder contains an implementation of the IBM Alchemy API using urls as examples. The **combined** folder contains an implementation of both Alchemy and Klangoo using text files as examples.
-
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
 [2]: https://circleci.com/gh/atipica/analytics

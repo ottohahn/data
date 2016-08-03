@@ -1,8 +1,8 @@
 [submodule "gender_model/genderPredictor"]
     path = gender_model/genderPredictor
     url = https://github.com/sholiday/genderPredictor.git
-    ignore = dirty
+    ignore = all
 [submodule "apis/alchemyapi_python"]
     path = apis/alchemyapi_python
     url = https://github.com/AlchemyAPI/alchemyapi_python.git
-    ignore = dirty
+    ignore = all
