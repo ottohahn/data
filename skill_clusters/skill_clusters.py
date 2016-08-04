@@ -87,6 +87,31 @@ class SkillClusters():
                             for i in topic.argsort()[:-n_top_words - 1:-1]]))
             print "\n"
 
+    def print_top_words_mult(self, cluster_list, n_top_words):
+        """
+        Print the top n words over multiple clusters.
+
+        If you have multiple clusters that look like good candidates for a
+        specific position, you can use this method to get a combined set of
+        the top n words for all clusters involved.
+
+        INPUT:
+        cluster_list -> clusters to include
+        n_top_words -> number of top words
+        """
+        feature_names = self.tf_model.get_feature_names()
+        dct = {}
+        for topic in self.cl_model.components_[cluster_list, :]:
+            for i in topic.argsort()[:-n_top_words - 1:-1]:
+                if feature_names[i] in dct:
+                    if dct[feature_names[i]] < topic[i]:
+                        dct[feature_names[i]] = topic[i]
+                else:
+                    dct[feature_names[i]] = topic[i]
+        lst = [x[0] for x in sorted(dct.items(), key=lambda x:x[1],
+               reverse=True)]
+        print(", ".join(lst[:n_top_words]))
+
     def dump_pickle(self, name):
         """
         Create a pickle file of the class instance.
@@ -150,3 +175,4 @@ if __name__ == '__main__':
     sk.train_model('nmf', 20)
     sk.print_top_words(10)
     sk.dump_pickle('data/pickle_files/nmf/nmf_cluster_mod')
+    sk.print_top_words_mult([0, 10, 11], 10)
