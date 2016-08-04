@@ -6,9 +6,13 @@
 
 **data_format_test** - Sample data output files
 
+**gen_analysis** - Various recurring and ad-hoc analyses
+
 **gender_model** - Testing of various gender models
 
 **skill_clusters** - Testing of various clustering models
+
+**take_homes** - New candidate assessments with solutions
 <!--
 [1]: https://circleci.com/gh/atipica/analytics.svg?style=svg&circle-token=b842333bd2d1af17d9d2145b4e276dfbc0dcdd91
 [2]: https://circleci.com/gh/atipica/analytics
