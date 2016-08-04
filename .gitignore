@@ -43,3 +43,6 @@ alchemy_api_key.txt
 klangoo_api_key.txt
 genderize_api_key.txt
 postgres.txt
+
+# Testing file types
+*DONOTCOMMIT.ipynb

@@ -8,6 +8,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF
 from sklearn.decomposition import LatentDirichletAllocation as LDA
+from sklearn.cluster import KMeans
 from sklearn.externals import joblib
 
 
@@ -53,23 +54,28 @@ class SkillClusters():
         INPUT:
         model -> 'nmf': Non-negative matrix factorization
         'lda': Latent Dirichlet Allocation
+        'kmeans': K-means Clustering
         n_clusters -> number of clusters or components
 
         OUTPUT:
-        Returns the fitted NMF model using pre-specified parameters.
+        Returns the fitted model using pre-specified parameters.
         """
-        model = model.lower()
-        if model == 'nmf':
+        self.model = model.lower()
+        if self.model == 'nmf':
             self.cl_model = NMF(n_components=n_clusters, random_state=1,
                                 alpha=.1, l1_ratio=.5).fit(self.data)
             return self.cl_model
-        elif model == 'lda':
+        elif self.model == 'lda':
             self.cl_model = LDA(n_topics=n_clusters, max_iter=5,
                                 learning_method='online', learning_offset=50.,
-                                random_state=0).fit(self.data)
+                                random_state=1).fit(self.data)
+            return self.cl_model
+        elif self.model == 'kmeans':
+            self.cl_model = KMeans(n_clusters=n_clusters, random_state=1,
+                                   n_jobs=-1).fit(self.data)
             return self.cl_model
         else:
-            print "'nmf' or 'lda' are the only available modeling options"
+            print "nmf, lda, or kmeans are the only available modeling options"
             return None
 
     def print_top_words(self, n_top_words):
@@ -81,11 +87,26 @@ class SkillClusters():
         """
         print("Topics:")
         feature_names = self.tf_model.get_feature_names()
-        for topic_idx, topic in enumerate(self.cl_model.components_):
-            print("Topic #%d:" % topic_idx)
-            print(", ".join([feature_names[i]
-                            for i in topic.argsort()[:-n_top_words - 1:-1]]))
-            print "\n"
+        if self.model in ['nmf', 'lda']:
+            for topic_idx, topic in enumerate(self.cl_model.components_):
+                print("Topic #%d:" % topic_idx)
+                print(", ".join([feature_names[i]
+                                for i in topic.argsort()[:-n_top_words - 1:-1]]))
+                print "\n"
+        elif self.model == 'kmeans':
+            for topic in np.arange(self.cl_model.n_clusters):
+                dist = self.cl_model.transform(self.data)[:, topic]
+                ind = np.argsort(dist)[::][:50]
+                word_ind = np.nonzero(self.data[ind].todense())[1]
+                bins = np.bincount(word_ind)
+                unique_ind = np.nonzero(bins)[0]
+                ind_count = zip(unique_ind, bins[unique_ind])
+                final_idx = [x[0] for x in sorted(ind_count,
+                                                  key=lambda x: x[1],
+                                                  reverse=True)][:n_top_words]
+                print("Topic #%d:" % topic)
+                print(", ".join([feature_names[i] for i in final_idx]))
+                print "\n"
 
     def print_top_words_mult(self, cluster_list, n_top_words):
         """
@@ -93,7 +114,8 @@ class SkillClusters():
 
         If you have multiple clusters that look like good candidates for a
         specific position, you can use this method to get a combined set of
-        the top n words for all clusters involved.
+        the top n words for all clusters involved. Currently this method only
+        works for nmf and lda models.
 
         INPUT:
         cluster_list -> clusters to include

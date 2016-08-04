@@ -177,14 +177,14 @@ ORDER BY 1
 ;
 
 # Count of trends for engineering roles at Thumbtack
-SELECT COUNT(1), t.name
+SELECT t.name, COUNT(1)
 FROM trends t, applicant_trends at, applicants a
 WHERE t.id = at.trend_id
 AND a.id = at.applicant_id
 AND a.company_id = 8
 AND ARRAY['engineer', 'engineering'] @> a.roles
 GROUP BY t.name
-ORDER BY 2
+ORDER BY 2 desc
 ;
 
 # Leads for 3 positions at Thumbtack
