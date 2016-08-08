@@ -11,7 +11,13 @@ your machine with [this script].
 
 [this script]: https://github.com/thoughtbot/laptop
 
-Once you have Anaconda and Postgres setup, you can run the spec_file to copy the python working environment (data), and then activate it.
+Once you have Anaconda and Postgres setup, you can install the spec_file in one of two ways to get all your dependencies.
+
+**Option 1: Install to root Anaconda environment (global)**
+
+    % conda install --file spec_file.txt
+
+**Option 2: Install to a specific Anaconda environment (this is like a virtual environment)**
 
     % conda create --name data --file spec_file.txt
     % source activate data
