@@ -1,0 +1,49 @@
+name: data
+channels:
+- conda-forge
+- defaults
+dependencies:
+# - conda-forge::blas=1.1=openblas
+# - conda-forge::ca-certificates=2016.8.2=3
+# - conda-forge::certifi=2016.8.2=py27_0
+# - conda-forge::libgfortran=3.0.0=0
+# - conda-forge::libpq=9.5.3=1
+# - conda-forge::ncurses=5.9=8
+# - conda-forge::numpy=1.11.1=py27_blas_openblas_201
+# - conda-forge::openblas=0.2.18=4
+# - conda-forge::openssl=1.0.2h=2
+# - conda-forge::pandas=0.18.1=np111py27_1
+# - conda-forge::pip=8.1.2=py27_0
+# - conda-forge::psycopg2=2.6.2=py27_1
+# - conda-forge::python-dateutil=2.5.3=py27_0
+# - conda-forge::pytz=2016.6.1=py27_0
+# - conda-forge::readline=6.2=0
+# - conda-forge::requests=2.10.0=py27_0
+# - conda-forge::scikit-learn=0.17.1=np111py27_blas_openblas_201
+# - conda-forge::scipy=0.18.0=np111py27_blas_openblas_201
+# - conda-forge::setuptools=25.1.6=py27_0
+# - conda-forge::six=1.10.0=py27_0
+# - conda-forge::sqlite=3.13.0=1
+# - conda-forge::wheel=0.29.0=py27_0
+# - conda-forge::zlib=1.2.8=3
+- nltk=3.2.1=py27_0
+- python=2.7.12=1
+- simplejson=3.8.2=py27_0
+- tk=8.5.18=0
+- pip:
+  - beautifulsoup4==4.5.1
+  - certifi==2016.8.2
+  - docx2txt==0.6
+  - numpy==1.11.1
+  - pandas==0.18.1
+  - pip==8.1.2
+  - psycopg2==2.6.2
+  - python-dateutil==2.5.3
+  - pytz==2016.6.1
+  - requests==2.10.0
+  - scikit-learn==0.17.1
+  - scipy==0.18.0
+  - setuptools==25.1.6
+  - six==1.10.0
+  - wheel==0.29.0
+  - wikipedia==1.4.0
