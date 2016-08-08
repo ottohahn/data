@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-After you have cloned this repo, download and install the [Anaconda Python environment], we will be using Python version 2.7:
+After you have cloned this repo, download and install the [Anaconda Python environment], we will be using Python version 2.7.
 
 [Anaconda Python environment]: https://www.continuum.io/downloads#_macosx
 
