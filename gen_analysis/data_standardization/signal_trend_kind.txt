@@ -1,0 +1,80 @@
+whitelist:
+    - Agencies
+    - Brands
+    - Communication
+    - Company
+    - Custom
+    - Degree
+    - Events
+    - FieldTerminology
+    - Hardware and gadgets
+    - JobTitle
+    - OperatingSystem
+    - Political group
+    - PrintMedia
+    - ProfessionalDegree
+    - Software systems
+    - Technology
+    - Websites
+
+blacklist:
+    - Anatomy
+    - Animal
+    - Artifacts
+    - Associations & groups
+    - Automobile
+    - Awards
+    - Character
+    - City
+    - Communication system
+    - Companies
+    - Consumer products
+    - Continent
+    - Continents
+    - Countries
+    - Country
+    - Crime
+    - Degree
+    - Diseases
+    - Drug
+    - EmailAddress
+    - EntertainmentAward
+    - Facility
+    - FinancialMarketIndex
+    - Food
+    - GeographicFeature
+    - Hashtag
+    - HealthCondition
+    - Historic events
+    - Holiday
+    - IPAddress
+    - Laws
+    - Medicines
+    - Movie
+    - Natural events
+    - Organization
+    - Organizations
+    - OTHERS
+    - Outlets
+    - Periods
+    - Person
+    - Plant
+    - Political events
+    - Product
+    - Publication
+    - Quantity
+    - Region
+    - Religion
+    - Religious figure
+    - Scale/unit
+    - Sport
+    - SportingEvent
+    - StateOrCounty
+    - Stock market
+    - Substance
+    - Teams
+    - TelevisionShow
+    - TelevisionStation
+    - Tournaments
+    - TwitterHandle
+    - Zodiac sign
