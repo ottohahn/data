@@ -4,6 +4,7 @@ whitelist:
     - Communication
     - Company
     - Custom
+    - Degree
     - Events
     - FieldTerminology
     - Hardware and gadgets
