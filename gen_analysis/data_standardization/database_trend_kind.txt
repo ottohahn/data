@@ -42,6 +42,7 @@ whitelist:
     - Technology
     - TelevisionStation
     - Tournaments
+    - TwitterHandle
     - Websites
 
 blacklist:
@@ -75,5 +76,4 @@ blacklist:
     - StateOrCounty
     - Substance
     - TelevisionShow
-    - TwitterHandle
     - Zodiac sign
