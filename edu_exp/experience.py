@@ -130,7 +130,7 @@ def convert_dates(date_list, cur_date=None):
             if len(lst) > 1:
                 try:
                     beg = parser.parse(lst[0])
-                    if beg > today:
+                    if beg > cur_date:
                         beg = cur_date
                 except ValueError:
                     return None
@@ -139,7 +139,7 @@ def convert_dates(date_list, cur_date=None):
                 else:
                     try:
                         end = parser.parse(lst[-1])
-                        if end > today:
+                        if end > cur_date:
                             end = cur_date
                     except ValueError:
                         return None
