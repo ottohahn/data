@@ -10,7 +10,7 @@ from collections import OrderedDict
 
 dates_zero=re.compile(ur'[0-9]{4}\s?-\s?[0-9]{4}|[0-9]{2}/[0-9]{2,4}|Jan|Feb|Mar|March|Apr|May|June|July|Aug|Sept|Oct|Nov|Dec [0-9]{4} -|[0-9]{4}')
 
-dates_one = re.compile(ur'[A-Z]+\s?[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[A-Z]+\s?[0-9]{2,4})|[0-9]{4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{4})|[0-9]{,2}(\.|/)[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{,2}(\.|/)[0-9]{2,4})|[A-Z]+(\t|\s)*[0-9]{4}(\t|\s)*[A-Z]+(\t|\s)*(Present|Current|[0-9]{4})', re.IGNORECASE)
+dates_one = re.compile(ur'[A-Z]+\s?[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[A-Z]+\s?[0-9]{2,4})|[0-9]{4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{4})|[0-9]{2}(\.|\/)[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{2}(\.|\/)[0-9]{2,4})|[A-Z]+(\t|\s)*[0-9]{4}(\t|\s)*[A-Z]+(\t|\s)*(Present|Current|[0-9]{4})', re.IGNORECASE)
 
 headerstrt = re.compile(ur'Experience\n|Experience\s\t\n|EXPERIENCE|WORK EXPERIENCE|EMPLOYMENT|PROFESSIONAL BACKGROUND|PROFESSIONAL EXPERIENCE|JOBS') #Need to deal with orthographic errors
 
@@ -115,24 +115,35 @@ def get_exp_one(lst):
     return date_list
 
 def convert_dates(date_list, cur_date=None):
+    today = datetime.datetime.today()
     if not date_list:
         return None
     else:
         if cur_date:
             cur_date = parser.parse(cur_date)
         else:
-            cur_date = datetime.datetime.today()
+            cur_date = today
         new_list = []
         for group in date_list:
             group = re.sub(r"(\t|\n|\.)", " ", group)
             lst = re.split(ur"(-|~|\s\s|\s(-|~|to|through)\s)", group)
-
-            beg = parser.parse(lst[0])
-            if lst[-1].lower() in ['present', 'current']:
-                end = cur_date
-            else:
-                end = parser.parse(lst[-1])
-            new_list.append((beg, end))
+            if len(lst) > 1:
+                try:
+                    beg = parser.parse(lst[0])
+                    if beg > today:
+                        beg = cur_date
+                except ValueError:
+                    return None
+                if lst[-1].lower() in ['present', 'current']:
+                    end = cur_date
+                else:
+                    try:
+                        end = parser.parse(lst[-1])
+                        if end > today:
+                            end = cur_date
+                    except ValueError:
+                        return None
+                new_list.append((beg, end))
         return sorted(new_list, reverse=True)
 
 def remove_overlap(converted_dates):
@@ -170,4 +181,3 @@ def chain_exp(resume, cur_date=None):
     rem_ov_lst = remove_overlap(converted_dts)
     yrs = get_yrs(rem_ov_lst)
     return yrs
-
