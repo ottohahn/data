@@ -1,0 +1,82 @@
+N IRANJAN     P ACHAIYAPPAN                                                  : (980) 265 3718
+1750, ORTH R ANGER OAD,APARTMENT A202                                       : nirapach@indiana.edu
+BLOOMINGTON , N- 47408                                                      : LinkedIn Profile
+
+  S CHOLASTIC  RECORD
+
+      School of Informatics and Computing, Indiana University, Bloomington  May-2016(Expected)
+      o   Master of Science in Computer Science - GPA of 3.61/4
+      o   Core Concentration: Machine Learning, Information Retrieval, Cloud Computing and Software Engineering
+
+      Anna University, Chennai- India                                               2008 - 2012
+      o   Bachelor of Science in Computer Science (2012)-GPA of 3.67/4
+      o   Core Concentration: Data Structures, Design and Analysis of Algorithms, Databases
+
+
+  TECHNICAL SKILLS
+       Programming Languages:  Java, Python, C
+       Legacy Systems:         IBM i-series system
+       Framework:              Hadoop, Spring4, Hibernate, Struts 2.0, Agile Development Methodology
+
+       Tools:                  Lucene, Informatica, SAP Business Objects, Talend Studio, Weka, Tableau
+       Databases:              MySQL, HBase, Cassandra, SQL Server, Oracle
+       Web Design:             HTML, CSS, Java Script
+
+
+  INTERNSHIP  (MAY 2015  A UGUST  2015)                                                 2015
+
+  Organization:Gravity4 Inc.
+  Role       : Software Engineering / Data Science Intern
+
+  PROJECTS
+  Facebook DPA
+
+         Created a Restful Web Services project from scratch to enable clients to advertise on Facebook via
+  their Marketing API (Creating Rest API's for Campaign Creation and Generation of Scheduled Reports) using
+  Spring4 + MySQL.
+
+
+  Demand Side Platform (DSP)
+      o   Worked on building Machine Learning models for adjusting the bid price and campaign creation flow
+          along with integrating databases such as Cassandra and HBase to the application.
+
+
+      o   Worked on the Enhancement of Front-End briefly to eliminate bugs and display issues.
+
+
+  W ORK  EXPERIENCE  (20 M ONTHS )                                                   2012-2014
+
+  Organization:Tata Consultancy Services Limited
+  Role       : Assistant Systems Engineer
+
+  PROJECTS
+  ILS Data Migration (From HSBC ILS System to Equitable RLS System)
+         Developed a system to migrate more than million insurance policies by performing tasks from mapping
+  to deployment using Java and the IBM-I Series system along with tools like Informatica and Business Objects.
+
+
+  A CADEMIC  PROJECTS
+
+
+  M ASTERS
+
+  Text Mining and Sentimental Analysis
+         Developed a Machine Learning model to classify categories of a business and predict the ratings of a
+  business in the yelp data set based on the "tips" and "reviews" given by individual users.
+
+  YALA  A New World Social Networking Application
+
+         Designed and developed a standalone application to effectively implement a student-oriented social
+  networking site. The application was developed with the help of Java Design Patterns and Struts 2.0 Framework
+  with hibernate.
+
+  Enhancement of Xinu Operating System
+
+         Performed various tasks to enhance the Shared Memory and Synchronization modules in the Xinu
+  Operating System in order to implement Producer-Consumer Problem.
+
+  UNDER G RADUATE
+  User-oriented Multimedia Diary Management System-Audio, Image and Text diary
+
+         Developed a Multimedia Application to keep record of personal and general information of day-to-day
+  activities with the help of an interactive user interface based on hierarchical media segmentation.

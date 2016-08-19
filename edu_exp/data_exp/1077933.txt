@@ -1,0 +1,72 @@
+James Kim
+
+Washington D.C. Metro Area
+
+Software Engineer at Perfect Sense
+
+
+Experience
+
+Software Engineer at Perfect Sense
+July 2015 - Present (7 months)
+
+
+Solutions Engineering Intern at L-3 NSS
+June 2014 - January 2015 (8 months)
+  Solutions Engineering Contributed in the beta release of strategic internal crowd-sourcing engine
+
+   & application. Devised charter & documented approach for the engines enterprise architecture.
+   Professional Writing Engaged with RCA program managers, project leads & software engineers.
+
+   Delivered analysis & whitepapers for each implemented RCA innovations. Customer Interaction
+   Engaged with government customers & provided status updates in a weekly basis. Featured
+
+   proven results, implementations, & retrospectives for each innovations. iOS Research &
+   Development Researched an approach in maintaining iOS dev environment & legacy codes.
+   Documented getting-started iOS tutorials for Xamarin & Xcode platforms.
+
+
+Research and Development Intern at SuprTEK
+May 2013 - January 2014 (9 months)
+  Research & Development Drafted proposal in Autonomous Network Defense for DARPA Cyber
+
+   Grand Challenge. Researched real-time ad-hoc querying tools utilized within company HBase
+   datasets. Configured prototypes & document capabilities of BigSQL & Apache Phoenix. Java
+
+   Development Developed jar script to perform database Obfuscation & maintenance. Obfuscated,
+   maintained & validated demo VM database. ASP.NET Development Designed, developed
+
+   & maintained continuous monitoring remediation dashboards. Created & optimized stored
+   procedures through SQL Server Management Studio.
+
+Java Developent, IT Intern at GNSI
+
+June 2012 - August 2012 (3 months)
+  Database Migration Exported Single-Sign On (SSO) groups through Eclipse LDAP browser.
+   Edited/Updated FDA user data from server migration operation. Validated work with regard to data
+
+   import from the SSO team. Quality Assurance Tested browser compatibility for the Food Facility
+   Registration Module web application. Utilized data dictionary with Oracle SQL Developer to insure
+
+   type consistency.Education
+University of Maryland College Park
+Bachelor of Science (B.S.),Computer Science,2011-2015
+Activities and Societies: UMD Mobile App Developers, UMD Game Developers
+
+Sherwood High School
+
+Interests
+Application Development, Website Development, Scripting Languages, Databases, Crypto-Currency,
+
+ Crypto-Fuel, Ethereum, BitcoinJames Kim
+Washington D.C. Metro Area
+Software Engineer at Perfect Sense
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  1/5/2016View by Yna Marie Josol

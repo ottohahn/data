@@ -1,0 +1,94 @@
+Shravan Papanaidu
+
+San Francisco Bay Area
+
+DevOps Engineer at Vocera
+
+
+Summary
+
+Enthusiastic and focused DevOps with in-depth knowledge on backend technologies and industry
+
+ experience focusing in Cloud Computing and virtualization. Qualified and experienced DevOps
+ engineer / software developer with a solid knowledge on backend infrastructure and technologies.
+
+ Interested in an entry-level software developer / DevOps position in a company where I may be able
+ to provide the company with the benefit of my knowledge, skills. AWS Certified Solution Architect -
+ Associate. Skills-, C++, Java, Python, Datastructures, Android, SQL, JSP, Hadoop, Zookeepr, Pig,
+
+ Hive, Mahout, Node.js, REST, shell scripting, AWS, Chef, Ansible.
+
+
+Experience
+
+DevOps Engineer at Vocera
+July 2015 - Present (3 months)
+
+
+Cloud Engineer Intern at REAN Cloud Solutions
+August 2014 - May 2015 (10 months)
+   Architected and designed on AWS cloud for customers to achieve high availability, fault
+
+   tolerant and scalable infrastructure.  Automated and developed python scripts using boto aws
+   library to manage cloud infrastructure which reduced manual work load.  Provided managed
+
+   services, on-call support to production systems and resolved all types of issues in environment
+   including but not limited to AWS issues, linux/windows issues.  Worked on Continuous Delivery /
+   Continuous Deployment project to automate the pipeline using Ansible, Jenkins, Python, Packer
+
+   and Terraform.
+
+Assistant Systems Engineer at Tata Consultancy Services
+May 2012 - July 2013 (1 year 3 months)
+
+  Worked as VDC test environment Low level designer for British telecommunications plc project.
+    Design, Implement and Analyze virtual and physical infrastructure solutions for BTs internal
+
+   applications.  Configure and deploy VMs and templates.  Worked as a cloud architect for a
+   client with a private cloud, hosting few hundreds of physical and virtual servers in their datacenter.
+
+    Responsible for establishing interconnectivities and investigating broken interconnectivities
+   between the servers in the datacenter   Responsible for the E2E test environment readiness for
+   3 CCP test releases of BT Retail.
+
+
+Assistant System Engineer Trainee at Tata Consultancy ServicesSeptember 2011 - September 2012 (1 year 1 month)
+  Mainframes (IBM z/OS) IBM Mainframe, JCL, IBM Utilities, TSO/PDF, ISPF Dialog Manager,
+  COBOL,CICS,DB2
+
+
+
+Education
+San Jose State University
+
+Master's degree,Computer Software Engineering,2013-2015
+SRM University
+Bachelor of Technology (BTech),Electronics & Communication Engineering,2007-2011
+Activities and Societies: IETE, IEEE, AARUUSH, Comspec
+
+
+Interests
+Cloud Computing, Virtualization, Linux, Kernel Hacking,Android.Shravan Papanaidu
+
+San Francisco Bay Area
+DevOps Engineer at Vocera
+
+
+
+
+
+1 person has recommended Shravan
+
+  "I worked with Shravan on a couple of projects where he provided technical advice and completed
+  the detailed design for the installation of new server platforms. This was done accurately and in a
+
+  timely fashion. Would not hesitate to work with him again"
+
+  Allister Ferguson,Lead High Level E2E Platform Designer, BT Technology Services and
+  Operations, was Shravan's client
+
+
+
+Profile Notes and Activity (1)
+
+  9/23/2015View by Salvador Jumag Jr.

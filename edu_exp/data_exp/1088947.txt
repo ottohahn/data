@@ -1,0 +1,132 @@
+Wilfred Stewart
+
+Dallas/Fort Worth Area
+
+3D Software Engineer at Superior Group
+
+
+Summary
+
+A senior software engineer desiring C/C++ opportunities in a Unix environment.
+
+
+
+Experience
+3D Software Engineer at Superior Group
+
+July 2015 - Present (7 months)
+  Consulting at L-3 Communications, Link Simulation and Training Software Lead, FY14 C-17
+
+   ATS-MTS Concurrency - tailored Software Development Plan from legacy program for this trainer
+   concurrency upgrade. F/A-18C/D Roadmap Procurement Program  development of Stores
+   Management System (SMS) capabilities regarding Joint Standoff Weapon (JSOW) simulation;
+
+   resolution of a wide range of discrepancy reports on the F/A-18C/D SimuStrike and Tactical
+   Operational Flight Trainers (TOFTs). Software written, in C++, FORTRAN, and QT.
+
+
+Principal Software Engineer at BAE Systems
+April 2014 - November 2014 (8 months)
+  Developed software to integrate Linux platform with National Instruments chassis containing MIL-
+
+  STD-1553, digital I/O, and reflective memory cards. This software allowed C++ programs on the
+   Linux platform to access and manipulate external mux and discrete signals. Wrote functions
+
+   to convert 16-bit unsigned integers (1553 mux words) to various data types. Created avionic
+   models to attach to a real-time scheduler and demonstrate processing of discrete inputs, 1553
+   communications, and reflective memory access. Developed MFD, HUD, and RWR prototype
+
+   cockpit displays using OpenGL. Holds secret security clearance.
+
+Application Developer at Infinite Computer Solutions
+May 2013 - November 2013 (7 months)
+
+  Performed project management duties for multinational telecommunications client, including
+   weekly maintenance of staffing forecasts, providing progress reports to first and second level
+
+   management, and coordinating software installations. Part of development team for two software
+   applications. Served as liaison for international software development group to U.S. clients.
+
+   Secondary subject matter expert (SME) for 9 of 10 Java and C++ applications.
+
+Embedded Software Engineer Staff at Lockheed Martin Aeronautics
+December 1989 - December 2011 (22 years 1 month)  Developed object-oriented avionic models of F-35 subsystems to simulate real-time Fibre Channel
+   and discrete signal interfaces between the model and the system under test. These models
+
+   were integrated into the JSF Avionic Development Environment (JADE), a suite of models and
+   testing tools used in the development of F-35 operational flight programs (OFPs). Developed
+
+   UML statecharts and class diagrams in IBM Rational Rhapsody. Wrote C++ code in IBM Rational
+   Rhapsody based on UML. Created automated test scripts using SWAT. Performed unit testing
+
+   and integration testing on Windows and Unix / Solaris platforms. Similar modeling tasks were done
+   on the F-16 Block 60 program, which additionally included MIL-STD-1553 signal interfaces and the
+
+   development of cockpit graphics for the multifunction displays (MFDs) using OpenGL. Selected
+   for a four-week special assignment to the Harvest HAWK program, an intelligence / surveillance /
+
+   reconnaissance (ISR) and weapon mission kit that equips KC130J transport aircraft for overwatch
+   and close-air support in the Afghanistan theater. This software was written in C on Unix platforms.
+
+   Member of a three-person team that created the first 5 x 7 color MFDs for F-16 software test
+   stations, using OpenGL. These MFDs incorporated increased display height, additional option
+
+   select buttons, color-coded statuses, and virtual subsystems to replace actual hardware.
+
+Missions volunteer at Birchman Baptist Church
+September 1988 - November 1989 (1 year 3 months)
+
+  Taught an introductory computer science course in the Commerce Department at Southern Baptist
+   College in Mlang. Involved in mentoring and led two regular Bible studies - one with a student
+
+   group and one with the local office of the Department of Agriculture. Served as a speaker at
+   churches in the surrounding area, and assisted career missionaries in various capacities.
+
+
+Software Engineer Senior at General Dynamics / Lockheed Martin
+July 1983 - September 1988 (5 years 3 months)
+  Developed graphical scenario generation system for rapid creation and modification of war gaming
+
+   databases, including command, communication, and logistics networks. System developed using
+   Pro*C in a C / Unix environment with Oracle RDBMS on Silicon Graphics platforms. Developed
+
+   graphical user interface and combat area display graphics for the Air / Land Battle Model at the
+   Battlefield Integration Center. This software, written in C on Unix platforms, used the Silicon
+
+   Graphics graphics language (GL) to display military forces on Digital Terrain Elevation Data
+   (DTED) maps in various theaters of operations. These war games simulated two opposing forces
+
+   distributed among as many as nineteen Silicon Graphics workstations. Ported and maintained
+   fighter aircraft analysis models for dogfight comparisions in the International Models group.
+
+   Demonstrated these models for the Republic of Korea Armed Forces in Seoul.
+
+
+Education
+
+Mississippi State University
+Master of Science (M.S.),Computer Science,1981-1983Activities and Societies: Upsilon Pi Epsilon - computer science honor society (president), Phi Kappa
+ Phi - honor society, Association for Computing Machinery, American Mensa, Famous Maroon Band,
+ Campus Crusade for Christ
+Mississippi State University
+
+Bachelor of Science (B.S.),Computer Science,1977-1981
+Activities and Societies: Phi Eta Sigma - freshman honor society, S. D. Lee Honors Program, Upsilon
+ Pi Epsilon - computer science honor society (treasurer), Phi Kappa Phi - honor society, MSU Hall
+ of Fame, Association for Computing Machinery, American Mensa, Famous Maroon Band, Campus
+ Crusade for Christ
+
+
+Interests
+Cycling, weight training, volleyball, college and professional sports, musicWilfred Stewart
+Dallas/Fort Worth Area
+3D Software Engineer at Superior Group
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  1/8/2016View by Liezl Adelantar

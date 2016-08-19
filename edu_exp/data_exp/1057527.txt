@@ -1,0 +1,99 @@
+Jamey Decker
+
+Phoenix, Arizona Area
+
+Software Engineer at State Farm
+
+
+Summary
+
+An accomplished Software Engineer who has experience with multiple platforms and has worked
+ in all phases of project development. My excellent attention to detail, strong analytical skills, ability
+
+ to learn new technologies, and capability to work in a team environment has allowed me to quickly
+ advance in my career.
+
+
+.NET, Apache, ASP, C, C++, Clearcase, CSS, CVS, Database Admin, Design, DHTML, DOS,
+ Dreamweaver, Eclipse, HTML, Informix, Java, JSP, JavaBeans, JavaScript, Linux, Mac OS,
+
+ C#, MS Office, Windows, MySQL, OOD, Oracle, presentation skills, software architecture, SQL,
+ Struts,Technical Support, Toad, Tomcat, UML, VBScript, VB, WAP, XML, XSL
+
+
+Experience
+
+Software Engineer at State Farm
+September 2015 - Present (4 months)
+
+
+Senior Consultant at Navigator Management Partners
+October 2014 - September 2015 (1 year)
+
+Kuali Engineering Team Lead at rSmart
+January 2014 - October 2014 (10 months)
+
+
+Java Engineer at rSmart
+February 2011 - January 2014 (3 years)
+
+Internet Software Developer II at TSYS Acquiring Solutions
+July 2006 - February 2011 (4 years 8 months)
+
+
+Contract Web Developer at Technisource - Talkabout Wireless
+March 2006 - July 2006 (5 months)
+  Responsible for maintaining an ASP.NET driven intranet with a MS SQL Server database and
+
+  websites for Talkabout Wireless. Converted static HTML pages into ASP.NET driven pages using
+  C# and writing the JavaScript for each page. Created a web based instant messaging client for
+  stores all over the country to communicate with one another over the intranet using JavaScript,
+
+  AJAX, XML, and XSL. Using regular expressions, developed a language filter for the IM client as
+  well as a emoticon display.Technology Support Analyst Assistant at Arizona State University
+March 2004 - March 2006 (2 years 1 month)
+
+  Was the sole developer responsible for designing, developing, testing, and maintaining secure
+   internal ASP applications and maintaining legacy ASP applications. Trained SRC staff on the
+
+   use of these applications and general desktop support. Redesigned SETS (Student Employee
+   Time System) from a VB application to an ASP application with MS SQL Server database from
+
+   scratch. Created an ASP based administrator application for SETS with multiple user levels that
+   dealt with approving time sheets, scheduling workers, managing positions, and pay rates. Wrote
+
+   a manual for SETS and provided training to the professional and student staff that used it. Gave
+   multiple presentations to other departments at ASU interested in using SETS for their employees.
+   Redesigned the Locker Rental program to deal with the large volume of SRC members wishing to
+
+   rent a locker.
+
+Student Web Developer at Arizona State University Undergraduate Initiatives Technology Services
+
+August 2002 - March 2004 (1 year 8 months)
+  Assisted in the design, development, testing, and maintenance of web applications and websites for
+
+   various departments throughout ASU. Changed the student government online voting application
+   to reflect the changes in the student government constitution. Designed and implemented website
+
+   for ASU Family Weekend.
+
+
+Education
+
+Arizona State University
+Bachelor of Science,Engineering, Computer Systems Engineering,2002-2005
+Kirkwood Community College
+
+Diploma,Internet Development,2000-2001Jamey Decker
+Phoenix, Arizona Area
+Software Engineer at State Farm
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  12/28/2015View by Yna Marie Josol

@@ -1,0 +1,602 @@
+Ritesh Kumar
+Visual Designer / UI Designer / Graphic Designer
+
+
+Deerfield, IL
+ritesh@riteshgallery.com - +1 (774)300-9129
+
+
+ Frontline interaction with clients/marketing teams for User Interface Design, providing information and
+
+suggestions in the best possible way.
+ Maximize the potential of the human computer interaction to produce a pre-determined and engrossing
+experience.
+
+ Understand customer requirements and company profile from client and design the User Interface of the
+application accordingly.
+  Enriching project proposal presentations for the application design.
+
+ Creating User Interface screen mock-ups.
+ Wire framing product ideas.
+
+ Images color correction, editing, and retouching.
+ Using various optimization techniques to assist in reducing bandwidth.
+  Creating UI screens with usability, accessibility and user experience.
+
+ Eliciting UI design specifications for the developers working on a project.
+ Coordinating with the developers on various design issues especially related to the HTML of the web pages.
+
+ Improving user experience of existing application.
+ Create graphic standard documents ensure consistency in quality of output.
+  Implementing current web trend and web technologies.
+
+ Creating Interactive presentations, intro animations, technical illustrations.
+ Create visual design of graphic elements - forms, logos, icons.
+
+
+
+WORK EXPERIENCE
+
+Visual Designer / UI Designer
+Sabre Corporation - Southlake, TX - March 2015 to Present
+
+Responsibilities
+
+
+Sabres Airline Solutions business offers a broad range of software and data solutions to help airlines market
+themselves, sell products, serve customers and operate more efficiently.
+
+This project involved web based solution for American airlines, I worked on bootstrap based application
+theming using LESS, CSS and HTML.
+
+
+Responsibilities:
+ Frontline interaction with clients/marketing /development team for User Interface Design.
+
+ Worked on look and feel/Styling of the application using LESS.
+ Worked on responsive design and cross browser compatibility.
+
+ Used various optimization techniques to assist in reducing bandwidth.
+ Worked on wire-framing using Axure.
+ Created style and guideline library.
+
+
+Skills Used
+
+Environment: Bootstrap Theming, Sublime, LESS, Photoshop, Axure, HTML5, CSS3, Responsive Design,
+and Tortoise Git.Visual Designer / UI Designer
+Tata Consultancy Services    - Tampa, FL - March 2007 to March 2015
+
+Tata Consultancy Services Limited (TCS Limited) is one of the world's leading information technology
+
+companies. Here my profile is Visual Designer.
+
+
+Projects Executed:
+
+Nielsen (Tampa, FL):
+
+Nielsen, a leading global information and measurement company, provides insights & data about what people
+watch, listen to & buy.
+
+
+This project involved creating mobile and web based solution, I worked on Ext JS Application Styling, and I
+
+worked on Ext Js Theming and Sencha Theming using SASS and compass
+
+Responsibilities:
+
+
+ Create iPad and iPhone UI Design for the application
+
+ Work on Sencha Touch Theming and Ext JS Theming
+ Frontline interaction with clients/marketing teams for User Interface Design.
+
+ Used various optimization techniques to assist in reducing bandwidth.
+ Create images, graphics, animations and illustrations using different media.
+
+
+Environment: ExtJs Theming, Sencha Touch Theming, Sublime, SASS, Photoshop, HTML5, CSS3,
+Responsive Design.
+
+Achievements:
+ Learned and started working on SCSS and SASS.
+ Successfully released updates weekly utilizing Agile and Scrum process.
+
+ Successfully completed projects on time.
+
+
+Walgreens (Chicago, IL):
+Walgreen Co. is the largest drugstore chain in the United States. Walgreens provides access to consumer
+
+goods and services and pharmacy, health and wellness services in America through its retail drugstores.
+
+This project involved creating mobile and web based solution for the Walgreen stores, where store manager
+
+can assign the required item using mobile device. I have designed the User Interface for iPad, iPhone and
+web application look and feel.
+
+
+Responsibilities:
+
+ Frontline interaction with clients/marketing teams for User Interface Design.
+ Work on the project proposal presentations for the application design.
+ Create iPad and iPhone UI Design for the application
+
+ Create images, graphics, animations and illustrations using different media.
+ Work along Design templates, graphic styles or templates specified for the project.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, HTML5, CSS3.
+Achievements:
+ Successfully redesigned the application according to usability and accessibility.
+
+ Resolved all UI requirements and challenges. Aligned with the latest front-end trends
+
+
+The Home Depot (Atlanta, GA):
+The Home Depot is an American retailer of home improvement and construction products and services. It
+
+operates many big-box format stores across the United States.
+
+
+This project involved creating mobile and web based solution for the Home Depot stores. I have designed the
+User Interface for firstPhone (Motorola Device), iPad and web application look and feel.
+
+
+Responsibilities:
+ Frontline interaction with clients/marketing teams for User Interface Design.
+
+ Handing the graphic design team.
+ Work on the project proposal presentations for the application design.
+
+ Create first phone and iPad UI Design for the application
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+
+ Used various optimization techniques to assist in reducing bandwidth.
+ Brainstormed and Wire framed product ideas for easy accessibility.
+
+ Design Dashboard for the application.
+ Create images, graphics, animations and illustrations using different media.
+ Work along Design templates, graphic styles or templates specified for the project.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, InDesign, HTML5, CSS3, Responsive Design.
+Achievements:
+
+ Achieved major improvements in e-Commerce site design and usability through redesign of application,
+search result, promotion, and checkout process pages.
+
+ Redesigned corporate identities.
+
+Walgreens (New Delhi, India):
+
+Walgreen Co. is the largest drugstore chain in the United States. Walgreens provides access to consumer
+goods and services and pharmacy, health and wellness services in America through its retail drugstores.
+
+
+This project involved creating mobile and web based solution for the Walgreen stores, where store manager
+
+can assign the required item using mobile device. I have designed the User Interface for iPad, iPhone and
+web application look and feel.
+
+
+Responsibilities:
+ Frontline interaction with clients/marketing teams for User Interface Design.
+
+ Handing the graphic design team.
+ Work on the project proposal presentations for the application design.
+
+ Create iPad and iPhone UI Design for the application
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+
+ Used various optimization techniques to assist in reducing bandwidth.
+ Brainstormed and Wire framed product ideas for easy accessibility.
+
+ Conduct multiple sessions with client, development Team, BA & Management for open and pending issues
+and find out the solution to fix the issues in best possible way.
+ Designed Dashboard for the application.
+
+ Create images, graphics, animations and illustrations using different media.
+ Work along Design templates, graphic styles or templates specified for the project. Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, HTML5, CSS3.
+Achievements:
+
+ Nominated for Employee award for excellence.
+ Recognized as HIPO
+
+ Designed first responsive application.
+
+
+CanaraHSBC Life Insurance (New Delhi, India):
+Canara HSBC Oriental Bank of Commerce Life Insurance Company is a joint venture between Canara, HSBC
+and OBC Bank.
+
+I worked as a User Experience Designer on this project for the design look and feel of portal and flash
+animations. I also designed the internal application look and feel.
+
+
+Responsibilities:
+
+ Frontline interaction with clients/marketing teams for User Interface Design.
+ Work on the project proposal presentations for the application design.
+
+ Create CMS based UI Design for the WebSphere portal application.
+ Work on flash banner design.
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+
+ Brainstorm and Wire framed product ideas for easy accessibility.
+ Create images, graphics, animations and illustrations using different media.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+ Create icons and graphic for the portal.
+
+
+Environment: Dreamweaver, Photoshop, Flash, JavaScript, jQuery, HTML, CSS and WebSphere.
+
+Achievements:
+ Redesigned company's visual style guide with CSS rebranding guidelines.
+ Used various optimization techniques to assist in reducing bandwidth.
+
+ Designed first web 2.0 application UI.
+
+
+IndiaFirst:
+IndiaFirst Life Insurance Company is a joint venture between Bank of Baroda, Andhra Bank and Legal and
+
+General (UK). I worked as an UI Designer on this project for the design look and feel of the internal portal
+and application.
+
+
+Responsibilities:
+ Frontline interaction with clients/marketing teams for User Interface Design.
+
+ Work on the project proposal presentations for the application design.
+ Create UI Design for the application based on glassfish.
+
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+ Create images, graphics, animations and illustrations using different media.
+
+ Work along Design templates, graphic styles or templates specified for the project.
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, JavaScript, jQuery, HTML, CSS and Glassfish
+Achievements:
+
+ Created a successful brand identity that is used through their print and online needs.
+ Learned and started working on design for portal based layout.AICNET:
+
+Agriculture Insurance Company of India Limited (AIC) is a Company set up to dispense insurance protection
+over agriculture and allied activities. I worked on the design look and feel of portal and internal application
+
+based on SharePoint.
+
+
+Responsibilities:
+ Frontline interaction with clients/marketing teams for User Interface Design.
+
+ Create UI Design for the SharePoint based application.
+ Create images and graphic elements.
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+
+ Use various optimization techniques to assist in reducing bandwidth.
+ Brainstorm and Wire framed product ideas for easy accessibility.
+
+ Create images, graphics, animations and illustrations using different media.
+ Work along Design templates, graphic styles or templates specified for the project.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, Flash, JavaScript, jQuery, HTML, CSS and SharePoint.
+Achievements:
+ Received appreciation from client for my commitment and effort and completed the delivery on time.
+
+ Received appreciation from my client and project management for my hard work spent on design.
+
+
+Skillsoft:
+Skillsoft provides comprehensive e-learning solutions that enhance the effectiveness of formal and informal
+
+learning through in-depth courseware. I worked on the template design and creation of the e-learning course.
+This project was based on flash and action Script.
+
+
+Responsibilities:
+ Work along Design templates, graphic styles for e-learning course.
+
+ Creation of vector based graphic element in flash.
+ Animate the graphic element in flash.
+
+ Include the voice in the e-learning course.
+ Review of work done by other team members
+
+ Interaction with onsite team and client.
+ Solving the design issues in the e-learning course.
+
+ Create images, graphics, animations and illustrations using different media.
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, Flash, sound forge, HTML, CSS and Action Script.
+Achievements:
+
+ Managed the graphic design team.
+ Role changed to "Module Lead" for my hard work spent to lead the eLearning team.
+
+ Awarded as the "star of the team" for my extensive support during critical timelines.
+
+
+SIA:
+This project was based on e-learning game in flash, when the user will select the right answer the correct
+sketch of the disable will appear on the screen.
+
+
+Responsibilities: I draw sketches of the seven disable person content as per the Storyboard. (Stephen William Hawking, Sarah
+Bernhardt, Ludwig van Beethoven, Helen Adams Keller )
+
+
+Environment: FreeHand Drawing, Sketch using colored pencil.
+
+Achievements:
+ Created first xml based flash quiz game.
+
+
+iQMS:
+
+It is TCS internal project for the learning and development, construction of a E-Learning course for the TCSers
+team members to learn the processes. I have worked as a graphic designer for the e-learning course.
+
+
+Responsibilities:
+ Work along Design templates, graphic styles for e-learning course.
+
+ Creation of vector based graphic element in flash.
+ Animate the graphic element in flash.
+
+ Include the voice in the e-learning course.
+ Created images, graphics, animations and illustrations using different media.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+
+Environment: Dreamweaver, Photoshop, Flash, HTML, CSS and Action Script.
+
+Achievements:
+ Used various optimization techniques to assist in reducing bandwidth.
+
+ Created first LMS based eLearning course.
+
+
+Standard Chartered bank:
+One of the world's most international banks. Standard Chartered has a network of over 1,400 branches in
+
+more than 50 countries across the Asia Pacific Region, South Asia, the Middle East, Africa, Europe and the
+Americas. I worked as web designer for the creation of the internal portal application.
+Responsibilities:
+
+ Frontline interaction with clients/marketing teams for User Interface Design.
+ Create UI Design for the application.
+
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+ Brainstorm and Wire framed product ideas for easy accessibility.
+
+ Create images, graphics, animations and illustrations using different media.
+ Work along Design templates, graphic styles or templates specified for the project.
+
+ Create graphic standard documents, ensure consistency in quality of output.
+
+Environment: Dreamweaver, Photoshop, HTML, CSS, JavaScript, jQuery.
+
+Achievements:
+ Successfully redesigned front end application with usability an accessibility.
+
+ Proposed a solution to improve the loading time.
+ Earned several awards for perfect performances.
+
+ Worked on the project proposal presentations for the application design.
+
+
+Bank of New York:
+The Bank of New York is a global bank. I worked on the construction of a E-Learning course for training the
+internal people regarding management. Here I worked as a flash designer for the creation of e-learning course.
+
+
+Responsibilities: Work along Design templates, graphic styles for e-learning course.
+ Creation of vector based graphic element in flash.
+
+ Animate the graphic element in flash.
+ Include the voice in the e-learning course.
+
+ Interaction with onsite team and client.
+ Work on the project proposal presentations for the application design.
+ Create images, graphics, animations and illustrations using different media.
+
+
+Environment: Dreamweaver, Photoshop, Flash, HTML, and CSS.
+
+Achievements:
+ Learned LMS, action scripts.
+
+ Recognized for creativity during critical timelines.
+ Solved the design issues in the e-learning course.
+
+Web Designer
+
+i2k2 Networks - Delhi, CA - July 2006 to February 2007
+
+i2k2 system is website design, hosting company and also work for the domain registration.
+
+
+There I got good opportunity to design various website and banner animation. I Designed web sites using
+HTML, CSS and adobe creative suite. I worked on User Interface Design, Interaction Design, and Design
+development, Branding / Corporate Identity, Visualizing and Conceptualization.
+
+
+Responsibilities:
+
+ Frontline interaction with clients/marketing teams for User Interface Design.
+ Design newsletter, e-mailer and dashboard.
+
+ Create UI Design for the application based on asp dot net.
+ Work with the development Team on various design issues especially related to the HTML of the web pages.
+ Create images, graphics, animations and illustrations using different media.
+
+ Work along Design templates, graphic styles or templates specified for the project.
+ Create graphic standard documents, ensure consistency in quality of output.
+
+
+Environment: Dreamweaver, Photoshop, InDesign, HTML, CSS, JavaScript, jQuery.
+
+Achievements:
+ Created company's first visual style guide with CSS rebranding guidelines
+ Established trusting relations with vendors and key clients.
+
+ Used various optimization techniques to assist in reducing bandwidth.
+
+Graphic Designer
+
+Square Vision - August 2005 to June 2006
+
+Square Vision is very good organization for the print media. This company works in printing and Illustration.
+Company is especially for book cover design, broacher, and logo design etc.
+
+
+I create lots of design for the book cover, Logo, Newsletter, Package Design, Visiting Card, Poster Design and
+worked on various things which is related with print media.
+
+
+Responsibilities:
+
+ Frontline interaction with clients for print related design.
+ Design book cover, logo, package design, Broacher, newsletter, visiting card and Posters.
+
+ Create illustration for the book cover. Design Advertising posters.
+ Create images, graphics and illustrations using different media.
+
+
+Environment: Corel, InDesign Illustrator and Photoshop
+
+Achievements:
+ Created new company logo and branding guidelines.
+ Successfully completed client projects.
+
+ Consistently recognized for fresh and innovative ideas and designs.
+
+Cartoon Drawing Trainer
+
+Kornik - Deoghar, Jharkhand - January 2001 to December 2004
+
+Kornik is school of fine art in Deoghar, Jharkhand (India). There I was appointed as cartoon drawing trainer.
+My profile was to teach students sketching, line drawing and cartoons using different media with concept. I
+had participated in many exhibitions and also I got lots of opportunity work for the Kornik clients like mural
+
+work, thermo Cole work, and painting.
+
+
+Responsibilities:
+ Teach students sketching, line drawing and cartoons using different media
+
+ Create Illustrations for print media.
+ Sketch Cartoons as per requirement.
+ Create painting using different media.
+
+ Mural work, thermo Cole work with Kornik team in the occasion of festival.
+ Stage background painting.
+
+ Design Greeting Cards.
+ Active member for the arrangement of art exhibition.
+
+
+Environment: Free Hand sketch, Water Color, Oil Color, Poster color, Pencil color and charcoal work.
+
+
+Achievements:
+ Awarded for best stage decoration.
+
+ Awarded for best Pottery Making.
+
+
+EDUCATION
+
+
+Bachelor Degree in Physics
+S.K.M University - Dumka, Jharkhand
+1999 to 2002
+
+
+6 Years Diploma in Fine Arts
+Bangiya Sangeet Parishad - Deoghar, Jharkhand
+
+1993 to 1999
+
+
+SKILLS
+
+
+User Interface Design, Usability, Website Design,User Experience Design, Interaction Design, Graphic
+Design, Web Development, Dash board Design, UI/UX Design, Front End UI Design, Mobile Application
+UI Design, Tablet UI Design, ipad UI Design, iPhone UI Design, Android UI Design, Responsive Design,
+
+Photoshop, Dreamweaver, Flash, Corel Draw, Illustrator, MS office, Adobe Creative SuiteLINKS
+
+http://riteshgallery.com/demo/HTML5_CSS3
+
+
+http://riteshgallery.com/demo/axurework/wireframe
+
+http://www.linkedin.com/in/riteshgallery
+
+http://www.riteshgallery.com
+
+
+http://www.riteshgallery.com/smallportfolio
+
+https://www.dropbox.com/s/pfsp7pqvjh0u7lj/Ritesh-CV-UI-Visual%20designer.docx?dl=0
+
+
+AWARDS
+
+
+Ankar Biwakar
+December 1995
+
+In Fine Arts
+
+
+CERTIFICATIONS
+
+Multimedia
+
+January 2005 to August 2005
+
+
+PUBLICATIONS
+
+
+Online portfolio
+http://www.riteshgallery.com
+
+Ritesh Resume (Word):
+
+http://bit.ly/1H2aqaE
+
+Small Portfolio
+
+http://riteshgallery.com/smallportfolio
+
+
+ADDITIONAL INFORMATION
+
+ Bachelor in Science
+
+ 6 years Diploma in Fine Art (Equivalent to Degree)
+ Diploma in Multimedia
+
+ Diploma in Cartoon drawing

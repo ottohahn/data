@@ -1,0 +1,75 @@
+                               ROHAN RAMAKRISHNA
+
+
+rohannr@gmail.com                                                       linkedin.com/in/rohannr
+(415) 832-9420
+
+
+EDUCATION
+       University of Waterloo, Waterloo, ON
+
+       Honours Bachelor of Computer Science(Co-op), June 2014
+       Undergraduate Research Assistant, Faculty of Computer Science.
+
+
+EXPERIENCE
+       Software Engineer                  Cloudera, San Francisco, CA      September 2014-present
+
+       Cloudera Manager Platform Team. Developed infrastructure to monitor the health of clients de-
+       ployment of Clouderas Distribution of Hadoop. Identied relevant host and service metrics and and
+       implemented their collection across a variety of platforms. Added health checks that signicantly
+
+       improved the clients ability to evaluate the state of their deployment. Spearheaded a refactor of a
+       part of the code base with the aim of moving the architecture towards a platform model.
+
+
+       Systems Engineering Intern         Facebook, Menlo Park, CA                      Fall 2013
+
+       Internal Core Infrastructure. Designed and developed a data lifecycle management client in Python
+       to ensure automated compliance of analytics data in data warehousing systems (Vertica), Hadoop
+       clusters and ETL pipelines with data privacy regulations.
+
+
+
+       Software Engineering Intern        Lookout Mobile Security, San Francisco, CA    Fall 2012
+       Programming lead on project to port Lookout Anti-virus application to the Kindle Fire. Worked
+       closely with product design to optimize the user experience for tablet. Top 10 Utitlities app in
+
+       Kindle App Store(4.3 stars) on release. Prototyped feature to block and quarantine malicious SMS
+       on Android devices. Researched attack vectors for SMS phishing. Awarded patent.
+           \System and Method for Call Blocking and SMS Blocking" U.S. Patent 8,913,994
+
+
+
+       Software Engineering Intern        Qualcomm Inc, San Diego, CA                 Winter 2012
+       Designed and implemented a server program to monitor Qualcomms S4 processor performance on
+
+       QNX. Completed project ahead of schedule with extended monitoring ability to provide benchmark-
+       ing results that helped to diagnose critical CPU and cache issues. Created an extensible API to
+       instrument the entire processor upto the level of individual cores.
+
+
+
+       Agile Software Engineer            Xtreme Labs(now Pivotal Labs), Toronto     Summer 2011
+       Developed mobile applications on the BlackBerry platform for major clients such as MTV and
+       Groupon. Programmatically implemented UI designs, optimized network code and debugged code
+
+       base within a continuous integration framework (Hudson)
+
+
+TECHNICAL SKILLS
+       Procient in C/C++, Python, Java, LISP/Scheme, MATLAB, JavaScript, Bash.
+       Working knowledge of Vertica, Oracle, MySQL, Hive, Hadoop, Git, Jenkins, Android SDK
+
+
+HONORS AND AWARDS
+
+       Deans Honours List: Fall 2009 - Winter 2010
+       Presidents Scholarship of Distinction
+       Presidents International Experience Award
+
+       Presidents Research Award
+
+
+EXTRACURRICULAR ACTIVITIES
+       Teaching Assistant, Faculty of Mathematics. Resident Advisor at Co-operative Student Housing.

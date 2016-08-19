@@ -1,0 +1,108 @@
+Lohith Kumar MUNIRAJU
+
+MOBILE: +33 753487054					eMAIL: lohithm.586@gmail.com
+
+
+OBJECTIVE
+To obtain a position that utilize my testing, analytical and customer interaction skills in the domain and provide an environment to learn more about transaction processing in a live acquiring and issuing environment.
+
+
+EXPERIENCE SUMMARY
+
+5+ years of working experience in EMV, Smart card and Payment domain. 
+
+· Currently working as EMV Level 2 Test Engineer, handling EMV contact and MasterCard PayPass Level 2 Type Approval testing activities 
+
+· Extensively worked as Certification Analyst, handling MasterCard (MTIP, PayPass), VISA (ADVT) contact and Contactless acquiring chip migration projects. 
+
+· Travelled onsite managing acquiring consulting projects (MTIP, PayPass and ADVT) and worked closely with Banks, Terminal vendors and Application developers.
+
+
+SKILLS
+
+Good knowledge in below specifications and environments:
+
+· Contact and contactless specifications of EMV books, MasterCard and VISA.
+· EMV commands, ISO 7816, ISO 8583, ISO 17025 specifications
+· Payment System, Standard POS/ATM and mPOS transaction Environments  
+
+
+TOOLS
+
+EMVCo, MTIP, ADVT Certifications:
+
+· ETEC Verify, SAVVI, TSE, Host Simulator
+· MasterCard Credit and Debit simulators
+
+Level 2 Type Approval Testing:
+
+· EVAL, X-core, Proxy card, Smart Spy ( contact and contactless)
+· Host software provided by terminal vendors, application developers.
+
+
+EDUCATIONAL DETAILS
+
+Bachelor of Engineering in Information Science, 2009
+PES college of Engineering, Bangalore, India
+
+Software Testing Course (Manual & QTP), 2010
+QSpiders, Bangalore, India
+WORK EXPERIENCE
+
+EMV Level 2 Test Engineer – FIME EMEA / Orange Business Services
+EMV contact & MasterCard PayPass reader testing activities, Caen, France
+Jan 2015 - Present
+
+· ICS validation against EMVCo and MasterCard requirements.
+· Handling the activities such as Test bench preparation, Installation of OS, Certification keys, Application firmware into reader.
+· Performing Functional, Integration and Performance testing of reader testing and communicate the results to customer.
+· If no issue found during testing, continue further with generation of test report and submit the same to certification authority, who will then issue the Level 2 certification for customers.
+
+
+Senior Systems Engineer – FIME India / Orange Business Services
+EMVCo, MTIP & ADVT Certifications, Bangalore, India
+May 2010 – Dec 2014
+
+In house Activities - Certification Analyst:
+
+· Validation of terminal administrative and ICS information.
+· Extraction of tests cases based on terminal configuration chosen by customer.
+· Analysis of card/trace and simulator logs against EMVCo, MasterCard and VISA specifications and communicate the results to customer. 
+· Generation of Letter of Approval (LoA) once all the tests are closed.
+
+Onsite activities - Consultant:
+
+· Responsible for getting terminal profile confirmation, verifying the terminal configuration (Like EMVCo L1 and L2 references, TQM label, EMV kernel, Application software name, Terminal type and capabilities supported by the terminal) provided by the customer against the EMVCo, MasterCard and VISA Requirements.
+
+· Performing terminal-card testing using MasterCard/VISA test cards and simulators, capturing and analyzing test results, communicate results to clients, banks and terminal vendors, help in identifying and resolving issues, if any.
+
+· Help customers to get NIV (Network interface validation), MTIP, PayPass and ADVT acquiring chip migration certifications
+
+
+RECENT EMV MIGRATION CONSULTING PROJECTS:
+
+· PayNear Solutions, Hyderabad, India ( Jun 2014 )
+MTIP & ADVT certifications for AXIS Bank using Miura mPOS terminals. 
+
+· Mahindra Comviva, Bangalore, India ( Feb-May 2014 )
+MTIP & ADVT certifications for ICICI / First Data Merchant services
+QPOS & ROAM Ingenico mPOS terminals. 
+
+· Bank of Ceylon Bank, Colombo, Sri Lanka ( Feb-Mar 2012 )
+MTIP & ADVT certifications for VeriFone, Hypercom and Spectra POS terminals.
+
+FURTHER INFORMATION	
+
+Passport Number	:  K2108743
+
+Nationality / Religion	: Indian / Hindu
+
+VISA			: FRANCE (sauf CTOM), Type D
+
+DOB			: 10-03-1988
+
+Sex / Marital Status	:  Male / Single
+
+Address		: #169, Rue d’Auge, Appt. 504, Caen 14000, France
+
+Hobbies		: Cricket, Football, F1, Kabaddi, Tennis, Internet, listening MUSIC

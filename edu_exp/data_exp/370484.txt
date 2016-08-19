@@ -1,0 +1,45 @@
+Joseph Gollner 
+2732 Pioneer Court 
+Chamblee, GA. 30341 
+618-303-4619 
+joseph.gollner@gmail.com 
+SUMMARY 
+Positive team player that has excellent soft skills to compliment technical expertise.   Motivated self-starter that 
+enjoys undertaking challenging projects and has a record of accomplishment. 
+TECHNOLOGY 
+ Middleware:  Weblogic 9, 10, and 12c.  JBOSS EAP 6.0-6.4 & JON 3.1.2/3.2.  WebSphere 7 (Oncall Support 
+Only)  
+ Infrastructure:  NTP, LDAP, DNS, HTTP (Apache), DHCP, SAMBA, Load-balancing:  HTTP & NSAPI Proxy 
+ Monitoring Software:  IBM Tivoli (ITM), CA APM (Introscope), NagiosXI 
+ Programming Languages:  Bash, Java, Python 
+ Automation:  Puppet 
+ Operating Systems:  RHEL 5, 6, 7, Solaris 9, Solaris 10, Ubuntu 12.04+ 
+EDUCATION 
+Southern Illinois University – Carbondale, IL 
+ B. S. in Information Systems Technologies, May 2009. 
+ 
+BUSINESS AND RELATED EXPERIENCE 
+Elavon, Inc. - Atlanta, GA, January 2014 – Present 
+Senior Middleware Engineer 
+ Design and Deploy JBOSS 6.0+ infrastructure for Websphere -> JBOSS Migration 
+ Utilize JON to manage large-scale JBOSS environment (120+ nodes) 
+ Provide best practices for Solaris and RHEL operating systems to team mates 
+ Document and Implement JBOSS Best Practices 
+ Assist Development Teams with Developing in JBOSS 
+ Build custom Puppet modules to automate JBOSS installation and configuration 
+ Implement PCI-compliant security procedures 
+ Build and implement NagiosXI infrastructure for monitoring 
+Norfolk Southern - Atlanta, GA, January 2010 – January 2014 
+Systems Engineer 
+ Configure, Maintain, and Support WebLogic 8, 9, 10, and 12c environments 
+ Architect, Deploy, and Support JBOSS EAP 6.1 Environment for WebLogic -> JBOSS Migration 
+ Provide Tier 3 Architecture and Support for RHEL and J2EE Environments 
+ Help onboard and train a new 2nd-level operations center for Linux and Middleware towers 
+ Lead effort to update aging Java applications to new Weblogic + Java versions 
+ Implement and support CA Application Performance Monitoring (CA Introscope and CEM) 
+ Act as liaison between Security and Linux/Middleware Operations teams to ensure compliance 
+Mimmo’s Pizza - McLeansboro, IL, August 2007 – December 2009 
+Systems Administrator 
+ Built and Maintained LANs at five company locations 
+ Utilized Windows Server 2003 to provide internal services to employees 
+ Linked satellite locations to company headquarters via VPN

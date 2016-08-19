@@ -1,0 +1,66 @@
+Doron Honig
+
+Greater New York City Area
+
+Unix Infrastructure and Automation Engineer
+
+
+Experience
+
+Site Reliability Engineer at GrubHub
+August 2015 - Present (3 months)
+
+
+DevOps Engineer at JW Player
+November 2013 - August 2015 (1 year 10 months)
+
+System Administrator at comiXology
+
+April 2012 - November 2013 (1 year 8 months)
+  Pioneers of the digital comic book industry.
+
+Unix Systems Engineer at IPsoft
+
+October 2010 - March 2012 (1 year 6 months)
+  Supported over 30 IT infrastructures for clients who have outsourced their system management
+   requirements, ranging from medium sized businesses to large enterprise clients. Heavy exposure
+
+   to vSphere, Amazon Web Services, Solaris, Redhat Linux, Netbackup, Netapp devices.
+   Designated as the technical lead for 3 clients -- A sports media publisher: Linux/Apache/MySQL/
+
+  PHP stack on AWS + Linux/Tomcat/MySQL stack on physical machines. A major hotel franchiser:
+   vSphere cluster hosting Red Hat virtual machines + >50 Solaris physical machines. Applications
+
+   hosted by Java on Websphere, Tomcat, and others. Databases hosted by Oracle. A major sports
+   league: DR (disaster recovery) environment which consisted of 15+ VMware ESX machines
+   serving multiple Red Hat and Solaris VMs. Applications java based served by tomcat and
+
+   database served by Oracle. Storage provided by 2x clustered NetApps replicating through
+   Snapmirror from the production site.
+
+
+Jr. System Admin at DedicatedNOW
+August 2009 - April 2010 (9 months)
+  Provided Linux and Windows support for clients of dedicated server rentals. The majority of clients
+
+   require support for shared hosting operations, company web sites, forums, VPS resellers, and
+   other popular websites. Gained exposure to Apache, IIS, DNS, MySQL, PHP, RAID, mail servers,
+
+   and others. Worked on site at the data center and maintained APCs, PDU, generator, cables as
+   well as custom build and rack servers for clients and prepare them for launch.
+
+
+
+Education
+Rutgers UniversityMath,2007-2009Doron Honig
+Greater New York City Area
+Unix Infrastructure and Automation Engineer
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  10/31/2015View by Jemmielyn Capalad

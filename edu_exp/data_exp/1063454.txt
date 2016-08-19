@@ -1,0 +1,262 @@
+Karan Sharma
+
+Greater Boston Area
+
+Software Engineer at State of Maine
+
+
+Summary
+
+SUMMARY OF EXPERIENCE More than 14+ year of experience as a system analysis, design and
+
+ development including three years in Quality Assurance in Web and Client Server Applications.
+ Developed excellent professional skills by working independently and as a team member to prepare
+
+ test plans, Scripts and Test Cases for manual and Automated testing.
+
+
+Experience
+
+Senior Software Engineer at State of Maine
+May 2015 - Present (8 months)
+  QA
+
+
+Senior Software Engineer at Swiss Re
+March 2015 - May 2015 (3 months)
+  QA
+
+
+QA Coordinator at Blue Cross Blue Shield of Massachusetts
+September 2014 - January 2015 (5 months)
+
+US Division IAM QA Lead at John Hancock Financial Services
+
+July 2012 - July 2014 (2 years 1 month)
+  Manulife operates in the world's top three economies: China, Japan and United States. Their home
+  market, Canada, ranks eleventh. Beyond these four large economies, Manulife is located in nine
+
+  Asian countries and territories that are amongst the fastest growing in the world. I am working
+  on Identity and Access Management (IAM) project is a Global Information Risk initiative that
+
+  encompasses all of Manulife. Its ultimate goal is to standardize access and reporting of access
+  across Manulife divisions. The IAM effort will involve business owners, IT applications owners, IT
+
+  security, and Audit, all working toward a common objective of establishing a common and effective
+  Identity and access management program. This is the first part of a multiphase project to create
+  standardized control and reporting mechanisms across Manulife divisions. The first phase of this
+
+  overall project is to meet an immediate Board of Directors-based mandate to lower audit flags on
+  systems that have Sarbanes-Oxley (SOX) regulatory sensitivity.
+
+
+QA Lead/Analyst at Sovereign Bank
+March 2011 - June 2012 (1 year 4 months)SR QA Engineer at Fresenius Medical Care
+November 2010 - May 2011 (7 months)
+
+
+Sr QA Engineer at Monster
+June 2010 - November 2010 (6 months)
+  QA Engineer
+
+
+QA Engineer/ Software Support Engineer at Tom Snyder Productions
+November 2009 - April 2010 (6 months)
+
+  Tom Snyder Productions, a Scholastic company, is a leading developer and publisher of
+   educational software for K-12 classrooms. Scholastic (NASDAQ: SCHL), the global children's
+
+   publishing and media company. Recognizing that literacy is the cornerstone of a child's
+   intellectual, personal and cultural growth, for more than 80 years, Scholastic has created quality
+
+   products and services that educate, entertain and motivate children.
+   As part of the Scholastic Education Division, the Scholastic Education Technology Group (SETG)
+
+   is responsible for developing and maintaining award-winning, educational software titles Including
+   READ 180, ReadAbout, Scholastic Reading Inventory, Scholastic RED and WiggleWorks.
+
+
+Sr. QA Analyst at Citizens Bank
+April 2009 - November 2009 (8 months)
+  Citizens Bank is one of largest and the fastest growing bank in New England area. After being
+
+   acquired by Royal Bank of Scotland (RBS), Citizens Bank has been aggressively trying to expand
+   throughout United States. Citizens are converting all their personal and business master cards to
+
+   visa card.
+
+SR.QA Engineer at Iron Mountain
+
+March 2007 - January 2009 (1 year 11 months)
+  Sr. QA Engineer Working as Sr. QA Engineer for Connected Backup web and data base based
+
+   application. Iron Mountain Inc. helps organizations around the world reduce the costs and risks
+   associated with information protection and storage. It is a trusted partner to more than 90,000
+
+   corporate clients throughout North America, Europe, Latin America and the Pacific Rim.
+
+Sr. QA Analyst / Team Lead at Bottomline Technologies
+August 2006 - May 2007 (10 months)
+
+  Bottomline Technologies (NASDAQ: EPAY) provides payments and invoice automation software
+   and services to organizations seeking more secure and efficient financial processes. The company
+
+   remains at the forefront of delivering innovative solutions that complement and extend the value of
+   existing financial processes, business relationships and back-office systems. These solutions have
+
+   enabled the worlds leading corporations, banks and financial institutions to automate, manage and
+   control processes involving payments and collections, invoice approval, cash flow, risk mitigation,   reporting and document archive. As part of the QA team, Involved in testing three different projects
+
+   BANA, RTGS and Bridge.Net
+
+Team lead at First Marblehead
+April 2006 - August 2006 (5 months)
+
+  First Marble head is among the largest educational loan service providers in the nation, offering
+   broad range of loan products. Major services of the organization include distance application
+
+   process by phone and online. In providing services, Firstmarblehead do not serve as a lender,
+   guarantor or loan service, but instead receive fees for the services provide in connection with
+
+   processing and securitizing clients' loans. Using Firstmarblehead services clients can offer student
+   borrowers access to customized, competitive student loan products while enhancing their fees but
+
+   minimizing their resource commitment and exposure to credit risk. As part of the QA team, Involved
+   in testing nine different projects Capstone Credit Report Query, Profile Maintenance Reports, Web
+
+   App Exception, CDA Disbursement, ScholarNet, Esign, School certification, EDW and Web front
+   end.
+
+
+QA Analyst at American Student Assistance
+October 2005 - April 2006 (7 months)
+  The ASA Enterprise is sixth largest Client, which processes student loan applications sent by
+
+   various schools and/or students. The application runs under the Windows 2000 environment and
+   uses the Microsoft SQL Server as the backend database. The Enterprise Client is written using
+
+   Visual C++.
+
+Sr. QA Analyst at Citizens Bank
+
+April 2004 - September 2005 (1 year 6 months)
+  Citizens Bank is one of largest and the fastest growing bank in New England area. After being
+
+   acquired by Royal Bank of Scotland (RBS), Citizens Bank has been aggressively trying to expand
+   throughout United States. Citizens recently made a big presence in the Mid-West region through
+
+   the acquisition of Charter One Bank. This drive to expand has led Citizens Bank to revamp
+   their Online Banking Application to meet the needs of ever-growing electronic banking client
+
+   base. Application was designed to provide bill pay, transfer, account access, and download
+   functionalities to all customers.
+
+
+Sr. QA Automation Specialist at Electric Insurance Company
+September 2003 - March 2004 (7 months)
+  QA automation specialist for a large insurance company that was creating to a multi-channel
+
+   service offering for their products in which customers would be able to get a quote and purchase
+   auto or home insurance on the web. QA automation specialist responsibilities included providing
+
+   nightly status reports that included testing metrics detailing the number of tests executed, passed,
+   failed, and the numbers of defects reported, reopen, or closed. As the project neared completion,
+
+   the team was responsible for automation to ensure that all regression tests were automated using   Mercury Interactive WinRunner according to the priority for automation given to each test. Along
+
+   with prioritizing the test for automation, the regression team was responsible for testing web-based
+   application.
+
+Sr. QA Engineer at NASDAQ
+
+July 2002 - August 2003 (1 year 2 months)
+  Involved in assisting the testing and implementation of an Online Stock Market Transaction
+
+   System, to capture and manage the stock market data generated by NASDAQ. Worked as Sr.
+   Documentation Specialist involved in writing test case and test plans for on line Web based test
+
+   environment. This is a WEB based project using J2EE/HTML front-end, Web Logic at middle tier
+   and Oracle 8i as backend. Involved in different type of Unit, Functional, Integration, System &GUI
+
+   testing for following module. (a) Quotes (b) Single Quote (c) Popup Ticker (d) Ticker (e) Symbols
+   (f) Forward Rates (g) Bonds (h) Complex Options (i) Mutual Funds (j) Multi Trade (k) Estimated
+
+   Commissions (l) Cancel and Replace Orders (m) ECN/ Directed Trading, ECN/Short Sell/Buy to
+   Cover, ECN Alerts (n) Underwriting. Lead regional Quality Trader Suite to ensure consistency
+
+   of desired performance and evaluation techniques. Participated in internal Corporate Quality
+   Specialist Trader Suite sessions. Supported. Quality Analysts to validate data, provide NASDAQ
+
+   Test Tools, Identify specific behavioral trends, and provide input/validation on potential quality plan
+   solutions. Performed Back end testing using RUMBA and FBSI tools.
+
+
+Sr. QA Engineer at Fleet Bank
+November 2001 - June 2002 (8 months)
+  Worked as System Tester involved in testing an Online Banking Application, 'Account Link. The
+
+   application was developed in Oracle; enable the customers to access their Bank account through
+   World Wide Web. Using the Customer No. and PIN, their Checking, Saving and Money Market
+
+   accounts can be accessed. The application provides the Account Summary (balances, last
+   deposits, etc.), Activity Detail (Transaction Details) to transfer funds between the various accounts
+
+   using Fund Transfers. The user has the option to change his PIN number, enable or disable the
+   ability to transfer funds between accounts.
+
+
+QA Tester at Fidelity Investments
+October 2000 - October 2001 (1 year 1 month)
+
+  Worked as a QA Engineer, involved in testing many web based applications like AO3, RTR,
+   Preclearance, CU_Preclearance, PLATO and non-web based like ECOE, 13G(VB) and Broker
+
+   Voting (Power Builder). Developing test cases, test scenarios and execute them on Windows and
+   Unix platforms.
+
+
+Sr. QA Tester at Monster
+May 2000 - September 2000 (5 months)
+  Develop the Test Cases and Test Plan for the WEB based application. Manual testing for the WEB
+
+   based application. Automated scripts were developed using WinRunner to perform Regression   Testing Product was developed in Java Using Windows NT 2000 platforms Worked closely with
+
+   the Development team to identify software bugs
+
+Sr QA tester at Parametric Technology Corporation
+November 1999 - April 2000 (6 months)
+
+  Responsible for working with development engineers testing new printing architecture. Testing
+   included functionality, performance, and smoke tests at the component level using a test harness.
+
+   Responsibilities included developing test scripts and documenting test processes, compiling the
+   weekly build.
+
+
+Sr. Performance Tester at Concentric
+May 1999 - October 1999 (6 months)
+  Project involved testing of client-server application written in C++ and used by financial analysts to
+
+   create, modify and analyze incentive compensation system.
+
+System Tester at Guardian Life Insurance
+
+October 1998 - April 1999 (7 months)
+  GLIC is one of the largest insurance companies providing insurance services for over 100 years.
+
+   Application involved automating invoice preparation to enable general office staff to process each
+   case by selecting from an active queue. The printed invoice is the end product of this system.
+
+   Reports were generated using Crystal Reports. The front end developed in Visual Basic on an
+   Oracle database.Karan Sharma
+Greater Boston Area
+Software Engineer at State of Maine
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  12/31/2015View by Amy Dungo

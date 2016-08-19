@@ -1,0 +1,55 @@
+Austin Lin
+4418 Moran Drive San Jose, CA 95129
+Email: austin7712@hotmail.com Tel: (646)667-7301  
+
+OBJECTIVE
+Full-time As an international graduate student, I spare no effort to push myself in 
+study and also strive to be actively involved in an environment that requires 
+teamwork. Being an engineer is considered a life-long goal of mine. This goal
+ will hopefully lead me to fulfillment and satisfaction. In pursuit of this, I 
+believe that working in your company is the perfect way to make the dream 
+come true.
+
+EDUCATION
+2013-1015 NYU POLYTECHNIC SCHOOL OF ENGINEERING, NEW YORK, U.S
+SEP 15 - MAY 21 Master of Science degree in Electrical Engineering (GPA:3.3)
+  
+2011-2012 REPUBLIC OF TAIWAN AIR FORCES (MANDATORY SERVICE)                
+OCT 13 - SEP 13 Air Defense Missile Command 
+  
+09. 2007 – 06. 2011 NATIONAL TAMKANG UNIVERSITY, TAIPEI, TAIWAN                      
+SEP 12 - JUL 23 Bachelor of Science degree in Electrical Engineering 
+
+RELEVANT COURSEWORK
+*Computer Architecture: Understanding computer architecture by measuring its performance and the data structure configuration. 
+*Embedded System Design: An overview of the unique concepts and techniques needed to design and implement computer systems having realtime response requirements in an embedded environment. 
+*System Engineering: Learning fundamentals of systems engineering process. 
+
+WORK EXPERIENCE
+2010 System and Technology crop. (GPS), Taiwan    
+Summer Internship Summer intern to help company update the data in their GPS system database. Collaborating with other departments to optimize the instructions 
+and debugging the user interface. 
+2013 Ableman International Co., Ltd. (Touch-free Soap Dispensers ), Taiwan
+May - Aug Internship Helping to design the product and the customer service in the R&D department.
+
+ACADEMIC PROJECTS
+  Bluetooth Control Car on Embedded System Using STM32F4 Discovery board and build a car 
+with bluetooth module to control it with smart phone, compile on linux system.                                   
+1. Mapping gpio port between device and board.                                                                                 
+2. Bluetooth module transmission via UART protocol.
+  2-ch Wireless EEG System Using Altium to design this project consisting of building a fully-functional, 2-channel wireless scalp EEG system.                                                                               
+1. Design the opamp circuit, analyze gain, noise, bandwidth, offset, power consumption, size and cost on Altium design.                                                                                                                           
+2. Layout the board and analyze the opamp signal with waveform oscilloscope.
+  Network protocol and security Building an multi-hosts network system to analyze the communication in between.                                                                                                                  
+1. Set local network between several hosts.                                                                                         
+2. Capture the packages and analyze the activities in between.
+  Internet of Things - Night light and lullaby player device Building a lullaby system circuit with necessary component and programming it.
+ 1. GPIO pins in various modes: output, input, analog input, alternate function.                                   
+2. Communication peripherals (UART), ADC (for reading from light sensor), PWM output (adjusting light color), interrupts and interrupt priorities.
+
+TECHNICAL SKILLS
+Programming: C/C++, ARM Embedded C, Assembly Language, Python.
+Software: Altium designer, Matlab,Visual basic, CAD
+LANGUAGES
+Mandarin: Native 
+Englinsh: Fluent

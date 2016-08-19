@@ -1,0 +1,116 @@
+Ceri Stagg
+
+San Francisco Bay Area
+
+Senior Software Engineer at Telltale Games
+
+
+Summary
+
+I have many years experience writing AI code to satisfy constantly shifting design specs written on the
+ back of envelopes. My professional goal is to extend my knowledge of unit and compliance testing,
+
+ and to erect a moat of paranoia around all my work to stop other people breaking it.
+
+I am the world's foremost expert on using design by contract in a manner that ensures that at least
+
+ half the bugs I fix are caused by other people, allowing them to go home earlier while I stay at work
+ until 10pm, improving my typing skills and my ability to press F10 repeatedly while stepping through
+
+ error-strewn code.
+
+
+Experience
+
+Senior Software Engineer at Telltale Games
+October 2013 - Present (1 year 11 months)
+
+Roving techno-tramp at Self-employed
+May 2012 - September 2013 (1 year 5 months)
+
+  Doing some Objective-C, Python, Prolog, Erlang and Haskell while subsisting on the fruits of forex
+   trading. Eventually quit as I was fed up with my own unreasonable terms and conditions.
+
+Senior software engineer at Ubisoft Vancouver
+
+February 2009 - May 2012 (3 years 4 months)
+
+Gameplay lead at Action Pants Inc
+November 2006 - February 2009 (2 years 4 months)
+
+  Working on a game project so secret that it's rumoured the company's owners have eaten the
+   design.
+
+AI programmer and designer at Radical
+
+December 2003 - November 2006 (3 years)
+  AI designer and programmer for high profile 3D open-world project ("Scarface") plus navigation
+   system foundation work on "Prototype".
+
+
+Programmer at Mobius Entertainment
+July 2000 - July 2002 (2 years 1 month)
+  AI designer and coder on two 3D action adventure games, one of them rubbishProgrammer at Charybdis Ltd
+March 1998 - July 2000 (2 years 5 months)
+
+  AI coder and game designer on two 3D realtime strategy games and one 3D action game prototype
+
+
+Education
+
+The University of Edinburgh
+MSc,Artificial Intelligence
+Activities and Societies: Societies were banned at Edinburgh, by order of the High Sheriff
+University of Oxford
+
+MSc,Computer science
+Activities and Societies: Extreme croquet; top hat polishing society
+University of Warwick
+BA (Hons),Philosophy
+
+Activities and Societies: I was an active member of Epsilon Kappa Gamma Delta Zeta Theta Beta,
+ and once attended a meeting of the rambling society, a chilling experience.Ceri Stagg
+
+San Francisco Bay Area
+Senior Software Engineer at Telltale Games
+
+
+
+
+
+
+3 people have recommended Ceri
+
+  "Ceri's skills are numerous, from top quality OO design to brilliant innovative game design. First and
+  foremost Ceri is a top class AI programmer/designer, his code is robust and elegant, extensible and
+
+  maintainable. I would happily work with Ceri in the future."
+
+  Neil Armstrong,Senior Game Engineer, SEGA Europe Limited, worked directly with Ceri at
+  Mobius Entertainment
+
+  "He's a bit mad, dodgy sense of humour but ultimately really good at what he does. Gains bonus
+
+  points for innovative thinking."
+
+  Hal Angseesing,Technology Director, Lockheed Martin, managed Ceri at Charybdis Ltd
+
+  "I have had the pleasure of working with Ceri on two projects. I can definitely say that he is not only
+
+  one of the strongest Gameplay engineers I've ever worked with but also the most quality oriented
+  of all. He is enthusiastic and very dedicated. You can very easily bounce ideas off of him and leave
+
+  with very creative answers to your questions when in doubt. His open minded attitude enables
+  him to come up with creative alternative solutions to any problem in his hand. He has a very solid
+  theoretical and practical knowledge of object oriented development and C++ in particular. Definitely
+
+  a great resource for the company and our team in particular."
+
+  Dogu Taskiran,Co-Founder and CEO/CTO, Locopass, worked directly with Ceri at Ubisoft
+  Vancouver
+
+
+
+Profile Notes and Activity (1)
+
+  8/18/2015View by Salvador Jumag Jr.

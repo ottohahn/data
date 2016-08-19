@@ -1,0 +1,184 @@
+Nitin Motgi
+
+San Francisco Bay Area
+
+Founder, CTO at Cask
+
+
+Summary
+
+Nitin currently is heads-down working on building an awesome company with his colleagues at
+
+ Cask Data, Inc. Prior to Cask Data, Nitin spent 5 years at Yahoo!, where he was an engineering
+ lead working on a large-scale content optimization and personalization engine known externally
+
+ as C.O.R.E. He was one of the founding members of C.O.R.E at Yahoo! He pioneered the use of
+ HBase in production at Yahoo!, running what was at the time one of the biggest HBase clusters in
+ the world. Under his engineering lead, Yahoo! Frontpage reached a whooping 300% increase in
+
+ engagement due to optimization, deep personalization and a substantial increase in incremental
+ revenue. He was instrumental in getting C.O.R.E deployed into different parts of Yahoo! C.O.R.E
+
+ was featured in the 500th Information Week publication, anniversary 2011 edition, as one of the 20-
+IT-ideas-worth-stealing". Before Yahoo!, Nitin was at Altera, building systems that helped improve
+
+ the overall process for identifying fabrication issues at scale. Prior to Altera, Nitin was with FedEx,
+ where his various roles helped Fedex build a revenue monitoring and prediction system. Nitin is
+ known as an exceptional collaborator with both his peers and team members. He is optimistic,
+
+ energetic, transparent and approachable. He takes a strong interest in the career development of his
+ team members and the relationships he builds with others. He is someone who can be trusted, leads
+
+ by example and will get the absolute best out of his team. Specialties: BigData Technologies, Cloud,
+ Web Technologies, Creation of Productive Teams, Engineering Team Turnaround, and Coaching /
+
+ Mentoring
+
+
+Experience
+
+Investor at Archively Inc
+January 2013 - Present (2 years 8 months)
+
+Engineering at Cask Data
+
+December 2011 - Present (3 years 9 months)
+  Founder/CTO
+
+Technical Yahoo at Yahoo Inc
+
+September 2006 - December 2011 (5 years 4 months)
+  Media mentions of CORE  http://www.informationweek.com/news/galleries/global-cio/
+  interviews/231600980?pgno=9)  http://www.fastcompany.com/1770673/how-yahoo-got-to-a-billion-
+
+  clicksSoftware Engineer at Altera Corporation
+November 2005 - September 2006 (11 months)
+  Do stuff
+
+
+Sr. Programmer Analyst at FedEx Services
+July 2001 - November 2005 (4 years 5 months)
+  Learn stuff
+
+
+
+Education
+University of Central Florida
+MS,Computer Science,2000-2002
+
+Karnatak University
+BE,Computer Science,1994-1998
+
+
+Interests
+Distributed Computing, Machine Learning, Personalization, OptimizationNitin Motgi
+
+San Francisco Bay Area
+
+Founder, CTO at Cask
+
+
+
+
+
+10 people have recommended Nitin
+
+  "Nitin is one of the most passionate and inspirational engineers I have worked with. A very hard
+
+  working, talented engineer and a visionary with endless zeal to deliver a quality product. His
+  engineering accomplishments will wow anyone regardless of the size of the project. He is also a
+
+  great leader and knows how to get the best out of his team."
+
+  Bhavin Modi,TechOps Manager, Pivotal R&D, Pivotal Inc. (formerly Greenplum - EMC), worked
+  directly with Nitin at Yahoo Inc
+
+
+  "Nitin is technically passionate and has high energy and enthusiasm to develop scalable solutions
+  that serve business needs. He is a valuable asset to any team"
+
+  Girish Balakrishnan,Principal, CM-Focus, worked directly with Nitin at Altera Corporation
+
+
+  "Nitin is a brilliant and visionary designer. His ability to apply concepts to everyday development
+  tasks is a point of mastery in his skill sets. Nitin has the ability to break down complex tasks and
+
+  discuss them with people in a common sense way. He is a team player and takes on big and small
+  tasks with the same enthusiasm."
+
+  Skipper Wilkinson,Manager/ITD, Software Benchmarking, managed Nitin at FedEx Services
+
+
+  "I had the pleasure of working with Nitin here at Yahoo as we developed strong platform for Content
+  Optimization Relevance Engine in CPG (Cloud Platform Group). What can I say, he pretty much
+
+  changed the dynamics of this product by improving CTR (Click-Through Rates) and thereby
+  Revenue and is now the top most product at Yahoo. He is "the man" for solving complex problems
+
+  related to Engineering, Design, Architecture, Operations, Integrations, you name it. Nitin brings to
+  the table a passion for both technology and people and those who work with him and for him are
+
+  energized by this . He brings enormous passion and friendly relationship along with professional
+  skills that are very essential for productivity. Without any doubt I recommend Nitin to the highest
+  level and also recommend him for anyone looking for a paradigm shift in their group/company/
+
+  product."
+
+  Jaldhi Valia,Sr. Engineering Manager, Cloud Platform Engineering/Application DevOps,
+  Symantec, worked directly with Nitin at Yahoo Inc  "Nitin is an exceptionally skilled and innovative software developer. In addition to his technical skills,
+  he is a pleasure to work with as he has a can-do attitude and is a good team player."
+
+  Diana Trapp,Project/Process Advisor, FedEx Services, managed Nitin at FedEx Services
+
+
+  "Nitin is incredibly intelligent, passionate about what he does, and a great guy to work with. He is a
+
+  huge asset to Yahoo."
+
+  Cameron Johnson,Vice Mayor, City of San Carlos, worked with Nitin at Yahoo Inc
+
+
+  "Nitin is a brilliant technical asset and an outstanding contributor. He is dedicated, dependable, and
+  a real pleasure to work with."
+
+  Steve Leslie,IT Manager - Product Management/IT Effectiveness & Governance, FedEx
+  Services, managed Nitin at FedEx Services
+
+
+  "Nitin is an awesome technical and people leader. He has both broad and deep understanding
+
+  of technologies, that enables him to make very well informed technical decisions. He has a great
+  intellectual curiosity and passion to deliver the very best. Nitin also has strong interpersonal skills
+
+  and brings out the best in his engineers. It has been a great pleasure to work with Nitin and I highly
+  recommend him."
+
+  Sreevatsan Raman,Engineer, Cask Data, reported to Nitin at Yahoo Inc
+
+
+  "Nitin has the passion and expertise to develop complex, abstract, and scalable enterprise
+
+  applications. He is extremely thorough and is able to anticipate design needs of the applications
+  early in the software development life cycle due to his experience. I recommend Nitin for any
+
+  application development project, large or small, without reservation."
+
+  Chuck Malani,Programmer Analyst Advisor, FedEx Services, worked directly with Nitin at
+  FedEx Services
+
+
+  "Nitin is smart and creative, and one of the most hard-working engineers I have seen. He has an
+  amazing ability to build large, complex system and get them running in a really short time. He was
+
+  one of the lead engineers for the content recommendation platform team that won the Yahoo!
+  Superstar award. He is passionate about technology; stays on top of it and continuously thinks
+
+  about how to apply new technology to solve problems at hand."
+
+  Pradheep Elango,Engineer and Technical Lead, Ads Ranking & Personalization, Facebook,
+  worked with Nitin at Yahoo Inc
+
+
+
+
+Profile Notes and Activity (1)8/8/2015View by Jonathan Tolentino

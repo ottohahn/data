@@ -1,0 +1,104 @@
+Christopher Barnes
+
+Greater New York City Area
+
+Senior Game Server Engineer at BANDAI NAMCO Entertainment America Inc.
+
+
+Experience
+
+Senior Game Server Engineer at BANDAI NAMCO Entertainment America Inc.
+May 2015 - Present (8 months)
+
+  Building server back-ends for iOS and Android games.
+
+Software Engineer at Electronic Arts
+September 2012 - May 2015 (2 years 9 months)
+
+  Full stack mobile games engineering for iOS and Android. -Designing and developing web services
+   in Java for a small mobile games studio inside EA, primarily based on the Google App Engine
+
+   platform-as-a-service stack, but also including deployments into Amazon Web Services. -Client-
+  side game engineering in the Unity game engine and C# programming language, as well as game
+
+   integration with native Objective-C code on iOS and Java on Android, including GUI development
+   inside of Unity using both the iGUI and NGUI frameworks. -Design and implementation of build
+   processes to do continuous integration and deployment of Unity projects to iOS and Android
+
+   devices.
+
+Software Engineer at Electronic Arts
+June 2009 - September 2012 (3 years 4 months)
+
+  Design and development in Java for EA's core eCommerce and identity platform, servicing millions
+   of gamers over many EA websites and games. -Developed and supported a robust REST-based
+
+   web service in Java, enabling EA's development teams and studios to support online gameplay
+   and eCommerce for millions of gamers across the world. -Designed software for high availability
+
+   in a high-load environment, including the rollout of a distributed cache cluster, based on Oracle
+   Coherence, to support the core application. -Used diagnostics and debugging techniques to
+   support the production system with log analysis and JVM memory/thread diagnostic tools, and
+
+   ensured high quality software with unit testing and automated, continuous integration testing.
+
+Web Editor at The Cornell Daily Sun
+March 2007 - March 2009 (2 years 1 month)
+
+  I was responsible for technical and editorial aspects of publishing the online edition of The Cornell
+   Daily Sun. I managed a team of six student developers in writing new code and designing new
+
+   database schemata (PHP/MySQL) to meet the expanding needs of the organization. Additionally, I
+   oversaw office information technology, including purchasing and staffing decisions.
+
+Intern at New York Times DigitalJune 2008 - August 2008 (3 months)
+  I interned in the Interactive News Technology group, developing online features in Ruby on Rails
+
+   for nytimes.com. I contributed to several high-profile Ruby on Rails software projects, including the
+   Election Guide and online coverage of the 2008 Olympic Games.
+
+Intern at SoftWave Media Exchange
+
+May 2007 - September 2007 (5 months)
+  Worked on QA and documentation for an online ad sales platform.
+
+
+
+Education
+Cornell University
+BA,Information Science,2005-2009
+Manhasset H.S.
+
+2001-2005
+
+Interests
+
+software, technology, news industry, games, the InternetChristopher Barnes
+
+Greater New York City Area
+Senior Game Server Engineer at BANDAI NAMCO Entertainment America Inc.
+
+
+
+
+
+2 people have recommended Christopher
+
+  "Highly professional, responsive and well organized, Chris was a pleasure to work with."
+
+  Scott McCasland-Bodenstein,Independent Consultant, Ithaca Mac Repair, worked indirectly for
+  Christopher at The Cornell Daily Sun
+
+
+  "Chris is a smart, hard-working engineer who was a pleasure to work with. He's able to learn new
+  technologies rather quickly and produces high quality code at an efficient pace. I would recommend
+
+  Chris for any engineering position."
+  Zubair Khan,Senior Software Engineer, Box, worked directly with Christopher at Electronic Arts
+
+
+
+
+Profile Notes and Activity (1)
+
+  12/19/2015View by Jemmielyn Capalad

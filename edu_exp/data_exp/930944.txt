@@ -1,0 +1,121 @@
+Smith Surasmith
+
+Greater Los Angeles Area
+
+Senior Software Engineer at TripAdvisor
+
+
+Experience
+
+Senior Software Engineer at TripAdvisor
+November 2012 - Present (3 years 1 month)
+
+  Full stack web development. Mobile development. Big data wrangling.
+
+principal at Smith Surasmith
+September 2009 - Present (6 years 3 months)
+
+  Independent and contract developer of games and apps for web, iPhone and other mobile
+   devices. Independently developed iOS apps: thaienglish - thai-english dictionary with improved
+
+   pronunciation guide for non-thai readers. Developed new method of pronunciation guide that
+   adhere to standard Thai pronunciation of vowel length, tones, and consonants. Developed
+
+   dictionary processing tool, base pronunciation dictionary processing tool and run-time dynamic
+   pronunciation generator. All using Objective-C with Xcode. Built tools to run on Mac OS X, and
+   the final app targeted for the iPhone. pentatonic - Developed a light piano application targeted
+
+   for the iPhone, using Objective-C with Xcode, utilizing the Open GL library. Also developed the
+   artwork and audio processing. Dropsafe - Developed a Password Safe compatible password
+
+   manager targeted for all iOS platforms (iPhone/iPad/iPod). Developed in C, C++, Objective-C,
+   and Javascript. Ported Password Safe library to iOS, developed the interface, and integrated the
+
+   application with Dropbox client library.
+
+Board of Directors (Board Chair) at Thai Community Development Center
+August 2009 - Present (6 years 4 months)
+
+  Oversee the operation and governance of the organization, advocate, promote and raise funds for
+   the organization. Thai CDC is a non-profit corporation whose mission is for the social, political and
+   economic advancement of the Thai community in Los Angeles.
+
+
+software developer at Kung Fu Factory
+2012 - 2012
+
+Consultant / Lead Developer at Spoken World LLC
+
+August 2010 - January 2011 (6 months)
+  Developed Babblemania, a language learning app for children age 6-10 for learning for learning
+   foreign languages (Spanish for English speakers, and English for Mandarin Speakers) on the iOS
+
+   platforms. Put together a small team of artists and programmers and developed a 3D educational
+   game app targeted for the iOS platforms (iPhone/iPad/iPod) using C# and Unity3D. Developed app   architecture over Unity3D, worked on animation layer, audio layer, game logic and user interfaces.
+   Lead development team and delivered project to market. Developed text processing tool and font
+
+   editing plugin for Font Forge using Python, for localizing app for Mainland China market.
+
+Software Developer, Contract at Monkey Gods LLC
+
+January 2009 - August 2009 (8 months)
+  Worked in a small team composed of game development veterans pushing out two games in eight
+
+   months for Monkey Gods, a new start up from the founders of Naughty Dogs, Andy Gavin, Jason
+   Rubin and industry veteran Jason Kay. Monkwerks - Flash Programmer for Monkwerks word
+   game on Facebook. Developed client side architecture in AS3/Flash including gameplay, front
+
+   end, leader boards, google analytics, also developed smartfox server for synchronous multiplayer
+   gameplay, and dictionary processing tools using Ruby. Made fixes to the server side code
+
+   using Ruby when necessary. Maintained server side updates when necessary. Snood - Flash
+   Programmer for the Snood franchise on Facebook. Ported and adapted client side architecture
+
+   from Monkwerks to Snood. Helped with the porting of Snood game play to AS3/Flash.
+
+Senior Developer at GlobaLinguist Inc.
+
+April 2006 - July 2008 (2 years 4 months)
+  Technology and product development for language learning.
+
+Lead Programmer at Rockstar San Diego/Take Two
+
+August 2004 - April 2006 (1 year 9 months)
+
+Programmer at Rockstar San Diego
+2002 - 2006 (4 years)
+
+
+Programmer at Rockstar San Diego/Take Two
+November 2002 - August 2004 (1 year 10 months)
+
+Programmer at Angel Studios
+
+December 1999 - November 2002 (3 years)
+
+Programmer at Adventive Technologies
+May 1999 - December 1999 (8 months)
+
+
+Programmer at Activision
+June 1996 - May 1999 (3 years)
+
+
+
+Education
+Brown University
+AB,Computer Science,1991-1995Smith Surasmith
+Greater Los Angeles Area
+
+Senior Software Engineer at TripAdvisor
+
+
+
+
+
+
+Profile Notes and Activity (2)
+  11/15/2015View by Maria Ivory Suarez
+
+
+  11/15/2015Tag "SWE" added by Maria Ivory Suarez

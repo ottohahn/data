@@ -1,0 +1,66 @@
+.
+ michaelgershunovsky
+ software developer
+ summary
+ • Passionate software developer with two years of industry experience and multiple hobby
+ projects
+ • Highly experienced with Java and C++, including advanced knowledge of standard
+ libraries and best practices
+ • Strong knowledge of data structures and algorithms, with an intuitive sense of their
+ applications
+ • Fast learner; quick to adapt to new environments and pick up new tools
+ professional experience
+ Google Sept 2014–Dec 2014
+ Software Engineering Intern Waterloo, ON
+ Major techs used: Python, Protobuf
+ • Improved internal A/B testing tool to allow ﬁnding discrepancies between many different
+ components of two complex systems
+ • Coordinated with cross-site teams to quickly determine causes of discrepancies and
+ resolve them
+ • Gave a talk to twenty engineers demonstrating how to use the tool for future projects
+ Google Jan 2014–May 2014
+ Software Engineering Intern Waterloo, ON
+ Major techs used: C++
+ • Ads backend developer on servers receiving in excess of one million queries per second
+ • Consolidated a redundant component of two complex systems; improving performance,
+ code health, and consistency across two products
+ • Start-to-ﬁnish infrastructure feature launch including: design proposal, programming,
+ unit & integration tests, live trafﬁc experiments to identify revenue impact, and launching
+ Points International May 2013–Aug 2013
+ Software Developer Intern Toronto, ON
+ Major techs used: SQL, Splunk
+ • Created dashboard to concisely display information for critical jobs from raw logs,
+ allowing team to identify system issues at a glance in real-time
+ • Optimized SQL queries with indices and temporary tables to reduce memory usage and
+ improve scalability
+ Points International Sept 2012–Dec 2012
+ Software Developer Intern Toronto, ON
+ Major techs used: Python, WebDriver
+ • Created and debugged automated browser tests with Python and WebDriver
+ • Designed and implemented infrastructure for parallel cross-platform browser tests as
+ part of continuous integration
+ – read more: bizblog.points.com/automated-cross-browser-testing
+ education
+ University of Waterloo 2015
+ Bachelor of Computer Science, Honours, Co-op Waterloo, ON
+ contact
+ mike@gershunovsky.com
+ github.com/shellderp
+ + 1 416 797 5126
+ 168 Coltrane Dr
+ Thornhill, ON L4J 9B3
+ Canada
+hobby projects
+ Sublime Robot Plugin
+ github.com/shellderp/sublime-robot-plugin
+ Sublime Text editor plugin for Robot Framework (a test automation framework). Provides editor
+ features such as go-to-deﬁnition, auto completion, and syntax highlighting. Developed as a
+ side project during my time at Points, now used by many developers there.
+ Bytecode Explorer
+ github.com/shellderp/Bytecode-Explorer
+ Java application for exploring compiled Java bytecode. Visualizes compiled Java class ﬁles
+ and provides utilities including ﬁnding references to methods, variables, and more. Inspired by
+ interest in reverse engineering Java games.
+ interests
+ technical: infrastructure, distributed systems, concurrency, data structures
+ personal: guitar, karate, cooking, ping pong, smash bros

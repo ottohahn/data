@@ -1,0 +1,122 @@
+Jie Liu
+ 3312 Hudson Ave, Apt 12J • Union City, NJ 07087 • Phone: 347­421­4224 • zjliujie@gmail.com
+ EXPERIENCE
+ Bloomberg L.P.
+ Senior Software Developer, since Jun 2006
+ ● UNIX server­side multithreading software system design and development for               
+ various online applications including financial information search functions, trading               
+ analytics tools, usage data analytics tools.
+ ● Service­Oriented client/server, multi­tier software design and development.
+ ● Financial trading software user interface design and development
+ ● Object oriented software component design and development using Design Patterns.
+ ● Financial database applications design and development involving complex
+ dynamic SQL construction and database designs
+ ● Involved in Distributed System design and implementation for critical financial
+ transaction processing system
+ ● Developed a system for financial professionals to search and modify trade and                     
+ order records.
+ ● Developed system for internal products and sales group to monitor and analyse                     
+ customer usages of product features.
+ ● Product enhancements to simplify trader's work flow during complex trading                 
+ process.
+ ● Product enhancements to provide customers better flexibility to managing view                 
+ permissions of critical financial records.
+ ● Multiple major enhancements to improve usability of the most important trading                   
+ system supported by our group.
+ Microsoft Corporation
+ Software Design Engineer Intern, Summer 2005
+ ● Provided event log support for Internet Information Services 7 Listener Adapter interface.
+ ● Created debugger extensions for Internet Information Services 7 Web Administration                 
+ Service and configuration system.
+ ● Replaced Banned APIs in Internet Information Services 7 code with safe version APIs.
+ Personal Projects:
+ ● Ideation and Market Analysis of a Location­Based Social Mobile App:
+ Concept Page: http://continornow.appspot.com
+ Survey Results: http://goo.gl/1Fe66 Password: exponential
+ ● Ideation and Development of a Mobile App that autimatically tracks all user’s
+ Facebook friends’ photos and publicly shared photos that the user passes by. As
+ user move from locations to locations, the App creates a timeline of photos that
+ user encounters at each locations. The App allows users to see which friends have
+ been to the places they are visiting, and help starts conversations ­ “Hey I am at
+ MOMA, just saw you were here before...”; It also help users make new
+ connections if they share photos publicly. The App is in the process of
+ development and can be demoed in my iPhone.
+● Designed and Developed a Mobile Gift Card system for small merchants. Was able
+ to acquire real users.
+ Web Site: http://alreadypaid.it
+ iOS App: http://goo.gl/yaa3b
+ ● Ideation and Implementation of a Location­Based Social Mobile App that utilized
+ Facebok Open Graph Data to connect users to people nearby who shares
+ commom interests. Ex, if two users from the same college both liked NYC
+ Badminton Club, and they were near each other, they can find each other by
+ “Signaling” on the system.
+ ● Ideation and design of a social network for people to share problems in life.
+ Currently users on most social networks tends to compete for popularity. Few are
+ willing to share issues in life due to fear of looking like a “loser”. Yet life is full of
+ problems, and people often have genuine urges to vent their anger/sadness,
+ as demonstrated by posts on some primitively built websites and
+ community sites. I conceptualized and designed a network that
+ encourage healthy discussions of issues in life, for people having
+ common issues to sympathize and support each other. It protects
+ user's identity while letting user choose to reveal certain background
+ info, which helps users relate to each other. It also provides therapists
+ and advisers opportunities to offer advices while advertising
+ themselves. This project is work in progress.
+ General Electric Company, Atlanta, GA
+ Information Management Leadership Program Intern, Summer 2004
+ ● Researched and set up monitoring tools for software applications.
+ ● Created strategies for deploying monitoring tools and utilizing metrics to drive                   
+ application simplification.
+ Technologies and Knowledge
+ ● iOS Objective­C Mobile App development
+ ● User Interface development with JavaScript, HTML, CSS, GTK+
+ ● Python Server­Side programming;; Django Web Frameworks; Google App Engine
+ ● Object­Oriented C++, C#  software design and development
+ ● Software Design Patterns
+ ● Database design and complex SQL
+ ● Semantic Web technologies
+ ● ASP.NET web applications, web services, windows applications design and development
+ ● Flex/Flash ActionScript 3D Graphical Multi­Touch Interface application design and development
+ STUDENT PROJECTS
+ Created a social­networking web portal focusing on hierarchical community creation and
+ organization, resource sharing, using ASP.NET software tools and SQL Server; Designed
+ Asp.net web pages and created data components.
+ Created a network programming utility tool in C++ for web service and application
+ developers to monitor, manipulate, format and log SOAP request and response
+ messages exchanged between client process and server.  
+Implemented a phonebook directory in C++, constructed proper data structures and
+ efficient algorithms to optimize performance.
+ Designed and implemented a microprocessor­based phone message handling and
+ dialing system, wrote assembly language code to enable microprocessor to control
+ external chip and circuit.   
+ Simulated a 32­bit multi­cycle CPU based on MINPS instructions. Utilized Verilog to
+ design and simulate modules. Utilized ModelSim to test and debug. 
+ Designed short­span 2­D truss bridge, analyzed stress distributions, wrote program and
+ utilized MatLab to predict the maximum load and the breaking point. Our group made the
+ most accurate prediction of maximum load and breaking point in our class. 
+ EDUCATION
+ Boston University, College of Engineering, Boston, MA
+ Master of Science in Computer Systems Engineering, May 2006
+ GPA: 3.65/4.00
+ Bachelor of Science in Computer Systems Engineering, Magna cum Laude, May 2005
+ GPA: 3.42/4.00
+ Honors
+ Tau Beta Pi Honor Society
+ Eta Kappa Nu National Electrical and Computer Engineering Honor Society
+ Magna cum Laude (Bachelor of Science)
+ Dean’s List
+  Graduate Level Course
+ Software Project Management Advanced Software Design
+ Information­Theoretical Design of Algorithms               Information Theory and Coding
+ Analysis of Algorithms Computer Architecture
+ Advanced Discrete Mathematics VLSI Principles and Application
+ Advanced Digital Design Automation with Verilog and FPGA
+ Undergraduate Level Course
+ Software Design Data Structures and Algorithms
+ Operating Systems Computer Organization
+ Computer Science Microprocessors
+ Logic Design Electronics
+ Activities
+ Member of IEEE
+  LANGUAGE
+ Fluent in spoken and written Chinese

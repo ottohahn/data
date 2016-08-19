@@ -1,0 +1,75 @@
+Maheshwaran Srinivasan 
+(408) 761-3950 
+mahesh.srinivas25@gmail.com 
+SUMMARY 
+• Played key role in product definition and development in CTO’s team at Netlogic Microsystems, 
+from startup to $3.7 Billion acquisition by Broadcom Corp. 
+• Proven innovator with 12 US patents issued, 3 pending 
+• Have led multi-national teams  and have interfaced with customers, marketing, software 
+engineering, legal, sales and operations teams to successfully deliver cutting edge hardware ahead 
+of schedule 
+• Possess strong quantitative and analytical background augmented with broad exposure to 
+computer science through graduate course-work at Stanford University over last 3 years 
+ 
+EDUCATION 
+• Stanford University, Palo Alto, CA                                2009-Present 
+             Master of Science in Electrical Engineering, GPA of 4.146* 
+• University of Southern California, Los Angeles, CA                                   
+              Master of Science Engineering (Electrophysics), GPA of 3.9 
+• Indian Institute of Technology (IIT), Madras, Tamil Nadu, India            
+             Bachelor of Technology in Electrical Engineering, GPA of 8.47/10 
+ 
+SKILLS 
+• Programming Languages: PERL, Python, MATLAB, SQL 
+• Web Technologies: HTML, CSS and JavaScript 
+ 
+PROFESSIONAL EXPERIENCE 
+Principal Engineer, Broadcom Corp., Santa Clara                                        Feb 2012-Present 
+• Working with Customers and Marketing to define specifications for next generation KBP 
+(Knowledge Based Processors) 
+ 
+NETLOGIC MICROSYSTEMS, Santa Clara, CA        Jul 2003-Feb 2012 
+Senior Staff Engineer                                                                                                  Jan 2011-Feb 2012 
+• Developed algorithms for hardware acceleration of MAC Table learning and ageing features 
+Staff Engineer              Jan 2009- Jan 2011  
+• Defined and implemented IP for URL Normalization incorporated into multi-core processors 
+having annual revenue of $125 Million 
+• Led a team of 4 engineers and explored a hardware based solution for the problem of Data De-
+ Duplication. Did market research, developed initial architecture and gave presentation to the 
+executive staff 
+Senior Design Engineer           Jan 2007- Jan 2009 
+• Worked with Marketing, SW and HW teams to define specifications of a DPI (Deep Packet 
+Inspection) system 
+• As part of an elite team led by CTO, defined a programmable hardware substrate for the  DPI 
+system and was a co-author on 14 patents of which 12 have been issued 
+• Led a team of 4 engineers in Mumbai (India) and 2 engineers in California to implement crucial 
+modules for the DPI system.  
+• Performed performance and power characterization of DPI system in the lab and also helped 
+solve customer issues 
+ 
+Design Engineer            Jul 2003- Jan 2007 
+• Implemented multiple revisions of KBP’s  that generate annual revenue of $150 Million 
+• Worked with CTO and engineering director to define specifications of a multi-phase digitally 
+controlled VRM (Voltage Regulator Module). As part of this effort, attended conferences and 
+visited customers. 
+• Architected the digital control system which was the heart of the chip and filed one patent.  
+• Lead a team of 2 engineers in Mumbai and 2 engineers in California to implement the system. 
+• Led a team of 2 engineers in California to perform lab characterization. 
+ 
+ACHIEVEMENTS 
+• Accepted to MBA + MEM program at Kellogg School of Management for Fall 2012. GMAT 
+score of 770. 
+• 76th rank out of 125,000 people in Entrance exam to   
+• 10
+ the  Indian Institutes of Technology 
+th
+ • National Talent Search (NTSE) scholarship awarded by Indian Government to fund under-
+ graduate education. 
+ rank in Indian National Math Olympiad. Selected to attend training camp in Bangalore for 
+International Math Olympiad 
+ 
+ADDITIONAL 
+List of issued US patents can be found at: 
+• http://www.linkedin.com/in/maheshsrinivas 
+ 
+*-    Part time MS with 43 units completed

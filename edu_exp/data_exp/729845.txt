@@ -1,0 +1,53 @@
+Andrey Demidenko
+
+San Francisco Bay Area
+Senior Software Engineer (Java)
+
+
+
+Summary
+
+Senior Software Engineer with 10 years in analysis, design, development, testing and implementation
+ of various software systems.  Expert knowledge of core Java  Strong knowledge and rich
+
+ experience in different java frameworks and application servers  Experience developing high-load
+ enterprise applications with Java  Management: Resolving conflicts, motivating, interviewing, tasks
+ planning, providing direction and leadership to others, mentoring  Strong problem solving skills
+
+  Recent skills Programming languages: Java, XML/XSD, Javascipt, PL/SQL, HTML/CSS (basic
+ knowledge) Platforms and frameworks: Java SE (Core Java, Swing, JDBC, Aplets), Java EE (EJB,
+
+ JPA, JSF, Servlets, JAX-WS, JAXB), Hibernate, AngularJS, JUnit, Apache POI, Apache Struts,
+ Apache Solr, JasperReports Development tools: Apache Ant, Apache Maven, Subversion, Git,
+ IntelliJ IDEA, TeamCity, Jenkins, YourKit, JProfiler, Apache JMeter, Selenium Application and web
+
+ servers: Oracle Weblogic, IBM WebSphere, Apache Tomcat, JBoss AS, Jetty Databases: Oracle,
+ MS SQL, MySQL, SqLite
+
+
+Experience
+
+Resource manager at EPAM Systems
+February 2013 - September 2015 (2 years 8 months)
+
+  Java pool resource manager
+
+Lead Software Engineer at EPAM Systems
+January 2012 - September 2015 (3 years 9 months)
+
+
+
+Education
+Karaganda State Technical University
+Master's degree,Computer and Information Systems Security/Information Assurance,2003-2005Andrey Demidenko
+San Francisco Bay Area
+Senior Software Engineer (Java)
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  9/8/2015View by Jemmielyn Capalad

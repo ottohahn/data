@@ -1,0 +1,118 @@
+George Zhou
+
+San Francisco Bay Area
+
+Senior Manager of Engineering, System Platform Qualfication, Routing BU, Juniper.
+
+
+Summary
+
+Summary:  Senior technical manager with over 22 years of engineering experience in the
+
+ networking industry and a proven track record of product delivery.  Proven ability in the effective
+ management of product delivery, people, and process. Successful in aligning team's direction to
+
+ BU's business strategy and objectives. - 9 years of experience in managing networking software test
+ and system qualification teams. Proven track record to deliver network application software and high
+ performance & scaled routing/switching platforms - 13 years of dev-test & system test experience
+
+ in qualifying complicated network system and application/virtualization. Experience in customer
+ deployment support and escalation management.
+
+
+- Software development & test engineering management - Manage the complex system platform/
+software qualification and with good quality and high performance & scaling. - Hands on experience
+
+ and knowledge in IP and MPLS networking, Layer 1-5 protocols, IPv4/v6 MPLS/Multicast forwarding,
+ routing/switching, various IP service, network OS and packet/optical integration and virtualization.
+
+
+Experience
+
+Senior Manager of Engineering, systest, CBU, PSG at Juniper Networks, Inc.
+
+December 2006 - Present (8 years 10 months)
+  - Managing three small system test teams to qualify Juniper's IP/MPLS supercore router, ASIC
+   based packet forward engine; Multi-chassis systems and Packet/Optical integration. - Before the
+
+   BU partition, managed two system test teams in Internet Product Group (IPG) to deliver Juniper's
+   ASIC based Packet Forwarding Engine and Core/Edge router platforms ( TX mulit-chassis, T1600
+
+   back bone router) with high performance and scaling. - Managed the qualification of router
+   virtualization related feature (Juniper Control System -- JCS).
+
+Manager of Engineering, Infrastructure Product Group, at Juniper Networks
+
+June 2001 - December 2006 (5 years 7 months)
+  Systest line manager for sys-infra group responsible for Juniper's high speed packet forwarding
+
+   engine and system platform qualification, along with various routing and forwarding applications.
+   Senior systest staff engineer leading mulit-service edge router qualification (T640/M320/T320)
+   qualification, deliver complicated QoS/Firewall and other IP forwarding & service features.
+
+
+Senior System Test Engineer at Zaffire
+June 2000 - June 2001 (1 year 1 month)  Worked as System Test lead to qualify Zaffire's Metro DWDM Optical Transport System, its
+   ROADM, EDFA, optical planning tools and its EMS/NMS provision/monitoring application. Also
+
+   qualified Zaffire's Optical/SONET transport system.
+
+Senior Software Engineer at Cisco Systems, Inc
+October 1994 - June 2000 (5 years 9 months)
+
+  Worked as lead dev-test engineer in Cisco's Enterprise WAN Business Unit, qualifying C7500/
+  C7200 edge routers and VIP distributed switch card for various switching modes, including CEF/
+
+  DCEF (Cisco's Express Forwarding). Extensive hands-on experience for various WAN protocols
+   and interfaces.
+
+
+System Test Engineer at Hughes LAN system, Hughes Network.
+August 1993 - October 1994 (1 year 3 months)
+  I worked as testing engineer at Hughes LAN System at Mountain View.
+
+
+
+Education
+San Jose State University
+
+M.S.,Computer Science,1989-1992
+Jiangnan University
+B.S.,Electrical Engineering,1981-1985
+
+Suzhou Middle SchoolGeorge Zhou
+
+San Francisco Bay Area
+Senior Manager of Engineering, System Platform Qualfication, Routing BU, Juniper.
+
+
+
+
+
+2 people have recommended George
+
+
+  "George presents a laser-focus to his assigned projects, coordinating people and material to
+  their targeted ends. George excels at garnering cross-organizational relationships to faciliate
+  the necessary outcomes. His loyalty to his company, his projects, and his team is exemplary. In
+
+  addition, George takes great pride in mastering the technical details of the projects on which he
+  works - this convergence of managing team and technology, in my opinion, makes George an
+  asset. I would consider it an honor to work with George and his teams anytime in the future."
+
+  Kevin Dubray,Sr. Director, Engineering. Core Business Unit (CBU), Juniper Networks, worked
+  directly with George at Juniper Networks, Inc.
+
+
+  "Worked closely with George at Zaffire, at a System level configuration and testing. George is very
+  detailed-oriented and comes up with great test cases. Enjoyed working with him in the lab for long
+
+  hours :)"
+
+  Raj Avasarala,Senior Engineering Manager, Juniper Networks, worked with George at Zaffire
+
+
+
+Profile Notes and Activity (1)
+
+  9/5/2015View by Yna Marie Josol

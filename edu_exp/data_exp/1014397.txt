@@ -1,0 +1,66 @@
+Yuxiao Hu
+
+Greater Seattle Area
+
+Senior Research and Software Develop Engnineer at Bing, Microsoft
+
+
+Experience
+
+Senior Research Software Develop Engnineer at Microsoft
+December 2008 - Present (7 years 1 month)
+
+  As a RSDE working in Microsoft Bing, I develop, test and manage large scale distributed systems
+   for search engine. I have been working on projects related to multimedia and web search
+
+   relevance and performance, using machine learning, computer vision and data mining techniques.
+
+Research Assistant at Univerisity of Illinois at Urbana-Champaign
+August 2004 - December 2008 (4 years 5 months)
+
+  I worked as an Research Assistant and got my Ph.D degree from Department of Electrical and
+   Computer Engnineering in University of Illinois. Sometimes I also gave invited lectures on
+
+   graduate/undergranduate courses including Multimedia Signal Processing and Image Processing.
+
+Assistant Researcher at Microsoft
+July 2001 - July 2004 (3 years 1 month)
+
+  In Microsoft Research, Asia, I worked as an Assistant Researcher in Media Computing Group. I
+   focused on the research of pattern recognition algorithms on face detection/alignment/tracking/
+  recognition and developed several prototype/demo systems on real-time face recognition, pose
+
+   estimation and 3D face reconstruction. Our demos are shown in several international conferences
+   and Microsoft annual TechFest exhibitions. I have three US Patents on these algorithm/systems.
+
+
+
+Education
+University of Illinois at Urbana-Champaign
+
+Phd Degree,Electrical and Computer Engineering,2004-2008
+Activities and Societies: I am a phD candidate in Electrical and Computer Engineering and also work
+ as Research Assistant in Beckman Institute, which is a multi-discipline research institute including
+ ECE/Phychology/Bio/Neural/etc departments in University of Illinois at Urbana-Champaign. I worked
+ on human computer interface which aims to enable computers feel/understand human face and
+ activities.
+
+Tsinghua University
+Master,Computer Science,1999-2001
+Tsinghua University
+Bachelor,Computer Science,1994-1999Interests
+Research: Image/Video Search, Machine Learning, Computer Vision, Signal Processing (Video/
+Image Analysis, Face Modeling/Reconstruction/Detection/Alignment/Recognition/Animation, etc)
+
+ Development: C++, Java, matlab, etcYuxiao Hu
+Greater Seattle Area
+Senior Research and Software Develop Engnineer at Bing, Microsoft
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  12/10/2015View by Jonathan Tolentino

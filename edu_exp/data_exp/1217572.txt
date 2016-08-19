@@ -1,0 +1,232 @@
+Anupartha Howlader
+
+Kansas City, Missouri Area
+
+Sr. System Integration Engineer (Embedded Systems) at Smith Electric Vehicles
+
+
+Summary
+
+Anupartha is a BMS expert, an enthusiastic and passionate engineer with 4.5+ years of
+
+ automotive(EV) industry experience and 6+ years of academic level experience. He has expertise
+ in the field of both Electrical and Software engineering. Being a self-starter, motivated and detail-
+
+oriented engineer with demonstrated leadership and technical skills, Anupartha excels through
+ continuous learning and team collaboration. Major Skills: BMS, Embedded System Design,
+ Firmware Development, 16/32-bit Micro-controllers - Freescale HCS12/12X, Analog Sensor
+
+ integration, ARM, Software Engineering, C, Assembly, Controller Area Network, CodeWarrior/
+PE, Li-Ion Cell Characteristics, SOC and SOH Prediction, HVDC Control, Power Systems, Power
+
+ electronics.
+
+
+Experience
+
+Senior System Integration Engineer at Smith Electric Vehicles
+August 2013 - Present (2 years 8 months)
+
+  Worked within a global team responsible for developing Battery Management System(BMS)
+   for large Li-Ion Traction Battery pack of total capacity up to 120KWh for commercial EV. Major
+   Achievements: - Designed cell-chemistry agnostic BMS architecture and control algorithm: dis/
+
+  charging algorithm for multiple parallel battery-strings sharing single charger including balancing
+   and effective SOC algorithm for various cell temperature conditions. - Proven track record of
+
+   complete system design experience - proof of concept design to production level implementation
+   validation of CAN based bootloader with auto ID assignment system for daisy chained Freescale
+
+   16-bit S12/S12X MCU based BMS controller boards reducing part number, improving process
+   and saving time in battery pack assembly. - Wrote BMS application firmware in C for Freescale
+   MCU based hardware using Time-Triggered Architecture, with implementation of efficient memory
+
+   usage, faster execution time by converting complex mathematical equation to look-up table.
+   - Participated in DFMEA and DVP&R related to Battery Management System development. -
+
+   Conducted test/validation of BMS, extensive analysis of test results. - Experienced hardware
+   design - assisted in schematic capture and parts selection, peer-reviewed, suggested optimization
+
+   and verified electronic schematic of BMS hardware. - Designed multi-channel analog sensor
+   data acquisition system capable of broadcasting data over CAN. - Developed control system
+   and software for electric HVAC system that involved integrating third-party electric compressor
+
+   with strict control and safety requirements and implementation of intelligent pre-charge control   option. - Implemented documentation process compliant with ISO26262 for each stages of System
+
+   Development Life Cycle (V-model), with software/system configuration management.
+
+System Integration Engineer at Smith Electric Vehicles
+June 2011 - July 2013 (2 years 2 months)
+
+  - Lead in development of future technology integration in automotive systems. Perform program
+   analysis function to ensure various programming strategies and platforms will achieve product
+
+   development objectives. - Spear-headed vehicle level test/validation of BMS software, extensive
+   analysis of test results, communicate and co-ordinate test findings with overseas development
+
+   team. - Designed CAN communication protocol for multi-level networked BMS controller hardware.
+    - Created physical layer specification for Controller Area Network for internal/external use. -
+
+   Track and maintain Engineering Change from introduction to release using EPDM Vault system.
+    - Authored checklist for production Test/Validation release report of BMS system. - Designed
+
+   diagnostics/programming/test interface using Deutsche/Cinch/Molex connectors. - Instructed and
+   provided guidance to less experienced team members, train production crews as part of hand off of
+
+   a product from engineering to production. - Worked with plant personnel, customers and vendors
+   in further improvement of products.
+
+
+Graduate Admin Intern at University of Missouri-Kansas City
+February 2008 - April 2011 (3 years 3 months)
+  - Responsible for weekend operations including regular opening at 6 am and closing at 9 pm of
+
+   University Center building. - Manage team of setup crews  lead and monitor the performance
+   of team members to ensure efficiency in daily operations and reaching operational goal. Create
+
+   and sustain a dynamic environment to motivate high performance among team members. -
+   Conduct technical training for student assistants and manage daily operations of University Center
+
+   - Design/maintenance/administration of websites  www.umkc.edu/union and /ucenter          - Involved
+   with Student Union Project marketing and publicity strategy design.
+
+
+Teaching Assistant at University of Missouri-Kansas City
+January 2007 - May 2007 (5 months)
+
+  - Grading exams/homework assignments, assisting students with class projects and conducting lab
+   sessions. Courses  Introduction to Computer Programming.
+
+
+Graduate Research Assistant at University of Missouri-Kansas City
+September 2005 - May 2006 (9 months)
+  - Assisted is P2P network research and worked on projects. - Developed a prototype application
+
+   for emergency NOtification by Wireless system, for a group from Saint Luke's Hospital, Kansas
+   City, to demonstrate the viability of their project. Researched appropriate inclination sensor module
+
+   and interfaced the module to PC using JAVA. Responsible for designing control logic and work
+   flow of the application, in a team of 3. - Developed Children Information Database system, that
+
+   eliminated the conventional papers based court record and investigation report keeping and   expedited the case information retrieval at Child Protection Center, Kansas City, using MS Access,
+   in a team of 2
+
+
+Software Developer( contract position) at Bangladesh International Tutorial
+January 2002 - June 2002 (6 months)
+  - Developed Student Information Management System using MS Visual C++ for front-end user
+
+   interface and MS-Access for the database at backend, in a team of 3
+
+Undergrad Teaching Assistant at North South University
+August 2001 - May 2002 (10 months)
+
+  - Grading exams/homework assignments, teaching PL/SQL programming, assisting students with
+   class projects and conducting lab sessions. Courses  Linear Algebra, Calculus I & II, Database
+
+   Management Systems.
+
+
+
+Education
+University of Missouri-Kansas City
+MS,Electrical Engineering,2009-2016
+University of Missouri-Kansas City
+
+MS,Computer Science,2007-2009
+Jawaharlal Nehru Vishvavidyalaya
+Master of Technology (M.Tech.),Computer & System Science,2002-2004
+
+North South University
+BS,Computer Science,1996-2001
+Activities and Societies: Computer Club, Photography Club.
+
+
+Interests
+Home Automation, DIY Automotive repair, Electronics, Photography & Culinary Arts.Anupartha Howlader
+
+Kansas City, Missouri Area
+
+Sr. System Integration Engineer (Embedded Systems) at Smith Electric Vehicles
+
+
+
+
+
+5 people have recommended Anupartha
+
+  "It was a privilege to have work with Anupartha. He is among the brightest engineer that I have
+
+  ever worked with. He possess the require engineering skills and knows how to apply them. He
+  is also very hands on. I admire his knowledge in sound system, electronics, computers and
+
+  automotive mechanic. Anupartha really excel in control system analysis. He was our go to person
+  for the design team in solving complex control systems problems. I trust and rely on his judgment.
+
+  Anupartha has become an expert in battery technology. He has made major contributions to the
+  Battery Management System' control strategies. He is a leader and has set high standards. I really
+  appreciate his contributions to our projects and his excellent work ethics. He made my job a lot
+
+  easier as a Battery Program Manager. I welcome to have him to be on my project team again.
+  Anupartha, thank you for your leadership, and your contributions to make our projects successful."
+
+  Hoi Hei Ho, PE,Electrical Engineering Manager, First Element Energy, managed Anupartha at
+  Smith Electric Vehicles
+
+
+  "While working with Anupartha at Smiths developing the Battery Management System we came
+
+  across many and varied challenges, all of which we conquered but without his help it would have
+  been very difficult. The areas he worked in within the BMS team were hardware design and
+
+  integration and software writing and testing. He was thorough and persistent with a good technical
+  knowledge to help during design and fault-finding. His reports were clear and precise and a very
+  useful reference. All in all, he would be a credit to any engineering team."
+
+  Luke Griffiths,Electronics and Sensor Engineer, Reece Innovation Centre, worked directly with
+  Anupartha at Smith Electric Vehicles
+
+
+  "Target oriented person, focused always on all aspects of Software and Hardware development
+
+  processes. His unusual approach to issues related to battery management systems give the
+  opportunity to decrease the time of integration BMS controllers on the Vehicle level. Great team
+
+  Player which motivate and support all other engineers to achieve the target with the best quality
+  and in the shortest possible time."
+
+  Maciej Dryjanski,Senior Development Engineer, AVL Software and Functions, was with another
+  company when working with Anupartha at Smith Electric Vehicles  "I have known and had the pleasure of working with Anupartha at Smith Electric Vehicles for over
+  two and a half years. Anu is a talented engineer who is disciplined, has exceptional work ethics
+
+  and works well with teammates as well as his internal and external customers. He has the ability to
+  positively impact projects in which he is involved, as he takes ownership of his responsibilities and
+
+  make it happen. Anu is equipped with all the tools to be a star in his chosen area as a systems
+  integration engineer and I see no limit for this talent given the right environment and challenge.
+
+  He is an excellent team-player, effective communicator, along with his discipline and strong work
+  ethics, he will definitely be an asset to any organization he chooses to offer his services."
+
+  Dwight Thelwell,Product Design Engineer, Custom Truck & Equipment, a Utility One Source
+  Company, worked directly with Anupartha at Smith Electric Vehicles
+
+
+  "I worked with Anu at SMITH Electric Vehicles. He is very knowledgeable and skilled in Electrical
+
+  Engineering, programming, embedded systems, software engineering, systems integration and
+  testing. I specifically worked with him on Battery Management Systems Validation. He is a very
+  strong asset for SMITH; focused on results, very intelligent, diligent problem solver, did what ever it
+
+  took to make the project successful including long hours, late nights and weekends...but he is very
+  easy to work with as he is a dedicated team player. He can be my wing man anytime!"
+
+  Kevin McCosh,Manager - Standard Engineered Products, Industrial Accessories Company, Intl.,
+
+   managed Anupartha indirectly at Smith Electric Vehicles
+
+
+
+Profile Notes and Activity (1)
+
+  3/6/2016View by Todd Louie Rele

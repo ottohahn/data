@@ -1,0 +1,112 @@
+Jim Brown
+
+Dallas/Fort Worth Area
+
+Owner at The Swirling Brain
+
+
+Summary
+
+Software Engineer
+
+
+
+Experience
+Network Security and Software Engineer at Intrusion.com
+
+July 2007 - Present (8 years 7 months)
+  Traveled and installed Network security systems into Banks, and Schools. Worked on various
+
+  government projects.
+
+Owner at The Swirling Brain
+June 2005 - Present (10 years 8 months)
+
+  I mostly make and sell rolling ball sculptures. I sometimes sell other items also like robotic parts or
+  diabetic medical supplies.
+
+Software Engineer at Samsung Telecommunications America
+
+2001 - 2001
+  I was the main engineer to write a Debugger for SCP and ICAP software with Java. SCP is the
+  master control system for telecommunications which controls such features as VPN, LD, Free
+
+  Phone 1-800, Charge Phone 1-900, Collect, and general custom call flow control. Interacted with
+  groups such as Switch, and HCP.
+
+Software Engineer at ADC Telecommunications
+
+1999 - 2000 (1 year)
+  Worked on a Network Management Interface Communication Tool (NMIC) for a packet ring
+
+  broadband system with TCL/TK, Expect, SNMP and C++. Worked with D3, M3, T1 and other
+  protocols.
+
+Software Engineer at DSC
+
+1995 - 1999 (4 years)
+  Worked on Database and Functionality of SCP systems. One SCP system used a Fault Tolerant
+
+  Computer System with a db_Vista database and the other used Spark systems and Sybase SQL
+  with stored procedures. Worked on functionality such as Free Phone (1-800), Charge Phone
+  (1-900), VPN, and custom call flow.
+
+
+Software Engineer at Hematronix, Inc1990 - 1995 (5 years)
+  Wrote various software for Doctor Office Labs and Blood Chemistry analysis.
+
+Software Engineer at Digital Matrix Systems
+
+1983 - 1985 (2 years)
+  Wrote various application software.
+
+
+
+Education
+Texas Baptist Institute Seminary
+Associate of Church Music Education, Associate of Bible,Music,1986-1988
+
+Richland Community College
+1984-1986
+University of North Texas
+1984-1984
+
+
+Interests
+
+Rolling ball sculptures, Robotics, BaptistJim Brown
+
+Dallas/Fort Worth Area
+Owner at The Swirling Brain
+
+
+
+
+
+2 people have recommended Jim
+
+
+  "Jim Brown is an excelent coder. He has been coding and writing his own OS and programs since
+  I knew him in High School. He does coding for our company when he is not doing Support. His
+  codes are fast, effecient and work great. His tools have helped us greatly in easing the installation
+
+  and support of our products. I highly recommend him as both a friend, programmer, and technical
+  support engineer."
+
+  Timothy McGough,Software Security Analysis, Intrusion, Inc., managed Jim indirectly at
+  Intrusion.com
+
+
+  "I had pleasure of working with Jim Brown at ADC Telecommunications. Jim is a hard working and
+  detail oriented engineer with creative ideas . Jim has very good inter-personal and communication
+  skills and is easy to work with."
+
+  Jaydeep Nag,Principal Member of Technical Staff, AT&T, worked directly with Jim at ADC
+  Telecommunications
+
+
+
+
+Profile Notes and Activity (1)
+
+  1/1/2016View by Yna Marie Josol

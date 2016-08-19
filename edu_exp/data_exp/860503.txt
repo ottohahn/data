@@ -1,0 +1,158 @@
+Christian Kuiawa
+
+Providence, Rhode Island Area
+
+java and javascript developer
+
+
+Summary
+
+Excellent problem-solving skills, strong customer advocate, 14+ years Java, 3+ years Javascript,
+
+ Agile software development, Test-driven development, Continuous Integration, performance
+ analysis, network programming, multi-threaded environments, ability to understand business
+
+ requirements and design solution which balances technology and feasibility.
+
+
+Experience
+
+Agile Software Developer IV at Cengage Learning
+November 2012 - Present (3 years)
+  Implemented full-stack features in a test-driven pair-programming environment. Hand-picked
+
+   to lead development effort on two major javascript functionality rewrite projects. Javascript
+   programming using JavascriptMVC, AngularJS and Polymer.
+
+
+Senior Software Engineer at Boston Financial Data Services
+May 2012 - October 2012 (6 months)
+  Wrote customizable user self-service web site for class action settlements using Spring Roo, Spring
+
+   Webflow, JSF, Primefaces and XHTML.
+
+Programmer / Analyst at Schneider Electric
+November 2007 - April 2012 (4 years 6 months)
+
+   Designed and implemented server-side features in Java, including major rewrite of legacy
+   functionality.  Developed multiple comprehensive feature plans for product owners consisting
+
+   of definition, user stories, time estimates for development and test, and mock-ups of potential
+   customer experience.  Revitalized the interaction between the software and sales teams. As a
+   result, bug fixes were reprioritized, and customer satisfaction was increased.  Wrote third-party
+
+   device support for internal field service specialists, partner resellers, and external customers. 
+   Consistently impressed customers by providing device support prior to deadline and prioritizing
+
+   revisions after initial delivery.  Helped define the release process for ColdFusion web applications
+   hosted on IIS servers by IT department.   Implemented Java server-side functionality, wrote
+
+   ColdFusion pages, and designed MS SQL Server database tables for various in-product updates. 
+   Wrote ColdFusion pages, and designed MS SQL Server database tables for customer survey and
+   product download.  Trained staff on web application process from initial development to release
+
+   to web.  Served as liaison between software and IT departments for web application hosted by   IT.  Wrote ColdFusion reports for marketing teams to analyze data collected from product posts. 
+   Recognized by management for presenting multiple solutions to complex problems, listing benefits
+
+   of each, and providing a recommendation based on agreed-upon design criteria.
+
+Team Leader at APC-MGE
+
+June 2007 - November 2007 (6 months)
+   Managed team of three developers and one QA analyst  Facilitated team roadblocks such as
+
+   handling escalated customer issues, finding and rebuilding hardware, configuring racks, and
+   maintaining Cruise Control build server.  Prioritized new features and bug fixes.  Released final
+   product version early and under budget.
+
+
+Senior Software Engineer at APC-MGE
+April 2004 - June 2007 (3 years 3 months)
+
+   Co-researched and implemented Spring Framework, Hibernate and SOAP web service to be used
+   as architecture for major new feature.  Wrote complex Continuous Integration Ant scripts for multi-
+
+  site development.  Co-developed multiple product features, including design, Java implementation
+   and JUnit unit/system test.  Recognized by management for spreading enthusiasm and
+
+   evangelizing Agile and Test Driven Development to a stagnated Waterfall development team with
+   senior staff.  Impressed product owners by quickly and efficiently becoming a productive member
+
+   of the enterprise team using a complex code base.
+
+Software Engineer at American Power Conversion
+December 1999 - April 2004 (4 years 5 months)
+
+   Switched to next generation product team due to expertise with shared code base.  Gained
+   experience with Extreme Programming, specifically Test-driven development, Agile development,
+
+   paired programming, scrums, sprints, and demos.  Designed and implemented product auto-
+  update, including writing Java code for HTTP Post to web for checking updates, writing ColdFusion
+
+   pages for querying database tables, downloading and applying update to running product.  Co-
+  designed and implemented proprietary protocol for Delphi client to Java server communication over
+
+   TCP SSL socket. This protocol was also used in other products.  Mentored junior developers on
+   design technique and system architecture.
+
+Consultant at IBM
+
+June 1996 - December 1997 (1 year 7 months)
+  Interviewed customers, recorded current processes and requirements for new single sign-on
+
+   customer support system
+
+
+Education
+
+Worcester Polytechnic Institute
+BS,Computer Science,1992-1996Activities and Societies: Alpha Chi Rho, Campus Radio StationChristian Kuiawa
+
+Providence, Rhode Island Area
+
+java and javascript developer
+
+
+
+
+
+3 people have recommended Christian
+
+  "Having worked with Christian over the last 7 years I have always found him to be very professional
+
+  in his commitment to getting the job done right the first time. No issue has been too small for
+  Christian to dedicate his time to. He responds to deadlines and customer requests promptly and
+  efficiently. Christian has as a good skill set of interfacing with end users and partners. Along with a
+
+  dedication that makes Christian a major asset to any engineering team."
+
+  Mike Stacey,Sr DCIM Software Systems Engineer, Schneider Electric, worked with Christian at
+  Schneider Electric
+
+
+  "Christian is a great problem solver remains on task until completed. As a customer I had the
+  benefit or his technical support in fixing outstanding product issues. He is extremely competent and
+  professional in his work."
+
+  Thomas DiPalma,Sr. Manager Data Center Engineering, Viacom, was with another company
+  when working with Christian at Schneider Electric
+
+
+  "I've worked with Chris on a number of projects over the last several months, and I have found him
+
+  to consistently go above and beyond the call of duty in both supporting and driving these initiatives.
+  He has always delivered absolutely exemplary service to our internal teams, and by extension our
+
+  external enterprise customers."
+  David Sweikert,Software Consultant, BMC Software, worked with Christian at Schneider
+
+  Electric
+
+
+
+Profile Notes and Activity (2)
+
+  10/23/2015View by Maria Ivory Suarez
+
+
+  10/23/2015Tag "SWE" added by Maria Ivory Suarez

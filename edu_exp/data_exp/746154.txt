@@ -1,0 +1,81 @@
+Kale McNaney
+
+Greater Los Angeles Area
+
+Software Engineer
+
+
+Summary
+
+I'm an entrepreneurial engineer with a curiosity for exploring technology trends that allow smaller,
+
+ tighter teams to do more with less time and money. I value learning about customers' needs
+ and validating product hypotheses. My objective is to help smart teams succeed in reaching and
+
+ delighting customers through the use of technology.
+
+
+Experience
+
+Contractor at Groupon
+December 2013 - March 2014 (4 months)
+  Improving consumer and merchant experiences in Home & Garden and Auto categories.
+
+
+CTO at BabbaCo
+June 2013 - December 2013 (7 months)
+  Reduced tech infrastructure spend by 50% in ~2 months by switching from leased machines to
+
+  cloud/hourly based hosting on Heroku. Implemented a responsive, mobile & tablet friendly layout
+  for the blog and main site using Bootstrap. Seamlessly migrated thousands of monthly subscribers
+
+  from Magento/Aheadworks to Chargify.
+
+CTO at SunnyBump
+November 2012 - June 2013 (8 months)
+
+  Built a photo blog that allowed new and expecting parents to discover and organize products
+  that would improve their families' lives. Orchestrated and implemented an affiliate network of 50
+
+  bloggers that helped curate the products on SunnyBump. Ran Pinterest & Facebook marketing
+  campaigns to acquire new members. Oversaw daily new product mailers to ~20k users. Integrated
+  with Gumroad to sell products to members and their families.
+
+
+CTO at OpenChime
+March 2010 - November 2012 (2 years 9 months)
+  Designed and implemented a scalable communication platform for consumers and merchants
+
+  to talk and schedule appointments for a wide range of local services including roofing, house
+  cleaning, auto repair, massages and videography to name a few. Initially bootstrapped funded,
+
+  OpenChime successfully connected merchants and consumers in 300 cities across 12 countries
+  powered only by myself and co-founder, Erdem Kiciman. Once funded by Lightbank, hired and   trained another engineer, a team of two in sales and marketing and a community manager before
+   being acquired by Monthlys.com.
+
+
+CTO at Musicane
+2003 - 2009 (6 years)
+  Designed and implemented a DIY digital sales platform for recording artists including John Legend,
+
+   Will.I.Am, Saul Willlams & Trent Reznor and thousands of independents. Hired, trained and
+   managed a team of developers in Venice, CA and New Delhi India.
+
+
+
+Education
+Massachusetts Institute of Technology
+
+BS,Electrical Engineering and Computer Science,2001-2005
+West Seneca West Senior High SchoolKale McNaney
+Greater Los Angeles Area
+Software Engineer
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  9/14/2015View by Issaraporn Bao

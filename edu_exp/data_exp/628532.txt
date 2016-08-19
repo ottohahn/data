@@ -1,0 +1,205 @@
+Sudhakar Padala
+
+San Francisco Bay Area
+
+Vice President - Engineering at Mavenir Systems/Stoke Inc.
+
+
+Summary
+
+ACCOMPLISHED BUSINESS DRIVEN ENGINEERING LEADER Driven, results oriented
+
+ engineering leader with over 20 years of extensive experience in delivering solutions & systems
+ for Mobile services, Security, DPI, 3G/4G wireless, WLAN and SDN/NFV. Thrive in fast paced
+
+ environments where there is intersection of business, technology and innovation. Well balanced,
+ rounded executive with proven track record as a leader, mentor and a key enabler of teams to
+ execute complex projects and deliver products & solutions on time. Strong 360 degrees collaborator
+
+ with other groups such as sales, product management, marketing, and standards bodies. -
+ Executive/Senior Management & Technical Leadership roles - both technical & team management.
+
+ Managed software teams of 100+ engineers located in multiple sites across the globe. - Complete
+ Product Lifecycle Management starting from concept to planning, design and delivery of products
+
+ from Engineering - Cross Functional Team Leadership & Collaboration with PLM, CTO and Sales
+ organizations in definition, execution and delivery of solutions to meet customer requirements. -
+ Partner Engagement and Vendor Management of equipment & stack vendors. Managed vendor
+
+ relationships, product evaluations, and contract negotiations. - Customer & Sales Engagement
+ for requirement refinement, roadmap tuning, product architecture, development and delivery of
+
+ solutions.
+
+
+Experience
+
+Vice President - Engineering at Mavenir Systems / Stoke Inc.
+June 2013 - Present (2 years 1 month)
+
+  Lead the Mavenir/Stoke engineering organization spread across two global sites in delivering
+  carrier class security solutions for LTE networks & WLAN offload (TTG/PDG/ePDG) enabling
+  mobile services. Guide Stokes product evolution towards SDN/NFV to enable security as a service
+
+  and adoption of open platform architecture.
+
+Sr. Director, Software at Stoke
+May 2011 - June 2013 (2 years 2 months)
+
+  Lead the Software Development team and Delivered the next generation 20 Gig card for Stoke's
+  flagship SeGW product SSX.
+
+
+Director, Software Engineering at Trapeze Networks
+August 2010 - May 2011 (10 months)  Lead the Software development organization responsible for delivering Software for Enterprise
+
+   WLAN solutions. Responsible for strategic shift towards open AP Linux platform for Trapeze AP
+   products.
+
+Sr. Manager, Development Engineering at Ericsson
+
+May 2008 - August 2010 (2 years 4 months)
+  I manage the SW development team responsible for delivering security (IKE/IPSec) and DPI
+
+   services for Ericsson solutions.
+
+Director, Development Engineering at Azaire Networks
+February 2005 - April 2008 (3 years 3 months)
+
+  As a Director of Development Engineering, I was responsible for delivering the Azaire flagship
+   product called Metro-WSG. It is a Gateway targeting the wireless and FMC markets. Its initial
+
+   functions included SeGW for UMA & Femto markets, TTG/PDG/PDIF for I-WLAN markets
+   and eventually targeting the LTE market as a SAE-GW. I was responsible for developing and
+
+   delivering Metro-WSG ground up on ATCA platform. Besides managing the product development
+   team, I held the additional responsibilities of defining the platform evolution road map, identifying
+
+   the right platform solutions, protocol stacks, etc. In this role I was responsible of complete vendor
+   relationships that included product evaluations, price/contract negotiations, and other vendor
+
+   issues.
+
+Product Technologist at Openwave
+
+July 2003 - February 2005 (1 year 8 months)
+  As a Sr. Product Technologist, I was responsible for defining the solution architecture for
+
+   Openwaves next generation service delivery platform.
+
+Technical Lead at Tahoe Networks
+October 2001 - June 2003 (1 year 9 months)
+
+  As a Technical Lead, I was responsible for defining and developing the CDMA2000 solution for the
+   Tahoe fault tolerant wireless router TMER5000
+
+
+Technical Lead at Cisco Systems
+July 1996 - October 2001 (5 years 4 months)
+
+  As a Solution Technical Lead, I was part of the team that defined the Cisco wireless solutions. As
+   the CDMA2000 expert within the team, I was actively involved in the definition of Cisco wireless
+
+   solution that was eventually marketed as Cisco CMX. I worked closely with teams working within
+   IOS and in the standards groups (3GPP/3GPP2/IETF) to influence and drive solutions that provide
+
+   the best technologies for the wireless operators. As the initial member of wireless business unit
+   and a system architect and team lead, I was responsible for defining the PDSN solution in Cisco
+
+   IOS and delivering it.
+
+Sr. Software Engineer at SynopsysJanuary 1991 - June 1996 (5 years 6 months)
+  As a SW Development Engineer, I worked on the next generation HW modeler developed by Logic
+
+   Modeling/Synopsys. Developed device drivers and embedded SW.
+
+SW Engineer at CMC Ltd
+1988 - 1990 (2 years)
+
+
+
+Education
+Sainik School, Korukonda
+
+High School,Mathematics, Physical Sciences,1972-1980
+Osmania University
+Bachelor of Science (BS),Mathematics & Earth Sciences
+
+University of Hyderabad
+Masters,Computer ScienceSudhakar Padala
+
+San Francisco Bay Area
+
+Vice President - Engineering at Mavenir Systems/Stoke Inc.
+
+
+
+
+
+5 people have recommended Sudhakar
+
+  "Sudhakar is a rare combination of an excellent people manager and a very strong, hands on
+
+  technical manager. He is excellent in conceptualizing architecture and charting out a detailed
+  product development road map to translate white board into reality. His many years of hands on
+
+  experience in product development makes him a par excellence Bottom Up Architect. He has
+  a great start-up mentality, Do what ever it takes, to get the job done, at the same time keeping
+
+  companys goals in perspective. At Azaire, Sudhakar consistently performed and delivered under
+  tight budgets and tough resource constraints. Sudhakar is a 360 degree performer, with the ability
+  to work well and have an excellent rapport with his team, his peers and his managers. Sudhakar
+
+  would definitely be a key contributor in any organization."
+
+  Zaheer Allam,Chief Delivery Officer - Engineering & Operations, GlobalLogic, managed
+  Sudhakar at Azaire Networks
+
+
+  "Sudhakar was a thorough and versatile technical leader who could clearly see the big picture and
+  was able to provide guidance to the engineers with respect to various nuances of standards. At
+
+  Cisco, I closely worked with him when he was in a techlead role, and have a high regard for his
+  technical abilities."
+
+  Bhaskar Bhupalam,Founding Architect, Avni, worked indirectly for Sudhakar at Cisco Systems
+
+
+  "I had the opportunity to work with Sudhakar during our Redback-E// tenure. He led the Engg team
+  to deliver ASE card with DPI and IPSec as primary apps. While very effective in leading his team,
+
+  he always extended his support to cross-functional teams spanning multiple site and different
+  groups (PLM, Pre-sales/RFP etc)."
+
+  Rishi Mehta,Sr. Dir, Product Management, Ruckus Wireless, worked with Sudhakar at
+  Ericsson
+
+
+  "Sudakhar is an awesome manager, a person with knowledge on every aspect. I reported to him
+
+  during my stint in his team and I must say that it was such a personal delight to listen to him talk on
+  technical topics as well as topics like US Presidential Elections, his knowledge on any of the areas
+  is simply stunning.For me he is a role model.His techno managerial skills are great and he do cared  about his team members and the way he protects his team members in crisis situation is simply
+  great. I wish I can be part of his future teams."
+
+  Tarundeep Singh Kalra,Manager, IBM, reported to Sudhakar at Azaire Networks
+
+
+  "Sudhakar has an excellent background in Telecoms and IP networking. He has both the technical
+
+  knowledge of new architectures as well as the know-how of today's operator deployments. He
+  is able balance these requirements and develop very effective solutions for carriers. At Azaire,
+
+  he was able bring this unique perspective and help to design new products within 1 year and be
+  able to deploy in Tier-1 carrier networks. I strongly recommend him as a key technical/product
+  development director and would like the opportunity to work with him again."
+
+  Naveen Dhar,Head - Business Strategy and Planning, Center for Innovation, Huawei
+
+  Technologies, managed Sudhakar indirectly at Azaire Networks
+
+
+
+Profile Notes and Activity (1)
+
+  6/30/2015View by Monica Bungcasan

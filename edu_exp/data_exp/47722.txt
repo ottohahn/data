@@ -1,0 +1,60 @@
+VEERENDRA BATHULA 
+180 Elm Ct  
+Sunnyvale CA 94086 
+Cell: 3373492434 
+veeru.bds@gmail.com 
+ 
+ 
+Objective 
+ 
+ Looking For a challenging role in a leading software organization where I will get a chance to apply my 
+skills and experience. 
+ 
+ 
+Skills 
+ 
+Languages                                                         : Java, C#, SQL 
+Big data Technologies                                       : Hadoop (HDFS, Map-Reduce)  and Hbase. 
+Technologies                                                     : J2EE,Web Services 
+Scripting Language & MarkUp’s                        : JavaScript,HTML,XML,XSD 
+Databases                                                         : MySQL, IBM DB2,SQL Server 
+Software Tools and Build Systems                   : TFS, Clear Case, Clear Quest, Requisite Pro,                    
+                                                                            Maven, ANT, Visual Studio, STS, Eclipse, RAD. 
+Application and Web servers                            : IBM Web sphere, Apache Tomcat. 
+ 
+Algorithms and Data Structures, Design Patterns. 
+ 
+        
+ 
+Education 
+ 
+ Master’s in  Computer Science, April 2011 
+  
+ 
+Experience 
+ 
+Cisco , San Jose, CA, Java Developer, September, 2012-present 
+ Developed Multiplexing module using Http Client and HttpsUrlConnetion Java API. 
+ Designed XSD(service Schema) 
+ Developed RESTFUL web services which are consumed by Cisco Partners. 
+ Used JAXB (Java API) for Marshalling and Unmarshilling. 
+ Used Mybatis framework which is used for Database Interaction. 
+ Fixing Bugs. 
+ Deployment, Unit testing (JUNIT) and Integration Testing. 
+ Worked with onsite and offshore team. 
+ 
+State of California, Rancho Cordova, CA, Java Developer, May, 2011-September,2012 
+ Worked on adding new Functionalities along with fixing existing defects by performing root cause 
+analysis. 
+ Fixed data related issues in production using SQL. 
+ Extensively worked on Struts (MVC) framework, EJB’s, Hibernate and Spring. 
+ Worked on JavaScript for client Side validations. 
+ Developed stateless Session Beans to handle business logic. 
+ Developed POJO classes and Object Relational Mapping in Hibernate. 
+ Written HQL for querying data. 
+ Interacting and running Scheduled Batch Jobs. 
+ Unit testing using JUNIT and performed integration testing along with code review and peer 
+review. 
+ 
+ 
+References Available Upon Request

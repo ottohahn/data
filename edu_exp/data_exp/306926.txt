@@ -1,0 +1,131 @@
+RESUME OF
+MARK E. BALLANTINE, CRISC
+CELL: 609-516-8559
+
+PROFESSIONAL SUMMARY:
+Results driven information security and technology professional with 20+ years of proven expertise across global enterprise-wide architectures and environments  Proficient in designing effective IT solutions to meet current needs and future expectations of the business; specializing in Corporate Social Responsibility (CSR) Strategy, IT Risk Solutions, Information Security Best Practices, Digital Forensics; and, Compliance, Security, and Vulnerability Management globally.  Solid understanding of IT Governance practices, IT Operations Policies management, and Business Continuity Planning of business systems and technical operations to ensure compliance to global policies and procedures and regulatory needs.
+
+ACHIEVEMENTS:
+*  Created cohesive leadership team, provided one-on-one coaching,
+
+ capitalizing on person's strengths, resulted in 70% increase in customer satisfaction.
+*  Increased business revenue by 75% annually as a result of upgrades and application enhancements, including the replacement of obsolete systems, hardware and software.
+*  Analyzed business operations, reduced the amount of system downtime by 50%, and installed a DLP program with an ROI of 90%.
+*  Turned around lead time to achieve 100% performance on SLAs.  Reduced customer dissatisfaction 75%, and increased revenue 50%.
+*  Captured a 50% reduction in inventory though the process of redesign and optimization.
+
+TECHNICAL SKILLS:
+
+Hardware:                     HP, IBM, Dell (Desktops, Laptops, Servers), Disk Array, Tape Drives, EMC, SAN
+Software:                     Proventia Firewall, Safeguard Easy, Websense 6.3.1, PCI, Altiris, RSA, QualysGuard, CaseSentry, Imaging (Symantec Ghost), Active Directory, IIS,  Oracle 11G/12, HP OpenView, ESX (VMWare),  Microsoft Operating Systems NT,  2008 R2, 2010 XP, Vista, Windows 7, MAC, Linux, ArcServe, Microsoft Exchange 2000, 2003, 2007, 2010, Remedy, Veritas NetBackup, McAfee, Norton, CA, Lotus Notes, Citrix, VPN, Microsoft GP, PeopleSoft, Rsam, SharePoint, Concur
+
+Networks:                     Hubs, Switches, Routers, Cables, PC Hardware/Software Testing, LAN/WAN Optimization, Technical Infrastructure
+
+Protocols:                    DNS, TCP/IP, DHCP, FTP, SFTPUDP, Ethernet, WINS
+Standards/Regulations:        HIPAA, PCI, SOX, FISMA, NIST, ISO, Safe Harbor
+
+Certifications:               Vivarium, CRISC
+
+PROFESSIONAL EXPERIENCE:
+
+Educational Testing Service (ETS), Princeton, NJ          September 2012 - Present
+Information Security and Compliance Manager
+
+Responsible for overseeing the planning, execution, and management of multi-faceted projects related to compliance, control assurance, risk management, security, and information protection. Provide guidance and direction for the protection of information systems assets to other functional units.  Assess business needs against security concerns and articulate issues and potential risks to management.  Provide reports to superiors regarding the effectiveness of data security and make recommendations for the adoption of new policies and procedures.
+*  Perform Control Assurance functions including risk assessments, control validation, and oversee the implementation of controls to mitigate risk to systems and applications.
+
+*  Conduct Application Risk Assessments to evaluate compliance to corporate policy and identify risks related to application access control.
+*  Develop and implement remediation strategies to mitigate risks associated with the confidentiality, availability, and integrity of corporate data.
+*  Assist in the planning and execution of corporate third party risk assessments.
+*  Acts as lead with Corporate / IPO Security Compliance initiatives.
+*  Provide leadership in the implementation and deployment of IT Security and Compliance technologies and / or technological solutions.
+*  Provide strategic and tactical direction and consultation on Information Security and IT Compliance to corporate business areas.
+*  Evaluate security risks and identify and define compliance strategies in accordance with policies and standards.
+*  Keep stakeholders informed about compliance and security-related issues and activities affecting the assigned area or project.
+*  Identify, recommend and implement solutions to increase data protection mechanisms and controls throughout the enterprise.
+*  Act as liaison between internal audit and IT to ensure commitments are met and controls are properly implemented.
+
+NRG Energy, Princeton, NJ                          April 2012 - August 2012
+Information Security and Compliance Lead
+
+Responsible for overseeing the critical asset cyber security compliance program to the Critical Infrastructure Protection standards. Ensured execution, tracking, and review of all site specific controls for meeting program requirements and ongoing compliance.
+*  Served as primary SME on site specific hardware, software and control architectures.
+*  Performed required incident response, recovery and backup tests with sites.
+*  Assisted each site in implementation of security measures needed for existing cyber assets, in alignment with corporate cyber security standards; executed plan to remediate and implement compliance activities for securing the site infrastructure from threats.
+*  Provided technical guidance and served as first responder with facility personnel in the event of a breach and provided support to affected site for restoration.
+*  Implemented account authorization program and validated its usage through technical and procedural controls.
+*  Implemented and monitored a security patch management program for tracking, evaluating, testing, and installing applicable cyber security software patches for all cyber assets.
+*  Implemented and supported the backup and restoration program and incident response for cyber assets.
+*  Participated in all computer or network related design discussions at each facility to ensure alignment with corporate standards and compliance to regulations.
+*  Reviewed site diagrams and topology drawings to ensure accurate depiction of systems and connectivity.
+*  Identified areas for improvement and provide input for cyber security efforts.
+
+Omnicom Media Group, New York, NY          November 2009 - April 2012
+Information Security Officer
+
+Identified and designed effective solutions to meet the current needs and future expectations of the business; specializing in research on corporate social responsibility (CSR) strategy, organization, Information Security best practices, digital forensics; and, compliance, security, and vulnerability management.
+*  Accountable for advising the Chief Information Security Officer-WW and the CIO on security related issues / remediation; responsible for the overall effectiveness of the Information Security Department and IT organizations globally.
+*  Performed thorough security inspections and surveillance of network activities occurring daily within the company.
+*  Developed and maintained system documentation to ensure that change control and access is maintained and in compliance.
+*  Project manager for a server consolidation project. Met goal to identify technology driven solutions, reduced amount of hardware and established Data Center SOP policies and procedures.
+*  Performed information security risk assessments and serves as the point of contact for security and compliance issues, including SOX compliance, PCI/DSS, ISO, and other compliance certifications.
+*  Conducted periodic IT Infrastructure assessments and remediation in order to ensure corporate quality and compliance standards are being supported.
+*  Monitored internal control systems to ensure that appropriate access levels are maintained.
+*  Key IT Team Member in auditing of General Computing Controls (GCC), Change Management (CM), Software Development Life Cycle (SDLC), entity-level controls, physical security (including data center security, physical and environmental) controls, disaster recovery, Segregation of Duties (SOD), etc.
+*  Developed and managed information security budgets, and monitor for variance.
+*  Primary IS liaison on IS related audits conducted by internal audit, financial auditors, and special external auditors.  Coordinated audit activities, tracked open issues, ensured timely response to inquiries and issues, debriefed IS management throughout the process, and worked open issues into the annual IS Security plan.
+*  Oversaw development of global security policies, technical controls and processes, and security awareness campaigns.
+
+Independent Consultant          December 2008 - November 2009
+Senior CONSULTANT
+
+Utilized extensive knowledge in information technology, systems architecture, and network security to configure and manage networks, determine effective solutions, and provide network design, support, and installation.
+*  Partnered with hospitals, banks, law firms, and non-profit organizations to provide outsourcing, business analysis, project management, and information technology requirements analysis.
+*  Provided recommendations for improving system responsiveness, and security and to reduce downtime; business solutions in the field of IT support (client & server) network, voice, wireless and mobile devices; and value-add to customers in the planning, design, implementation, and documentation of their networks.
+*  Oversaw information security operations by identifying gaps and determining the best approach to close those gaps.
+*  Designed, managed, implemented, administered, and supported all facets of MS-Exchange in mixed environments, both client side and server side.
+*  Maintained appropriate security measures and mechanisms to guard against unauthorized access to electronically stored and/or transmitted business/client data and protect against reasonably anticipated threats and hazards.
+*  Conducted functionality and gap analysis to determine the extent to which key business areas and infrastructure comply with statutory and regulatory requirements.
+*  Evaluated and recommended new information security technologies and counter-measures against threats to information or privacy, and ensured compliance through adequate periodic security audits both internally and externally.
+
+Sanofi-Aventis Pharmaceuticals                 July 2006 - December 2008
+Sr. Manager - Information Technology
+
+A visionary leader providing the corporate enterprise leadership regarding strategic design and direction of all client service applications and database infrastructure, data services, networks, VoIP, disaster recovery, purchasing, and helpdesk activities. Responsible for consulting with executive management on business and development deliverables, identifying technology-driven solutions, and deployment of server hardware and software.  Accountable for supporting the US Pharmaceutical Operations business, leading a staff of 10 employees and contractors covering IT Hardware and software procurement, invoice management, data validation, maintenance contracts and license management, vendor relationships, warehouse and data center operations.
+*  Ensured that we had proactive strategies in place to avoid preventable outages, leveraged automation.
+*  Project Manager spearheading a data center migration and consolidation project, in which servers and SAN storage devices were migrated into a high profile, high-security data center.  Managed and responsible for the build out of a new construction data center.  Worked closely with contractors and subcontractors who provided cooling, electrical, telecommunications, security, cabling services and alternative electrical solution.
+
+*  Cost-effectively developed and administered budgets to maximize bottom-line profits.
+*  Created and maintained data center SOPs, while providing communication to staff in order to ensure awareness and compliance.
+*  On an enterprise-wide basis, coordinated, oversaw, maintained, and determined strategy for all system related disaster recovery / avoidance activities.
+*  Managed service hardware and software resources including upgrades and patches.  Brought forward creative technology solutions for security adherence.
+*  Increased efficiency of a problematic business area by managing, planning, monitoring, coordinating, and implementing large-scale, multi-location Research & Development (R&D) Infrastructure & Services project utilizing project management best practices with strong compliance with FDA Validation and Qualification requirements per 21 CFR Part 11.
+*  Provided technical leadership by providing investigation and testing recommendations and rationale for technology introductions and changes.
+
+Avaya Communication          October 2000 - March 2006
+IT Senior Manager
+
+Responsible for strategic planning, financial affairs, budgeting, all business infrastructures, accounting, human resources management information systems, purchasing, and inventory management.  Managed business development, customer relations, contract negotiations, and project oversight.
+*  Key IT team member/senior single point of contact providing network support and administration for 2000+ users.
+*  Improved efficiency by 60% by providing daily backups, user account and permission maintenance, network virus remediation strategies, server and workstation performance monitoring, repair and configuration, and troubleshooting connectivity issues for local and remote networks (LANs/WANs).
+*  Responsible for supporting and administering over 35 Windows NT servers, which included monitoring upgrades, patches, repairing and recommending solutions for preventive measures.
+*  Led the alignment of information security activities with business risk priorities through prioritization of security risk and mitigation activities.
+*  Partnered with the migration team responsible to relocate eBusiness applications from Lucent to Avaya data centers, and performed reliability testing of code in order to ensure data integrity.
+
+IBM Global Services            October 1994 - October 2000
+Senior Manager - IT
+
+Successfully managed 6 data centers with a $3.5 million budget.  Responsible for development and modification efforts of consolidation project.  Collaborated with Senior Executives to define system requirements.
+*  Led a team of Technicians responsible for desktop, network and server support in a 24/7 environment, while ensuring proper user security, login routines, and physical security were provided and maintained.
+*  Program managed the roll out of a multi-million server consolidation, which included over 35+ servers located at 8 sites.  Successfully met 100% of the deliverables which resulted in 75% efficiency, and 55% reduction in capital expense.
+* 
+ Responsible for Y2K certification of all applications and severs at all sites.  All externals audits were passed with no adverse events.
+
+EDUCATION:
+Associates Degree - Business Administration - Raritan Valley Community College
+Enrolled in CISM, CISA, CISSP, CEH (Certified Ethical Hacker),
+CPT (Certified Penetration Tester, Forensic Certifications (Expected 2015)
+Member - DRJ, Information Systems Security Association (ISSA), Chief Security Officer
+(CSO), OWASP, Information Systems Audit and Control Association (ISACA NJ, NYC, PA)
+
+M. Ballantine          Page 1
