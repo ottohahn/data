@@ -11,7 +11,7 @@ from collections import OrderedDict
 class GetExp():
 
     def __init__(self):
-        self.dates_zero = re.compile(ur'(([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{4}|[0-9]{2})(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)(\t|\s)*([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{2}|[0-9]{4})*|[0-9]{4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)(\t|\s)*(Present|Current|[0-9]{4}))', re.IGNORECASE)
+        self.dates_zero = re.compile(ur'(([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{4}|[0-9]{2})(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)*(\t|\s)*([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{2}|[0-9]{4})*|[0-9]{4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)(\t|\s)*(Present|Current|[0-9]{4}))', re.IGNORECASE)
 
         self.dates_one = re.compile(ur'[A-Z]+\s?[0-9]{2,4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[A-Z]+\s?[0-9]{2,4})|[0-9]{4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[0-9]{4})|[0-9]{,2}(\.|\/)[0-9]{2,4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[0-9]{,2}(\.|\/)[0-9]{2,4})|[A-Z]+(\t|\s)*[0-9]{4}(\t|\s)*[A-Z]+(\t|\s)*(Present|Current|[0-9]{4})', re.IGNORECASE)
 
