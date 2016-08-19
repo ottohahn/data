@@ -1,0 +1,95 @@
+Sahar Kazemzadeh
+
+San Francisco Bay Area
+
+Software Engineer at Google
+
+
+Experience
+
+Software Engineer at Google
+July 2014 - Present (10 months)
+
+
+Undergraduate Research Assistant at University of North Carolina at Chapel Hill
+August 2013 - June 2014 (11 months)
+   Completed Honors Thesis in natural language processing under the guidance of Professor
+
+   Tamara Berg that culminated in publication in Empirical Methods in Natural Language Processing
+   conference (October 2014).  Used node.js and Socket.io to develop a two player online game to
+
+   collect and verify natural language referring expressions.  Used game to create a new large-scale
+   dataset containing natural language expressions referring to objects in photos.  Used MATLAB
+
+   and Java to analyze the collected dataset and developed statistical model to generate human-like
+   expressions to refer to objects in photos of natural scenes
+
+Information Technology Leadership Program Intern at GE Capital
+
+June 2013 - August 2013 (3 months)
+   Led $90,000 project and managed rollout of mobile retail card servicing site upgrades for five
+   major GE Capital Retail Bank clients.  Developed front-end for iOS application used by leadership
+
+   to monitor retail credit card activity for 30+ Retail Bank clients.  Developed test scripts for
+   regression testing mobile retail card application and servicing sites.  Assessed mobile payments
+
+   startups for investment/acquisition value and presented findings to senior leaders.
+
+Software Engineer at Smarts and Stamina
+January 2013 - May 2013 (5 months)
+
+   Used JavaScript, HTML, and CSS to develop an iPhone application with the PhoneGap
+   framework for keeping track of daily health data.  Ported iOS application to Android  Created
+
+   extensive documentation throughout the engineering process, including functional specifications,
+   user manual, design document, and test plan with unit tests.
+
+Senior Advisor at Vector Marketing
+
+2011 - 2012 (1 year)
+   Sold $10,200 of cutlery products to self-generated client base in 7 weeks.  Achieved 70% closing
+   ratio with $402 avg. order, compared to divisional avg. of 50% and $200.  Ranked top 5% among
+
+   representatives in Carolina division.  Promoted 4 times based on sales performance.  Gained
+   skills in sales presentation, customer service, closing, and time management.Math Word Problem Writer at Learn Without Limits
+July 2010 - December 2010 (6 months)
+
+   Published 800+ math word problems that are in use by over 15,000 K-8 students nationwide using
+   HTML and LaTeX.
+
+Cancer Biology Research Intern at Duke University Medical Center
+
+September 2009 - February 2010 (6 months)
+  Project: Study of the Effectiveness of the Psoralen-Like Derivative 508c  Determined the
+
+   effectiveness of a new compound, 508c, in targeting human cancer cells.  Presented findings via
+   formal research paper and NCSSM Annual Research Symposium.
+
+
+
+Education
+University of North Carolina at Chapel Hill
+
+B.S. Computer Science,Minor: Business Administration,2010-2014
+Activities and Societies: Persian Cultural Society (President), Women in Computer Science, Honors
+ Carolina, AIESEC
+University of Manchester - Manchester Business School
+
+Study Abroad,2012-2012
+North Carolina School of Science & Mathematics
+Diploma,2008-2010
+
+Activities and Societies: Health Occupations Students of America (Vice President), Seminar on
+ Middle East (Co-Director/Founder), Key Club (Secretary), Seminar on Health Occupations (Co-
+Director)Sahar Kazemzadeh
+San Francisco Bay Area
+Software Engineer at Google
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  4/16/2015View by Cooper McKinley

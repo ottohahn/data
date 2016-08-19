@@ -11,9 +11,9 @@ from collections import OrderedDict
 class GetExp():
 
     def __init__(self):
-        self.dates_zero = re.compile(ur'[0-9]{4}\s?-\s?[0-9]{4}|[0-9]{2}/[0-9]{2,4}|Jan|Feb|Mar|March|Apr|May|June|July|Aug|Sept|Oct|Nov|Dec [0-9]{4} -|[0-9]{4}')
+        self.dates_zero = re.compile(ur'(([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{4}|[0-9]{2})(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)(\t|\s)*([A-Z]+|[0-9]{,2})(\s|\t|\/|\.)*(’|‘)*([0-9]{2}|[0-9]{4})*|[0-9]{4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through|\s)(\t|\s)*(Present|Current|[0-9]{4}))', re.IGNORECASE)
 
-        self.dates_one = re.compile(ur'[A-Z]+\s?[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[A-Z]+\s?[0-9]{2,4})|[0-9]{4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{4})|[0-9]{2}(\.|\/)[0-9]{2,4}(\t|\s)*(-|~|to|through)(\t|\s)*(Present|Current|[0-9]{2}(\.|\/)[0-9]{2,4})|[A-Z]+(\t|\s)*[0-9]{4}(\t|\s)*[A-Z]+(\t|\s)*(Present|Current|[0-9]{4})', re.IGNORECASE)
+        self.dates_one = re.compile(ur'[A-Z]+\s?[0-9]{2,4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[A-Z]+\s?[0-9]{2,4})|[0-9]{4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[0-9]{4})|[0-9]{,2}(\.|\/)[0-9]{2,4}(\t|\s)*(~|—|–|-|to|To|TO|THROUGH|Through|through)(\t|\s)*(Present|Current|[0-9]{,2}(\.|\/)[0-9]{2,4})|[A-Z]+(\t|\s)*[0-9]{4}(\t|\s)*[A-Z]+(\t|\s)*(Present|Current|[0-9]{4})', re.IGNORECASE)
 
         self.headerstrt = re.compile(ur'Experience\n|Experience\s\t\n|EXPERIENCE|WORK EXPERIENCE|EMPLOYMENT|PROFESSIONAL BACKGROUND|PROFESSIONAL EXPERIENCE|JOBS') #Need to deal with orthographic errors
 
@@ -27,6 +27,7 @@ class GetExp():
         signal = True
         while i < len(lines):
             line = re.sub(u"\xe2\x80\x93", "-", lines[i])
+            line = re.sub(u"\xe2\x80\x94", "-", line)
             if re.search(self.headerstrt, line):
                 signal = True
                 finddate = re.search(self.dates_one, line)
@@ -56,6 +57,7 @@ class GetExp():
         date_list = []
         while i < len(lines):
             line = re.sub(u"\xe2\x80\x93", "-", lines[i])
+            line = re.sub(u"\xe2\x80\x94", "-", line)
             if re.search(self.headerstrt, line):
                 signal = True
                 finddate = re.search(self.dates_zero, line)
@@ -77,36 +79,6 @@ class GetExp():
                     i += 1
         return date_list
 
-    # def get_exp(resume):
-    #     fileinp = open(resume, 'rU')
-    #     lines = fileinp.readlines()
-    #     fileinp.close()
-    #     i = 0
-    #     signal = True
-    #     date_list = []
-    #     while i < len(lines):
-    #         line = re.sub(u"\xe2\x80\x93", "-", lines[i])
-    #         if re.search(self.headerstrt, line):
-    #             signal = True
-    #             finddate = re.search(dates, line)
-    #             if finddate:
-    #                 date_list.append(finddate.string[finddate.span()[0]:finddate.span()[1]])
-    #             if re.search(self.headerstop, line):
-    #                 signal = False
-    #             i += 1
-    #         elif re.search(self.headerstop, line):
-    #             signal = False
-    #             i += 1
-    #         else:
-    #             if signal:
-    #                 finddate = re.search(dates, line)
-    #                 if finddate:
-    #                     date_list.append(finddate.string[finddate.span()[0]:finddate.span()[1]])
-    #                 i += 1
-    #             else:
-    #                 i += 1
-    #     return date_list
-
     def get_exp_one(self, lst):
         date_list = []
         for line in lst:
@@ -127,24 +99,65 @@ class GetExp():
             new_list = []
             for group in date_list:
                 group = re.sub(r"(\t|\n|\.)", " ", group)
-                lst = re.split(ur"(-|~|\s\s|\s(-|~|to|through)\s)", group)
+                lst = re.split(ur"(~|—|–|-|\s\s|(\s\s|\s)(~|—|–|-|to|TO|To|THROUGH|Through|through)(\s\s|\s))", group)
+                lst = [x.strip() for x in lst if x is not None]
                 if len(lst) > 1:
-                    try:
-                        beg = parser.parse(lst[0])
-                        if beg > cur_date:
-                            beg = cur_date
-                    except ValueError:
-                        return None
+                    if len(lst[0]) == 4:
+                        mon_yr = re.split(r'\/', lst[0])
+                        if len(mon_yr) == 2:
+                            lst[0] = mon_yr[0]+" "+"20"+mon_yr[1]
+                            beg = parser.parse(lst[0])
+                        else:
+                            try:
+                                beg = datetime.datetime.strptime(lst[0], "%Y")
+                                if beg > cur_date:
+                                    beg = cur_date
+                            except ValueError:
+                                # return None
+                                continue
+                    else:
+                        try:
+                            beg = parser.parse(lst[0])
+                            if beg > cur_date:
+                                beg = cur_date
+                        except ValueError:
+                            # return None
+                            continue
                     if lst[-1].lower() in ['present', 'current']:
                         end = cur_date
                     else:
+                        if len(lst[-1]) == 4:
+                            mon_yr = re.split(r'\/', lst[-1])
+                            if len(mon_yr) == 2:
+                                lst[-1] = mon_yr[0]+" "+"20"+mon_yr[1]
+                                end = parser.parse(lst[-1])
+                            else:
+                                try:
+                                    end = datetime.datetime.strptime(lst[-1], "%Y")
+                                    if end > cur_date:
+                                        end = cur_date
+                                except ValueError:
+                                    # return None
+                                    continue
+                        else:
+                            try:
+                                end = parser.parse(lst[-1])
+                                if end > cur_date:
+                                    end = cur_date
+                            except ValueError:
+                                # return None
+                                continue
+                    if end >= beg:
+                        new_list.append((beg, end))
+                else:
+                    if len(lst[0]) == 4:
                         try:
-                            end = parser.parse(lst[-1])
-                            if end > cur_date:
-                                end = cur_date
+                            beg = datetime.datetime.strptime(lst[0], "%Y")
+                            end = beg + datetime.timedelta(days=365)
+                            new_list.append((beg, end))
                         except ValueError:
-                            return None
-                    new_list.append((beg, end))
+                            # return None
+                            continue
             return sorted(new_list, reverse=True)
 
     def remove_overlap(self, converted_dates):
@@ -153,13 +166,18 @@ class GetExp():
         else:
             for i, x in enumerate(converted_dates):
                 if i == 0:
-                    i += 1
+                    continue
                 else:
                     if x[1] > converted_dates[i-1][0]:
                         line = list(converted_dates[i-1])
                         line[0] = x[1]
+                        if line[1] < line[0]:
+                            line[1] = line[0]
                         converted_dates[i-1] = tuple(line)
-                    i += 1
+        if converted_dates[0][1] < converted_dates[0][0]:
+            line_zero = list(converted_dates[0])
+            line_zero[1] = converted_dates[0][0]
+            converted_dates[0] = tuple(line_zero)
         return converted_dates
 
     def get_yrs(self, no_ov_dates):
@@ -182,3 +200,4 @@ class GetExp():
         rem_ov_lst = self.remove_overlap(converted_dts)
         yrs = self.get_yrs(rem_ov_lst)
         return yrs
+

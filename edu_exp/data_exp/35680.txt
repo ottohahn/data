@@ -1,0 +1,50 @@
+Ryan Sullivan
+Email: KayoticSully@gmail.com9 Bircher AvenuePhone: (516) 459-0164
+Poughkeepsie, NY 12601
+Objective
+I seek to begin my software development career in an exciting and challenging environment.
+
+Education – Marist College, Poughkeepsie, NY USA
+Degree: Bachelor of Science degree (2012) / Master of Science (2013) degree, both in Computer Science 
+GPA: 3.2/4.0 undergraduate and 3.5/4.0 graduate
+Award: Received the 2012 Dr. William Cadden Achievement Award for Excellence in Computer Science.
+
+Relevant Coursework
+Artificial Intelligence: I used machine learning techniques programmed in Python to identify color patterns and groupings in photos.
+Operating Systems: I am writing a virtual host and client operating system in JavaScript that can run in any web browser.
+Distributed Systems:  We are adding to and scaling out a concurrent Blackjack system written in Scala.
+Living Education: I never assume I know everything and am willing to learn anything I may need to complete a project.  I always try to push the boundaries of my understanding of computer science.
+
+Skills and Technical Experience
+Programming Languages:  PHP (3 years), Java (4 years), JavaScript (3 years), C++ (2 years), Python (1 year), C# (2 years), Ruby (2 years), Scala (1 year), CoffeeScript (1 year), Objective-C (1 year)
+Libraries and Frameworks: CodeIgniter (1 Year), Ruby on Rails (1.5 years), jQuery (3 Years), Bootstrap (1 Year), Tumblr API (1 year), Facebook PHP API, Zend Framework, Etsy API, SciPy, NumPy
+Other Skills: MySQL (2 Years), MongoDB (1 Year), AJAX Programming, HTML 5, CSS 3, LAMP, Nginx, Java Servlets, LESS, SCSS
+Exposure To: Weka, Orange, R
+Environments: I have programmed and worked in Unix-based operating systems (Ubuntu, Fedora, Solaris, Mac, etc.) and Windows.
+Other: I work very well in groups and teams, and have participated in every Marist College Hackathon to date.  I honestly love technology and solving problems. I can also understand new programming languages, frameworks, and concepts very quickly.
+
+Projects 
+www.MineshafterSquared.com: Owner, Creator. I built the site using CodeIgniter, Bootstrap, LESS, and a little JavaScript. I created a file management system for textures that checks for duplicate images.  This site also involves a client-side proxy written in Java which I modified for my needs.
+
+Speak Easy: In my free time I wrote and maintain a plugin-based voice recognition framework for the Kinect.  It is written in C# and uses a lot of reflection and introspection which allows function names and parameters to become spoken commands.
+
+www.Haldora.com: I used the Shopify API to integrate a web store throughout the existing site.
+
+Career Experience
+Verizon Wireless: Orangeburg, NY – May 2012 – August 2012
+Position: Intern, Web Developer, General Programmer.
+Worked mainly on an internal website for the company, did some load test scripting and developed a new web-app to help manage test cases.  The main skills I used: Java Servlet programming, JavaScript, CSS, Oracle SQL Loader.
+
+Top Tier Technology Consulting: Poughkeepsie, NY -- Started in January 2012 - Current.
+Position: Co-Founder, Programmer.
+About the Company: We do web consulting and development.
+We are currently working on a project using CodeIgniter, Bootstrap, LESS, jQuery, and Facebook’s Open Graph API.  We have also used Ruby on Rails in the past.
+
+Spectrum Creative Solutions: Poughkeepsie, NY – January 2010 through November 2010
+Position: Software Development Intern
+About the Company: They do a lot of online and print marketing for Colleges to promote schools to prospective students.
+I learned a good deal of web development using PHP, JavaScript (with jQuery), and MySQL.  I modified current client’s websites and helped develop one of their main web-products in its early stages.
+
+Marist College Resident Network: Poughkeepsie, NY – Spring and Fall Semesters 2009 & January 2011 – May 2012.
+Position: Resident Network Technician
+I did general computer and networking troubleshooting and problem solving.

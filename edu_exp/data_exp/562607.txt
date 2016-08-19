@@ -1,0 +1,70 @@
+                                    Longsheng                   WANG
+
+
+
+
+
+
+        CONTACT          EDUCATION
+  3215 Overland Ave
+          Apt 6163       2011 - 2013  University of Southern California                                 Los Angeles, USA
+        Los Angeles                   Master of Science, Biomedical Engineering
+                                      GPA: 3.88/4.0
+          CA 90034                    Courses: Analysis of Algorithms, Operating System (CS402),
+
+      (213)290-8050                           Digital Image Processing, etc.
+
+ wls0202@gmail.com       2007 - 2011  Nanjing Medical University                                    Nanjing, Jiangsu, China
+                                      Bachelor of Engineering, Biomedical Engineering
+
+      LANGUAGE
+      English fluent     EXPERIENCE
+     Chinese native      Sept 2013 -  Reunify.net                                                       Los Angeles, USA
+                         Now
+                                      SoftwareEngineeringIntern
+                                        Built REST API for internal profiles storing on Postgres SQL and Cassandra databases.
+ PROGRAMMING                            Built back end of a survey analytic web app in Spring framework.
+              Java                      Setting up Cassandra cluster.
+            C++, C                      Generated labels from users tweets to infer personal preferences.
+          SQL, CQL                      Generated LDA topic models based on crawling data using Mallet.
+
+HTML, CSS, JavaScript
+              PHP        May -        Hinacom Software Co. Ltd.                                           Beijing, China
+            Matlab       Jun 2012     InterninR&Ddepartment
+                                        Developed multi-scale contrast enhancement algorithm in Matlab
+                                        and implemented in C++.
+
+                         Nov 2010 -
+                                      ChenWei Electronic Co. Ltd.                                   Nanjing, Jiangsu, China
+                         Jan 2011     Intern
+                                        Developed controlling program for embedded MCU on ventilator in C.
+
+                         SKILLS
+
+                         Big Data     Maintain 220 million in-house profiles (about 90GB in total)
+                                      Hadoop MapReduce, Apache Avro
+                                      Cassandra cluster setting and data model defining
+                                      Cassandra Query, Datastax java driver and Spring Cassandra
+
+
+                         Web          Apache server,Tomcat and JSP
+                                      Spring framework including Spring MVC, Spring Data, Spring Security, etc
+                                      REST API design and implementation
+                                      Web app for iPad
+
+
+                         Cloud        AWS EC2 ---- EC2 instances, elastic load balancer, auto scaling group
+                         Computing    AWS S3 and Glacier for scalable storage
+                                      AWS Elastic MapReduce for cluster computing
+
+                         Testing      Junit for unit testing
+                                      Spring test framework for web service integration testing
+
+                                      Mockito for mocking
+
+                         Others       Maven and multiple maven plugins for compiling, testing and releasing
+                                      Comfortable withWindow, Mac and Linux operating systems
+                                      Comfortable with command line interface
+                                      Familiar with image processing technique
+
+                                      Familiar with image compression with wavelet transform

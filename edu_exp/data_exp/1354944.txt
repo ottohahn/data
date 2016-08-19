@@ -1,0 +1,96 @@
+C. David Lee
+
+Greater Nashville Area
+
+Senior Software Developer at HealthStream
+
+
+Summary
+
+Senior Software Developer and Software Architect
+
+ Over 17 Years of experience in architecture/design, development and maintenance of systems in
+ the Financial Services, Health Care and Technology sectors.
+
+ Major focus on development, design and implementation of C#, SQL Server and content
+ management web applications using Microsoft technologies
+ Emphases with communicating complex concepts clearly and effectively.
+
+ Selected as a speaker for the 2011 Pacific NW Software Quality Conference in Portland, OR
+ Experience with Agile development life cycle
+
+ Promoting a rich client web experience through jQuery, AJAX, HTML5 & CSS solutions
+
+ ASP.Net Application Development
+
+ High-end / high-traffic Web sites
+ C# development
+
+ JavaScript, jQuery, JSON, AJAX
+ Domain Driven Design
+ Content & Document management
+
+ SQL Development, TSQL, stored procedures & optimization
+ Security Architecture, Login and Account Administration
+
+ Test Driven Development (TDD) leveraging NUnit, QUnit & NQUnit
+
+
+Experience
+
+Senior Software Developer at HealthStream
+July 2012 - Present (4 years)
+
+Sr. Software Developer at SoftSource Consulting
+
+October 2010 - June 2012 (1 year 9 months)
+  Architecture, Development and Team Lead specializing in high delivery ASP.Net web sites &
+
+  technologies!
+
+Application Architect at Deloitte
+August 2010 - October 2010 (3 months)
+
+  Application Architect responsible for DeloitteNet, the firm's information portal.Sr. Software Developer at Deloitte
+January 2003 - August 2010 (7 years 8 months)
+
+Sr. Software Developer at Deloitte Services LP
+
+January 2003 - August 2010 (7 years 8 months)
+
+Software Developer at Deloitte
+October 1999 - January 2003 (3 years 4 months)
+
+
+
+Education
+Oregon State University
+Bachelor of Science (BS),Liberal Arts and Sciences/Liberal Studies,1986-1992
+
+Activities and Societies: Concert Choir, Madrigal ChoirC. David Lee
+
+Greater Nashville Area
+Senior Software Developer at HealthStream
+
+
+
+
+
+1 person has recommended C. David
+
+  "I've worked with David for the past year and a half at WebMD Health Services, where I lead the
+
+  Product Development organization. David is a strong Software Developer and I'd gladly work with
+  him again anytime. He ramps up quickly on anything and gets along great with everyone. The
+  software he produces is well-factored and reflects excellent judgment. He helped us to develop new
+
+  products and also to untangle some of our worst legacy code, producing strong results for anything
+  we threw at him."
+
+  Don Dornblaser,Vice President of Engineering, Compl, was C. David's client
+
+
+
+Profile Notes and Activity (1)
+
+  6/14/2016View by Todd Louie Rele

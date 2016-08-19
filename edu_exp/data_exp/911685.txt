@@ -1,0 +1,123 @@
+Kavitha Gopalan
+
+San Francisco Bay Area
+
+Android Developer at Honda R & D Americas, Inc.
+
+
+Summary
+
+Android Applications Developer, passionate about creating great User Experience and eager to learn
+
+ New Technologies and quickly adapt to the changes in the Technology. - Experience using OAuth
+ and using third party API to integrate with the Android Application - Good experience in Android
+
+ components like Services, Content Providers, Broadcast Receivers and Activities - Extensive
+ hands on experience in android Api like Maps and also SMS, Telephony, Media Player, Camera.
+ Also worked on latest Android Lollipop. - Involved in creating User-friendly GUI in Android Apps
+
+ like Custom ListViews, Menus, etc. - Consumed RESTful web services - Experience in all phases
+ of development life cycle (SDLC) from Design, Development, Testing and Deployment. - Good
+
+ knowledge in Object Oriented Concepts including Polymorphism, Abstraction and Inheritance -
+ Represented company to showcase applications in Developer Meets and participated in conferences
+
+ like Google I/O, AnDevCon (Android Developer Conference) etc.
+
+
+Experience
+
+Android Developer at Honda R&D Americas, Inc
+February 2013 - Present (2 years 10 months)
+   Worked extensively on Android Maps Applications which involved drawing route on the Map
+
+   and      turn by turn directions  Involved in creating Android Application Prototype that run on
+   Head Unit of the car.  Worked on Notifications in Android Auto SDK and also Android L  Worked
+
+   on integrating 3rd party APIs to Android application like Google Places API, Haptic based
+   API, Google Voice API, etc  Worked on integration of Smart Watch with Android Application
+
+   for sending Notification from  phone to Smart Watch  Involved in developing SDK which
+   reads the data from car and makes the data available to   outside developers according to
+   AOAA (Android Open Automotive Alliance) specifications  Responsible for creating Android
+
+   Application that simulates the Cars Dash Board using Android   Animation class, created
+   custom ListViews  Used REST services to read data from the server and upload data to the server
+
+   database.  Involved in the technical discussion of App Requirements, Design and Implementation
+    Participated in Developer Conferences like Google I/O and Android Developer Conference and
+
+     also represented company to showcase the Application in Developer Meets.
+
+Sr. Software Engineer at samsung
+2015 - 2015Android Developer at USAA
+June 2011 - October 2012 (1 year 5 months)
+
+   Involved in all the phases of SDLC from design, development through testing, porting and
+      support of application  Implemented the event reminder feature into the mobile app using
+
+   services, Async tasks and       Alert Notification API  Built custom complex List Views to display
+   transactions.  Implemented XML parsing using SAX parser to parse the data from the server and
+
+   provide      defined structure  Used Android content providers for implementing features like
+   sending email etc. from the app  Responsible in recording the logs using logcat  Made decisions
+
+   on Layout design and Layout modifications.  Used GPS to implement functionalities like ATM
+   Locator, USAA Locations in the application  Involved in developer testing by porting the app on
+   multiple devices with various screen sizes.  Involved in post production support and Change
+
+   Request process to fix the bugs
+
+Android Developer at ETrade
+
+April 2010 - May 2011 (1 year 2 months)
+   Contributing to the full lifecycle development of mobile phone applications from planning,
+
+   development, testing, launching, and porting, to maintenance/code enhancement.  User Interface
+   development using Android SDK and tools such as adb, hierarchy viewer,          traceview,
+
+   emulator, monkey, logcat.  Responsible for developing custom adapters for binding data between
+   external data services and       user interface.  Extensive use of View and ViewGroup, derived
+   User Interface elements for developing various       controls, widgets and layouts as part of UI
+
+   development.  Responsible tracking down the bugs and fixing them.  Performing the fabrication
+   of User Interface with different types of user interactivity  (Touch, click and keypress) by defining
+
+   event listeners and registering with corresponding views      and by overriding existing callback
+   methods.  Implemented menu based navigation (Context based, regular and submenus).
+
+
+Java Developer at Bajaj Electrical Ltd
+June 2008 - January 2010 (1 year 8 months)
+
+   Developed user-friendly GUI interface and Web pages using HTML, JSP.  Developed Servlets,
+   Filters, Business and utility classes.  Worked extensively on HR and client modules.  Developed
+   the JAVA classes to execute the business logic and to collect the input data from the     users
+
+   using JAVA, Oracle.  Developed Data Access classes to interact with database using JDBC. 
+   Extensively used JavaScript for client side validations  Developed the web-based reports based
+
+   on different selection criteria  Involved in debugging and troubleshooting related to production and
+   environment issues
+
+
+
+Education
+Barathidasan University, Trichy, TamilNadu, India
+
+Master's Degree,Computer Applications
+Chellammal College Of WomensBachelor's Degree,Mathematics
+College of Engineering, Guindy
+
+Master's Degree,Computer Software EngineeringKavitha Gopalan
+San Francisco Bay Area
+Android Developer at Honda R & D Americas, Inc.
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  11/10/2015View by Jemmielyn Capalad

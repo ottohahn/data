@@ -1,0 +1,57 @@
+MINMIN (VICKY) JIN 
+
+201 MAPLE AVE APT G10A,
+ITHACA NY 14850-4890
+Telephone: 607-379-8061
+Email: mj467@cornell.edu
+Portfolio: http://loistava.github.io
+LinkedIn: https://www.linkedin.com/in/minminjin
+
+EDUCATION
+Cornell University, Ithaca, NY 
+September 2014 - December 2015 (Expected)
+Master of Engineering, Electrical and Computer Engineering 				          GPA: 3.56 / 4.00
+
+Fudan University, Shanghai, CN		      
+September 2010 - July 2014
+Bachelor of Science, Electronic Engineering	
+GPA: 3.46 / 4.00
+
+EXPERIENCE
+Amazon, Digital Software / Video Games	
+Seattle, WA 
+Software Development Engineer Intern	 
+May 2015 – August 2015- Reorganized and migrated over 10,000 catalog titles from SQL*Plus to DynamoDB
+- Worked on full-stack and created a tool based on GWT to monitor, analyze and report catalog titles
+- Implemented features including sorting and filtering titles, computing statistics and exporting to Excel
+- Designed integration test and wrote unit tests for services with code coverage over 70% 
+
+Circuit Theory and Application Lab       	
+Fudan University, Shanghai, ChinaResearch Assistant 				 
+May 2013 - May 2014
+- Collaborated with a team to develop a tongue-specific edge detector on MATLAB
+- Implemented the algorithm in Java to build a tongue diagnosis Android App to detect users’ health conditions according to the extracted image features within the tongue edge
+- Published a paper based on the application at the ITCM 2013 workshop of IEEE BIBM
+
+Siemens, Healthcare Department
+Shanghai, China
+Business Analyst Intern
+November 2013 – January 2014- Developed Python programs to select target hospitals from over 20,000 Excel entries
+- Retrieved market data using SQL and supported colleagues to analyze and fit statistical models
+
+PROJECTS
+Winning Percentage of Chess Openings
+- Collected over 200,000 games from FICS Games Database and parsed from chess game file type (PGN) into usable JSON file with Python; Selected 1,000 games for implementation
+- Visualized the winning percentage of popular move sequences using a responsive sunburst with D3.js and simulated the moves with a chessboard.js for UI and chess.js for chess move generation/validation
+- Demo: loistava.github.io/WinningPercentagesOfChessOpenings 
+
+Voronoi Map of Ithaca Bus Stop
+- Built a web application to find the nearest bus stop in Ithaca, using D3.js and Leaflet.js to partition the map into regions based on nearest neighbor search
+- Extracted data of bus schedules and stop locations from TCAT bus website with Python scripts and pulled nearest restaurant data using Yelp API for each bus stop
+- Developed user-friendly web interface for both desktop and mobile with Bootstrap
+- Demo: tcatbus.github.io
+
+Stock Price Forecasting
+- Predicted the direction of daily stock price changes with Support Vector Machine (SVM) based on S&P 500 index from 2002 to 2014 (around 3000 entries), using tools like SVMLight, SPSS and Scikit-learn
+- Reduced computation complexity by applying feature selection with Genetic Algorithm
+- Implemented Ensemble Algorithm to combine multiple classifiers including Artificial Neural Network and k-Nearest Neighbors strategically and improved test accuracy to 80.94%

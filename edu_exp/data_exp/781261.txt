@@ -1,0 +1,187 @@
+John Mercer
+
+Greater Atlanta Area
+
+Software Developer
+
+
+Summary
+
+CURRENT SITUATION I'm a Software Developer in the Greater Atlanta Area. PROFESSIONAL
+
+ PROFILE LAMP Developer skilled in PHP, JavaScript, Java, and MySQL. Experience building
+ enterprise applications in PHP. Specifically, helped build an ERM & CRM on a LAMP stack.
+
+ Extensive work in Amazons and eBays Merchant APIs. At Cresca, hired full-time after contract-
+to-hire period. TECHNICAL SKILLS PHP. MySQL. Java. JavaScript & node.js. XML & XSD.
+ QA experience. Scrum, Agile. JIRA. Git & GitHub. Unix shell scripting. bash & zsh. Amazon
+
+ Web Services. Digital Ocean. Web Server Admin. Mac OS X, Ubuntu Linux. Eclipse & IntelliJ.
+ JUnit, Selenium, Jenkins. Amazon & eBay merchant APIs. WordPress. vim & vimgolf. KEY
+
+ QUALIFICATIONS:  Skilled in PHP, Oracle MySQL, Java, Apache, Linux, & Unix technologies.
+  Quick learner.  Understands businesss needs and how to translate those needs in adequate
+
+ technological tools.  Ability to grasp complex situations easily, to adapt and learn quickly.  Adept at
+ handling multiple projects in a fast-paced environment.  Talented communicator  Self-motivated &
+ committed worker ADDITIONAL SKILLS Communication: Three months experience on mid-sized
+
+ startups QA team. Six months of internship experience on a small programming team. Four years
+ of experience teaching high schools students. As a teacher, communicated difficult & sometimes
+
+ foreign ideas in a clear, intelligible manner. Comfortable working with a wide variety of people of
+ various ages, backgrounds, & expectations. Duped teens into learning. Organization, Management,
+
+ Productivity: Both as programming & QA intern, worked closely with team members & accepted
+ direction from team leader. As a teacher, managed paperwork for 150 students. Planned dozens of
+ student philanthropic field trips an inner-city soup kitchen. Led instructional teams of 3-5 teachers.
+
+ Implemented technology in the classroom.
+
+
+Experience
+
+Software Developer at Radify
+May 2015 - Present (5 months)
+
+
+Junior Software Developer at Atcore Systems
+March 2015 - May 2015 (3 months)
+
+Software Developer at The Creative Momentum
+December 2014 - February 2015 (3 months)   Maintained PHP/MySQL legacy applications on a LAMP stack.  Built and maintained WordPress
+
+   sites, themes, and plugins.  Extensive debugging experience with Xdebug and PhpStorm. 
+   Source Code Management (SCM) with git.  Vagrant development experience with WordPress
+
+   using VVV ("Varying Vagrant Vagrants").  Worked closely with Project Managers to finish tasks in
+   a timely, organized fashion.
+
+Software Developer at The Cresca Group
+
+August 2014 - December 2014 (5 months)
+   Used PHP and Oracle MySQL to help build an Enterprise Resource Planning System (ERM)
+
+   and a Customer Services Management System (CRM).  Built software on a LAMP stack (Linux,
+   Apache, MySQL, PHP).  Scrum, Agile experience.  Worked extensively with the Amazon
+
+   Merchant Web Services (Amazon MWS) API and eBay's API.  XML-RPC and XML/XSD
+   experience.  Collaborative coding with other developers via Nitrous.io.  JIRA experience  Source
+
+   Code Management (SCM) with git.
+
+Computer Science Student at Cal Poly State University
+September 2012 - June 2014 (1 year 10 months)
+
+  I studied Computer Science at Cal Poly, San Luis Obispo. I focused primarily on C, Java, and ARM
+   assembly.
+
+
+Quality Assurance at Shopatron
+November 2013 - January 2014 (3 months)
+
+   Worked with Jenkins, JIRA, JUnit, and Selenium to provide quality assurance testing.  Scrum
+   experience.
+
+
+Programming Intern at Box of Robots
+January 2012 - July 2012 (7 months)
+  I interned at a very small gaming firm which developed an Android game client (VIP Life) with a
+
+   node.js server. I programmed exclusively in JavaScript, mainly writing testing scripts & doing QA
+   work.
+
+
+Teacher (Religion & Latin) at Santa Margarita Catholic High School
+July 2007 - August 2011 (4 years 2 months)
+
+  --Communicated difficult ideas in a clear & distinct fashion --Developed & executed effective lesson
+   plans & learning strategies --Constantly evaluated & improved pedagogy --Tricked students into
+
+   learning --Worked with other teachers in Professional Learning Communities (PLC) to improve our
+   knowledge of student learning --Graded student work, especially writing, thoroughly & effectively
+
+   --Managed student discipline, both in & out of the classroom --Communicated clearly with parents,
+   administrators, counselors, coaches, deans, & other teachers --Worked patiently with difficult
+
+   personalities --Published worksheets, announcements, & other course materials on teacher
+   website --Integrated technology into the classroom --Served on the school's technology committee   --Attended professional development opportunities, such as conferences, in-services, etc. --
+  Proctored standardized tests
+
+
+Mac Specialist at Apple Retail
+2006 - 2007 (1 year)
+  --Welcomed customers --Sold computers in a frenetic and sometimes riotously busy store --
+
+  Educated customers on how to use their products --Responded to customer inquiries --Worked
+   closely with managers & teammates to promote sales & ensure an enjoyable customer experience
+
+   --Assisted customers with technical difficulties
+
+Entrepreneur at Ivory Basement Books
+January 2004 - June 2006 (2 years 6 months)
+
+  I founded Ivory Basement Books, an online book reseller, in 2004 in order to sell discounted, highly
+   specialized textbooks, mainly to graduate students, professors, & libraries. My responsibilities
+
+   included working with publishers, programming a live database via Amazon Web Services, online
+   marketing, and so forth. I closed the business in 2006 because it was unprofitable.
+
+
+
+Education
+Cal Poly San Luis Obispo
+
+Master of Science (MS),Computer Science,2012-2015
+Activities and Societies: White Hat Security Club, Orthodox Christian Fellowship
+Boston College
+M.A.,Theology,2002-2004
+
+Emory University
+B.A, Magna Cum Laude,Religion & Philosophy,1998-2002
+Activities and Societies: Phi Beta Kappa
+Institut catholique de Paris
+
+Junior Year Abroad,Philosophie et Theologie,2000-2001
+
+Interests
+
+Technology, languages,pedagogy, programming, music, cyclingJohn Mercer
+
+Greater Atlanta Area
+Software Developer
+
+
+
+
+
+
+2 people have recommended John
+
+  "John is insightful about all things educational. He has a strong desire to go beyond the textbook
+  and present the entire perspective on a particular topic -- and he delivers all of this to the
+
+  classroom. John's professionalism and dedication to educational enrichment make him atypical.
+  His concern for actually teaching students what they want to learn differentiates him from other
+  educational professionals who merely try to meet standards."
+
+  Michael Costigan,Director, Strategic Development, TeleSign, worked directly with John at
+  Santa Margarita Catholic High School
+
+
+  "John Mercer is bright, coherent, thoughtful and creative. He is an excellent teacher. He easily
+
+  motivates teens to study and to learn; to explore new ideas and to entertain the possibility that
+  those things that they thought are "irrelevant" are actually interesting, important, and valuable. John
+  is conscientious and trustworthy. He is reliable and consistent in performing his duties regularly,
+
+  carefully, and diligently."
+
+  Jeffrey VanderWilt,Teacher, Santa Margarita Catholic High School, worked directly with John at
+  Santa Margarita Catholic High School
+
+
+
+Profile Notes and Activity (1)
+
+  9/26/2015View by Jonathan Tolentino

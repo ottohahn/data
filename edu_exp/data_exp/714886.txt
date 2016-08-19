@@ -1,0 +1,57 @@
+Victor Makedonsky
+
+San Francisco Bay Area
+Sr. Software QA Engineer at Genesys Telecommunications Laboratories
+
+
+
+Summary
+
+Senior QA Software Engineer with over twelve years of experience in various quality assurance
+ activites such as: test automation development; test planning and testing of complex real-time
+
+ systems; documentation reviewing; improving of test processes as a part of CMM level 3 certified
+ Software Development Company. Primary goal is to assist product team in on time release of
+ high quality software to customers. This is achieved through detailed test coverage documentation,
+
+ well maintained test automation for regression purposes, release process management, effective
+ communication and feedback within and between development and QA teams. Specializing in
+
+ development of test automation for UI, API, client-server testing, high avaliability and functional
+ product testing.
+
+
+Experience
+
+Sr. Software QA Engineer at Genesys Telecommunications Laboratories
+May 2005 - Present (10 years 5 months)
+
+  Enhanced and maintained automated regression test suite for Genesys Outbound Solutions using
+  Python/Jython based system. Provided enhancements of in-house Automation Testing Systems
+  Participated in collaborations of product enhancements and new functional specifications.
+
+  Designed, created, implemented and supported system for testing of Genesys Statistics Server.
+  It's a multi log parser and analyzer of statistics, based on processing of server logs of the same
+  activity. Developed, automated test cases for Genesys solution level testing which involves
+
+  multiple servers system testing. Derived test plans and test procedures from the requirements
+  and specifications to improve best practices for QA. Performed functional, integration and
+
+  regression tests of complex CTI, multimedia and VoIP systems.
+
+
+Education
+St. Petersburg State Naval Technical University, St. Petersburg, Russia
+
+Master of Science (MS),Electromechanical Engineering,1988-1994Victor Makedonsky
+San Francisco Bay Area
+Sr. Software QA Engineer at Genesys Telecommunications Laboratories
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  9/3/2015View by Klenn Tinapay

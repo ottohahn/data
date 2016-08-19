@@ -1,0 +1,63 @@
+Sangeetha Sambath
+
+Phoenix, Arizona Area
+
+Software Engineer II at Scientific Technologies Corporation
+
+
+Summary
+
+ Oracle Certified Professional, Java SE 6 Programmer  Oracle Certified Professional, Java EE 5
+ Web Component Developer  Well versed in Java, J2EE technologies including Servlets, JSP, JMS,
+
+ JNDI and JDBC  Experienced in developing application using Struts, Spring, Hibernate and JSF
+ frameworks  Developed Multi-Tier distributed Enterprise Applications using design patterns such
+
+ as MVC (Model-View-Controller), Singleton, DAO, DTO, and Business Delegate Servlets, JSP,
+ JMS, JNDI, JDBC, DOM, XSD, XSLT, JAXB, CSS, HTML, JavaScript, JQuery, AJAX, IceFaces, SQL
+
+ Loader files, JUnit
+
+
+Experience
+
+Software Engineer II at Scientific Technologies Corporation
+December 2013 - Present (2 years)
+  Develop Medicaid enterprise application using Struts 1.x/2.x, Servlet and Spring JdbcTemplate.
+
+  Design dynamic web pages using JSP, HTML, JQuery, JavaScript and Ajax, CSS.Refactor code
+  that involves converting old JDBC code to Spring JDBC. Record error logs using Log4J and
+  perform unit testing using JUnit. Struts 1.x/2.x, Spring JDBC, JSP, Servlets, HTML, AJAX, JSON,
+
+  JavaScript, JQuery, CSS, JUnit, Log4J, Ant, Jenkins, Jira, Eclipse, Oracle 10g, SQL Developer, Git
+
+Software Engineer at FedEx Ground
+June 2013 - November 2013 (6 months)
+
+   Used Spring Framework and utilized Spring Core, Context, JDBCTemplate and JMS modules for
+  application development Spring 2.5, Eclipse Helios, Oracle 11g, WebLogic Server, Putty, TOAD,
+
+  MQSeries, Spring JDBCTemplate, JMS, Servlets, JSP, SQL Loader, Stored Procedure, Maven,
+  MyFaces, HTML, CSS, JavaScript, SVN and Log4J
+
+Software Engineer at KORYAK Consulting Inc.
+February 2012 - June 2013 (1 year 5 months)
+
+  Developed Medicare workflow project. Implemented a complex data processing engine and
+  performed data classification. Spring 2.5, Spring JDBCTemplate, WebSphere Application Server,
+
+  IceFaces, DOM Parser, JAXB, WSDL, SOAP, Oracle IPM, LDAP/Active Directory, SQL Server
+  2008, RAD IDE, SQL Server Management Studio, SOAP UI, Log4J, Mantis, Clear-Case and SVN.Education
+The George Washington University
+Master of Science (MS),Computer Science,2010-2012Sangeetha Sambath
+Phoenix, Arizona Area
+Software Engineer II at Scientific Technologies Corporation
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  11/25/2015View by Regina Pilapil

@@ -1,0 +1,123 @@
+                                           SUBHASHREE MISHRA
+                                           Phone # 408-832-6558
+
+                                           mishra2382@gmail.com
+OBJECTIVE     : To obtain a job in the field of Cloud Computing or Mobile Development or Software Engineering .
+
+
+EDUCATION:
+MS in Software Engineering - Mobile Computing Applications, SJSU; Spring 2015 GPA  3.86/4.0
+Certificate Course in Software Engineering and Quality , UCSC Extension; Feb  Sep 2012
+
+
+RELEVANT COURSEWORK :
+Mobile SW Design, Smartphone App Development (Android, IOS), Cloud Technologies, Cloud Services, Virtualization
+Technology, Enterprise S W Platform, Software Systems Engineering, Engineering Report Grad
+
+
+SKILLS:
+ Languages           JAVA, Perl, Object Oriented Python, Ruby, SQL, COBOL, CICS, JCL, XML, HTML, LINC, REST
+ Cloud Services      AWS (RDS, S3, Kinesis, EC2, Load Balance), Windows Azure, Cloud Bee
+ Web/App-Servers     Tomcat 6.0/5.0/4.0, JBoss 5.1.0
+
+ IDE Tools           Eclipse, XCode, Idle, NetBeans,
+ UML Tool            Visio, Rational Rose, Creately
+ RDBMS               DB2, My SQL, RDS
+ Testing Tools       JUNIT, Selenium, Debugger, Test Director, Quality Center, XPEDITOR
+ Mobile Platform     Android, IOS
+
+ Operating Systems VMWARE VSphere, IBM OS390, Windows NT, 2000, XP, UNIX (AIX), LINUX
+
+RELEVANT ACADEMIC PROJECTS:
+Mobile Virtual Machine Management: Fall 2013.
+
+       Collaborated with a team of four. We had successfully developed an IOS App that would help us manage the virtual
+        machines remotely. Also, I gained sufficient knowledge in developing, testing and deploying end -to-end REST service.
+       I mainly worked on developing the REST API that was hosted on ec2 instance on cloud to communicate & manage the
+        virtual machines remotely.
+
+Video Library Management System: Fall 2013.
+       Worked in a team of six. The ma in goal of the project was to develop a three-tier application that will implement the
+        function of a Video Library System.
+       I mainly worked on developing the front end using Swing Technology.
+
+       We had successfully developed a three -tier application using Swing technology to develop the front end. W e used WEB
+        Service to develop the middle tier and MYSQL to handle the back end system.
+Location Analytics: Fall 2013
+       Collaborated with a team of four. The main goal o f the project was to develop a GPS tracker application that would send
+        user location to server for analysis and display.
+
+       I mainly worked upon the creating and managing the database and developed REST APIs that acted as the middle tier.
+Conference Android Application: Spring 2014
+       Collaborated with a team of three. The main goal of the project was to develop an android mobile app that would enable
+        user to attend a conference with interactive user experience.
+
+       I mainly worked upon developing the UI using Android platform and integrating the entire application.
+       We had successfully demonstrated the application to the entire class. The app helped users to browse all the list of
+        conferences, register for conferences, check in using barcode, get driving directions etc.
+Barcode and Nutrition Android and IOS Application: Fall 2014
+
+       The main goal of the project was to develop an android app that would recognize food from captured image or
+        barcode or entered text that would in turn return nutritional facts and allergy information.
+       I developed the UI, developed rest APIs and also built the MYSQL database and integrated the entire system.
+
+Fitness and Health Android Application: Fall 2014
+       Collaborating with a team of four. The main goal of the project is to develop fitness and health related android app
+        that focuses in tracking user food consumption, user activity and integrate with EHR.
+       I was involved in designing the application and laying out the implementation plan. Also, I developed fully
+
+        functional UI integrating it with the REST APis hosted on ec2 instance on AWS .
+
+RELEVANT JOB EXPERIENCE: (6yrs)
+AVIVA Life Insurance; Tata Consultancy Services (TCS), October 2004  July 2010
+
+
+       Aviva Business Dashboard : Lead QA Tester (January 2009  July 2010), Bangalore, India.
+             Led a team to perform end -to-end testing of the service portal.
+             Coordinated test strategy, scope of test effort, test data creation and test release schedules.
+             Resolved project scheduling and test issues, represented the team at project meetings and prepared executive
+
+                management weekly status reports.
+             Conducted data integrated testing by extensive use of SQL.          Conducted compatibility testing on variety of browsers.
+          Designed and implemented automation test framework using Selenium.
+          Interacted with developers and discussed technical problems, reported bugs and sup ported development team.
+
+
+   Rapid Fund Launch: System Owner, Lead Developer, Onsite Coordinator (May 2007  Dec 2008), Norwich, UK.
+          Participated in JAD sessions with SMEs to analyze business requirements and outline the proposed solution.
+          Created vision, scope, and use of use case documents; business process models, use case diagram, activity
+             diagrams, and state chart diagrams.
+
+          Documented Software Systems requirements (SSR) and Business Process Requirements (BPR).
+          Worked extensively with system architectur e team in developing the database structure.
+          Validated technical designs created by technical team members against functional specifications.
+          Worked with the QA team to design test plan and test cases for User Acceptance Testing (UAT).
+          Coordinated work plans between project manager, development and QA team.
+
+          Involved in system, regression and user acceptance testing.
+          Authored and edited end -user and developer manuals.
+
+   AVIVA- ex-GA: Prod Support Coordinator/Release Coordinator/Developer /Tester (Jan 2006  April 2007), York, UK
+
+          Provided production and maintenance support by monitoring production jobs and resolving raised tickets.
+          Gather requirements via discussions/meetings with business users, IT management.
+          Worked on enhancements/ CRs to the basic functiona lity of the application based on encountered problems.
+          Prepared technical specifications and led the development efforts for implementing modules and application
+             components to cater to new business functionality.
+
+          Imparted training to new hires.
+          Provided primary oversight as a Module Lead to a team of offshore resources in all stages of project lifecycle.
+          Created and implemented knowledge transfer plan for remote development center resources.
+
+   AVIVA  ex-GA: Developer (October 2004  December 2005), Bangalor e, India.
+
+          Analyzed system requirements and prepared specifications for new programs, and enhanced or modified existing
+             programs.
+          Involved in preparation and maintenance of the Requirement Traceability Matrix to measure the progress, test
+             matrix and test script review.
+          Developed, enhanced and/or modified programs using COBOL, DB2, JCL, other tools and utilities.
+
+          Created test JCLs and test scripts for unit, integration, system testing and complete the testing as per plan.
+          Prepared UTR document.
+          Involved in self and peer review.
+          Involved in UAT support, project implementation and warranty s upport.

@@ -1,0 +1,354 @@
+Genisim Tsilker
+
+San Francisco Bay Area
+
+Principal Platform Architect at Verifone, Inc.
+
+
+Summary
+
+ Team, Project leader, systems design and architecture for hosts system and embedded
+
+ devices. Systems / SW   porting and customization.  Working experience with open source
+ projects (WebKit2)  Kernel level programming. BSP, LKM design & development, development
+
+ Video stack based on frame buffer (kernel and user space), porting Direct FB for embedded
+ devices. modify bootloader BLOB. Linux kernel, busybox configuration and customization.
+ Audio (ALSA) drivers developing for Audience voice and audio processors, for I2C / I2S and
+
+ SLIMBus busses.  Embedded systems (ARM, MIPS) applications development. Experience
+ with crosstool, scratchbox, ARM mVision  (MDK-ARM), DS-5 (development studio 5).  Socket
+
+ level programming for UNIX / Linux and Microsoft platforms (scale-able, reliable client -server
+ application) .  System analysis, detect and clean system from memory vulnerable code, code
+
+ refactoring, performance improvement. Experience with memory tools (valgrind) for host and
+ embedded system.  Multithreaded / concurrent programming experience for   Unix / Linux and
+ Microsoft.  Design and development MTA   (SMTP server and mail delivery agent).  Design and
+
+ development SNMP agents and MIBs      (SNMP Ver1, Ver2).  Design and development cluster and
+ high availabilitysystems components (Veritas cluster server /Veritas global cluster Notifier, DNS
+
+ based Global Cluster  Manager).  Development IPS (intrusion prevention system) based   on the
+ IPtables and Snort Inline version.  Network configuration, management and monitoringsystems
+
+ (OpenView, openNMS).  Core Internet protocols implementations, in C and C++   (IP, TCP/IP, UDP/
+IP, SNMP, SMTP, HTTP, LDAP, DNS,        ICMP, FTP, CDP) Specialties:  Object-oriented design 
+ Cross platform development.  Kernel programming.  Network applications for 2 / 3 tiers design and
+
+ developing
+
+
+Experience
+
+Principal Platform Engineer at Verifone, Inc.
+September 2014 - Present (1 year 1 month)
+
+  New Verifone SW platform architecture, design, and development
+
+Sr. System Platform Eng at Audience, Inc.
+2012 - Present (3 years)
+
+  Develop / Integrate Audio (ALSA) Kernel Drivers for Audience voice and audio processors for
+   mobile devices of Samsung / LGE / Lenovo / others : eS325, eS704, eS705 drivers for S3 / S4 /
+
+   S5. Develop drivers for I2C / I2S and SLIMBus buses. Integrate 3d party's SW (Sensory, Inc.)   with Audience Framework for Samsung. BSP Qualcomm Dragon Board 8060 / 8074. BSP Exynos
+
+   Arndale 5250 with Linaro KK 4.4.2
+
+Architect Internet Browser (Flash) at Nokia Mobile Phones
+June 2010 - September 2012 (2 years 4 months)
+
+  Lead implementation for Adobe Flash Player for Nokia MeeGo devices. Port WebInspector for
+   QtWebKit2 based on qt4.7 and qt5. WebGL engine porting for QtWebKit. WebKit2 porting for Nokia
+
+   devices. Provide architect docs for browser  flash projects for Nokia MeeGo devices.
+
+Platform Lead Architect at Skiff LLC
+February 2008 - June 2010 (2 years 5 months)
+
+  Migration from MontaVista 4.1 based on 2.6.10 to 2.6.28 Marvell Kernel . Migration custom drivers
+   from MontaVista 4.1 to 2.6.28 Marvell Kernel Migration MontaVista 4.1 and custom drivers to
+
+   open source 2.6.29.3 Kernel Migration bootloader BLOB. Create Requirements for bootloader,
+   kernel, partitions, filesystems, system level master process and connection manager Design and
+
+   development video driver's for new generations of EPD display's Design abstract layer (API) for
+   video system Design and development low level rendering API for video system Porting Direct
+
+   FB for embedded device Manage LGE development team (bootloader, FS, system level LKMs)
+   Porting & Validation different kernels: Monta Vista based on 2.6.10 for PXA310 ARM Marvell
+
+   based on 2.6.28 for PXA168 ARM Marvell based on 2.6.28 for PXA310 ARM
+
+System Redesign, Refactoring Group Leader at Dash Navigation
+
+May 2006 - February 2008 (1 year 10 months)
+  - Develop Map Matching rules. Develop Map Matching simulator based on Qt to analyze existing
+
+   GPS traces and simulate GPS traces to test Map Matching rules - Develop x86 based simulation
+   environment for GPS system for new features testing and regression tests. - Refactoring existing
+
+   systems memory and multithreading    management and communication. - Redesign system
+   standalone components such as navigation     component, IPC abstract layer. - Refactoring existing
+
+   sources make code stable, modular, cross platform portable. - Create API  Resolve Address
+   for Tele Atlas Localities DBs useable as a part of DASH Navigation SW and as a standalone
+
+   commercial product. - 2.4 Kernels and LKM validation and bug fixes.
+
+Chief architect, Contractor at AnchorFree
+May 2005 - May 2007 (2 years 1 month)
+
+  Embedded Proxy server based on OpenWRT and LinkSYS box.
+
+Project Leader, Contractor at BarracudaNetworks
+
+January 2006 - May 2006 (5 months)
+  Design and development BRTS - BarracudaNetworks Real Time System (LAMP, Smarty, C/C++,
+
+   PHP)
+
+Project Leader at SonicWALLMarch 2004 - January 2006 (1 year 11 months)
+  Design MSA - messaging security appliance's SW (including SMTP server and messages delivery
+
+   agent, open framework for interface to Antivirus and Antispam engines, Central Dispatcher
+   for interface to SQL DB, other components of MSA Development, and implementation follow
+
+   components of MSA: - concurrent multithreading SMTP server and Messages delivery agent.
+   - open framework for interfaces to AntiVirus and AntiSpam engines.     - SMTP incoming traffics
+
+   bandwidth control and regulation mechanisms.      - messages processing, saving into infected
+   messages or spam quarantines Install and customization Linux HA SW for MSA.
+
+
+CTO at M2M Monitor to Manage
+January 2002 - May 2004 (2 years 5 months)
+
+  Design and implementation SW for m2m project m2m is a cross platform web-based device
+   monitoring and management tool. It allows getting information about and troubleshooting or tuning
+
+   any device that has an IP address. "m2m node service has 4 general modules: 1. Flexible open
+   platform UI for embedded systems 2. auto discovery on Ethernet multicasting groups level; 3. tiny
+
+   web server for remote interface; 4. location detector, which will present geographic coordinates of
+   IP node
+
+Contractor at Pico Inc
+
+December 2002 - April 2003 (5 months)
+  Design WEB based NMS console for PICO Access Point devices based on the MS (C++, STL,
+
+   XML, SNMP, PHP) Development, and implementation follow components of Pico NMS console:
+   Access point devices discovery manager,; FW deplorer to single or multiple Pico devices (based
+
+   on cURL API) Backend for PHP based WEB GUI
+
+Software Project Leader at Repeater Technologies
+
+April 2001 - December 2002 (1 year 9 months)
+  Design WEB NMS (network management system) for monitoring and management repeaters
+
+   network in the real time. (C++, XML, STL, Linux, KDE). Development, and implementation follow
+   components of WEB NMS: - Concurrent multithreading polling manager - Alarms collector -
+
+   Configuration manager (WEB based and console based) - SNMP trap generator - Telnet GUI and
+   Web based GUI
+
+Staff Software Engineer at Veritas
+
+September 1999 - April 2001 (1 year 8 months)
+  Design, development, and implementation of the following components for Veritas Global Cluster
+
+   System (GCM) for Internet: - DNS component (daemon process) for interface to DNS name
+   servers, creating virtual Internet site, and dynamic management to DNS tables (gcc, Solaris /
+
+   Linux) - Notifier - component integrated in Veritas Cluster Server (multithreading daemon process)
+   for generating SNMPv2 traps and send mail to defined SNMP managers and Email recipients
+
+   (gcc, Visual C++, KDE, Linux / Solaris / MS) - Design MIB for SNMP interface Notifier component   to HP OpenView - POP3 component (daemon process) for getting messages in predefined format
+   and execute commands (gcc, Visual C++, KDE, Linux / Solaris / MS
+
+
+Sr. Development Programmer at DSSI
+February 1999 - September 1999 (8 months)
+
+  Design of Agents Distribution and Control System (ADCS) for agents deployment activation and
+   collecting monitoring information (gcc, Visual C++, STL, AIX, MS). Development and implement
+
+   follow ADCS components: - IP nodes discovery (use ICMP protocol) - nodes identification (use
+   SNMP / FTP protocols) - agents deploying (use FTP protocol's) - agents activating (use REXEC
+   protocol) - agents control and collection monitoring information (ADCS IP based protocol)
+
+
+Sr. Software Engineer at Inter TiCi Inc
+June 1998 - February 1999 (9 months)
+
+  Distributed embedded systems development and support for technology track of semiconductor
+   manufacturing. Embedded systems development for handling events passed by the different
+
+   devices of technology track such as chamber, temperature plate module and etc. (Borland C++)
+
+Project Leader at Advanced Technologies
+December 1993 - June 1998 (4 years 7 months)
+
+  Design, development, and implementation of:     -   gateway component for anti missile defense
+   system (Rose, Visual C++, MS)     monitoring and management system for IP and non IP nodes
+
+   such as: computers hubs, routers, atomic clocks, tapes and disks devices, RAIDs, NFS client and
+   server processes and integrate with NetView GUI (Missile Defense System "Arrow") (Rational
+
+   APEX, ADA, Teamwork, IBM AIX6000 C/C++
+
+Sr. Software Engineer at ELTA Electronics
+September 1990 - December 1993 (3 years 4 months)
+
+  Porting from VMS to Sun Solaris radar management system (Missile Defense System) (VRTX32,
+   Microtec C, make, CSH / KSH, SED and NAWK of Sun Solaris and NFS API) Design, development
+
+   and implementation of intelligent simulator for radar management system (ICE for I8051, single
+   board computer based on I8051, Borland C++, Franklin C for I8051
+
+
+Programmer at State University
+January 1985 - January 1990 (5 years 1 month)
+
+
+
+Education
+School of Computer Science, Tel-Aviv
+Certificate "Windows NT expert",Systems, Programming Languages (Windows NT, C / C+
+
++),1995-1996
+SUN University, Tel-Aviv, Israel
+Certificate,Unix / Unix Administration,1992-1993State University, Tbilisi, Georgia
+MS,Computer Sciense,1976-1981Genisim Tsilker
+
+San Francisco Bay Area
+
+Principal Platform Architect at Verifone, Inc.
+
+
+
+
+
+10 people have recommended Genisim
+
+  "Genisim is a smart an d innovative person. He is easy to work with and gets things done. He can
+
+  get quality things done on time. It has been a pleasure working with him."
+
+  Eugene Malobrodsky,Co-Founder, AnchorFree, was Genisim's client
+
+
+  "I had the opportunity to work with Genisim on two different occasions. He is very well versed in
+  low level communication protocols, an expert when it comes to architecting end to end solutions,
+
+  and developing turnkey software solutions At diversified software, I got to know Genisim as we
+  worked on the same project. He was a very able mentor, someone who took me under their wing
+  and imparted their experience and knowledge to make the project successful. Later, I had the
+
+  opportunity to collaborate on other software projects while at Symantec Software. Genisim is
+  very personable, has extensive domain knowledge and would be an added asset to any software
+
+  development team big or small. His vision and ability to see the next thing and work towards it is
+  exemplified in many of this innovative projects he has been associated with. His ability to mentor
+
+  and train junior staff is something I benefited from first hand. I highly recommend Genisim and his
+  work!"
+
+  Mahesh Kumar,Head of Marketing, Arkin, worked indirectly for Genisim at Veritas
+
+
+  "Genisim was part of my team at Nokia where he was the architect for Flash support in the MeeGo
+  based phones. Genisim is an outstanding technologist, and he is equally at ease with translating
+
+  those ideas into software. He also has a very good business sense. He is one of the people I would
+  count on to solve hard problems!"
+
+  Samir Agarwal,VP, Products, Accelerite, managed Genisim at Nokia Mobile Phones
+
+
+  "I had the pleasure of working with Genisim for about a year at Dash Navigation, where he served
+  as the code refactoring lead in the beginning. Genisim's superb job in the code refactoring allowed
+
+  him to easily move on to make valuable contributions in other domains such as the GPS system
+  internals, GPS location acquisition component and interfacing with the navigation engine. Genisim
+
+  is an outstanding software engineer with great eye for identifying potential problem areas andis very creative and resourceful at finding workable solutions under very tight and aggressive
+
+schedules. He is a great person to work with and a valuable asset to have on your team."
+
+Amir Farrahi,President, Fontilica, Inc., worked directly with Genisim at Dash Navigation
+
+
+"Genisim worked on the host driver development and integration of several projects I was involved
+in. He was well respected and considered an expert in the office. Using his kernel engineering
+
+experience, he was personally responsible and credited for integration for multiple of Audiences
+Voice processors in Flagship handsets."
+
+Taro Kimura,Director, Customer Engineering, InvenSense, Inc., worked with Genisim at
+Audience, Inc.
+
+
+"I had a privilege of having Genisim as our chief platform architect at Skiff. Genisim's strong
+
+knowledge and expertise in Linux kernel and system architecture programming provided a solid
+foundation for our e-reader platform. As a project lead, Genisim's commitment and "can do" spirit
+
+provided strong guidance to the team members, he is always enthusiastic to help everyone, even
+on weekends. I'll be happy to work with Genisim again in the future."
+
+Alice Hsia,Engineer, Staff Design, Marvell, worked with Genisim at Skiff LLC
+
+
+"Genisim and I worked together for almost two years at Dash Navigation, where he is the lead
+
+of code refactoring. He is one of the most professonal, knowledgeable and detailed oriented co-
+workers I have ever met. Withing his hardworking and leadership, many software components are
+
+refactored with huge optimizations, standardizations and defects fixing, which lead to the software
+passed the finishing line on aggressive schedule with high quality. Genisim also worked on new
+
+software development which also demostrated his high software engineering skills. Genisim was
+also very easy going. It was my pleasure to work with him directly as co-worker.."
+
+Jungle Cui,Satff Software Engineer, Samsung Semiconductor, worked directly with Genisim at
+
+Dash Navigation
+
+
+"Genisim was instrumental in supporting customers in integrating our software into their Linux stack
+and coming up with creative solutions and optimizing the overall software to our customer needs.
+
+Genisim is extremely flexible, dedicated and creative. His rich experience has proven valuable in
+cutting through complex problems and prototyping practical and solutions quickly. We had very
+
+positive feedback from our customers in working with him. He has also been a great fit to the rest of
+the development team."
+
+Eitan Medina,VP of Marketing and Product Management, InvenSense, Inc., managed Genisim
+indirectly at Audience, Inc.  "In my capacity as senior software qa engineer I thoroughly enjoyed working with Genisim. Genisim
+  was instrumental in getting me up to speed on the 'how's & why's' of initially building the MontaVista
+
+  2.6.10 version and later 2.6.28 for Marvell processors. He also gave me an incredible insights into
+  how to test the video driver that he designed and developed for the EPD display."
+
+  Rich Smith,Sr. Software QA, Trilliant, worked with Genisim at Skiff LLC
+
+
+  "Worked with Genisim on multiple Samsung projects. Very nice and easy to work with, good
+
+  communication skills, great knowledge and experience in Linux driver development, SLIMbus, I2C,
+  UART, SPI, BSP, dragon board and Arndale. Also Genisim is great with customer support."
+
+  Simon Liang,Customer Program Manager, Applications Engineering, Audience, Inc., worked
+  with Genisim at Audience, Inc.
+
+
+
+
+Profile Notes and Activity (1)
+
+  9/30/2015View by Boyd Ragay

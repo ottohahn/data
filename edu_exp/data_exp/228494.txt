@@ -1,0 +1,86 @@
+JAIDEEP KATKAR   
+190 Ryland Street | Apartment 1407 | San Jose | CA 95110 | 408-218-6074 | katkarjaideep@gmail.com 
+  
+OBJECTIVE – Seeking summer internship position for Summer 2014. 
+ 
+SKILLS  
+Languages: C, C++,  Perl , Java,  Shell Scripting, Python, SQL, Hive, HTML, VBScript, PL/SQL  
+Databases: Oracle11g, MySQL 
+Web Servers: Tomcat 7.0, Microsoft IIS Windows Server 
+Tools: Visual Studio 2012, Informatica ,Eclipse, Putty, VSS, Rhapsody ,TOAD, HP ALM 
+Operating System: Windows XP/Vista/7, Linux 
+Framework:  Hadoop, Cloudera cdh4 
+ 
+EDUCATION 
+Master in Computer Science                             Expected  May 2015 
+(San Jose State University, San Jose, CA)                                      GPA – 3.9/4  
+Related Courses: Cryptography and computer security, Big Data, Topics in Databases, Machine Learning, Design 
+and Analysis of Algorithm. 
+ 
+University Of Pune, Maharashtra, India                                                                                    Aug 2005- May 2009 
+Bachelor of Computer Engineering                                                                                                    GPA – 67/100 
+Related Courses: Object Oriented Analysis and Design, Data Structures and Algorithms, Databases. 
+ 
+WORK EXPERIENCE  
+Tata Consultancy Services Ltd, Pune, India                                                                            Dec 2009 – July 2013 
+System Engineer 
+ I worked as C++ developer for TCS client EMD (Electro Motive Diesel) USA                   Jan 2011 – July 2013 
+-  Involved in Code migration from windows to QNX phindows.    
+- Development of  new functionality and Enhancing existing functionality as per client requirements. 
+-     Solving issues raised by testing team. 
+- Generated Code coverage reports and unit tested code. 
+- Involved in Testing of modules. 
+- Got star of quarter(Aug 2012- Nov 2012) award for excellent performance.   
+ 
+ I worked as QA tester for TCS client PNC Bank(USA).                                Dec 2009 – Dec 2010  
+-  Performed Functional, Regression, Integration and E2E testing. 
+- Understanding requirements, discussions with Business analysts regarding requirements. 
+-      ETL Testing  to validate data transformation logic and data load from source. 
+-      BI Report testing and validation of data populated in reports against data in star schema. 
+-  Defect logging & tracking using ALM11. 
+-      Used VBScript for automation of test cases. 
+ 
+ACADMEIC ROJECTS: 
+ Smart Share Solution using C++, MYSQL and GAMMU Daemon Engine in Linux. Project was aimed at 
+providing Share market updates/Alerts and value of company shares to registered users through text message.   
+- Designed and implemented module to read Message from Mobile Inbox.  
+- Implemented Parsing Algorithm for searching Stock values on websites.  
+- Designed module to store mobile messages in MYSQL database. 
+-  
+ Cryptanalysis Project: RSA Two different keys - same ciphertext 
+- Implemented Algorithm in  C++ to factorize modulus N and found value of private key d. 
+- Decrypted Ciphertext to recover two Plaintext encrypted using two different public key. 
+    - Decrypted two ciphertext to recover plaintext encrypted using same private key 
+ 
+ Big data Project: Analysis of on campus Security data all over United States using Hive on Hadoop 
+- Analysis of on campus security Data for 6 years using HiveQL for Hadoop 
+- Deployed a hadoop cluster - 1 master node & 5 slave nodes (Average query time: 1 minute). 
+- Our team was awarded top grade in class for the hadoop project. 
+   
+ 
+ Software Reverse Engineering  
+- Used olly debugger to reverse engineer the code of Shareware application without violating EULA.  
+- Analyzed  the Machine code in debugger to bypass registration phase and Inject code. 
+- Implemented key generation algorithm in C++ using inline assembler. 
+ 
+ Big data Project: Yelp Data Challenge using Splunk 
+- Analysis of Yelp Phoenix (Json) dataset using splunk processing language. 
+- Deployed 1 master, 1 search head , 3 indexers and 3 forwarders cluster of servers for data analysis. 
+- Analyzed Business and checkin trends in phoenix city using Business and checkin dataset. 
+ 
+ DBMS Optimizer Simulation 
+- Implemented a simulator in JAVA for creating and exploiting DBMS indexes.   
+-The system will takes DDL and DML statements and perform the necessary actions like creating deleting 
+indexes. 
+- Based on the select statement the System will generate Plan and Predicate tables.  
+ 
+ACTIVITIES  
+  
+ Won 1st Prize in “TCS Eureka Idea for Innovation 2012”  
+Worked as Active Volunteer in TCS NGO " TCS Maitree" to organize various social events. 
+ 
+ 
+ Participated in Windows Coding competition and Windows app development workshop. 
+ 
+ADDITIONAL INFORMATION 
+ LinkedIn Profile ::  www.linkedin.com/in/jaideepkatkar/

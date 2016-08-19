@@ -1,0 +1,108 @@
+Petter Abrahamsson
+
+Greater Philadelphia Area
+
+Senior Devops Engineer at CloudMine
+
+
+Summary
+
+Red Hat Certified Engineer with 10+ years of experience in Linux and FreeBSD, shell scripting and
+
+ system administration. 4+ years experience with Cisco network administration and setup.
+
+
+Experience
+
+Sr DevOps Engineer at CloudMine
+August 2015 - Present (4 months)
+
+Senior Linux Administrator at Health Market Science
+
+March 2013 - August 2015 (2 years 6 months)
+   Automate deployment of 400+ servers using Puppet and Jenkins.  Implement centralized
+
+  application and system logging with Logstash.  Improve application security through network
+  segmentation.  Facilitate and shorten time from development to production. Other key areas:
+  Elasticsearch, VMWare, Apache Storm, Docker, Continuous Integration, F5 Big Ip
+
+
+Unix & Network Administrator at SCA Americas
+October 2009 - March 2013 (3 years 6 months)
+   Administration of Linux production critical environment, virtual and physical.  Manage Cisco WAN
+
+  and Core equipment.  Design and implementation of global Squid high availability proxy solution.
+   Design and implementation of global Nagios monitoring solution. Other key areas: Apache,
+
+  MySQL, SNMP,Scripting (shell & python), RHEV/KVM, VMWare, Puppet & BIND
+
+Network Operations Analyst at SCA Hygiene Products
+April 2008 - September 2009 (1 year 6 months)
+
+   Global second level support for WAN and Core incidents and requests.  Global second level
+  support for Sendmail, Squid, BIND and Nagios.  Setup and configuration of Cisco routers. Other
+
+  key areas: Cisco ASA, FreeBSD & HP OpenView
+
+IT Coordinator at Vstsvensk Tidningsdistribution
+2007 - 2008 (1 year)
+
+   Coordinated the entire IT environment including support, development and requests.  Facilitated
+  data requests from AS400. Other key areas: Xerox printer support & Desktop support
+
+IT Professional at Ajilon Consulting
+
+January 2006 - February 2007 (1 year 2 months)   Supported and maintained the Enovia environment at Volvo IT on AIX.  Developed and
+   maintained shell scripts. Other key areas: RRDtool & KSH
+
+
+Scientific Software Engineer at University of Utah
+November 2001 - November 2002 (1 year 1 month)
+   Responsible for keeping software libraries up to date on the super computing systems.  Windows
+
+   Desktop support.  PHP web development. Other key areas: Ganglia, Mac OS X support
+
+System Administrator at MNC SA
+March 2000 - February 2001 (1 year)
+
+   System administration of a mixed Windows and Linux environment.  Application development in
+   tcl. Other key areas: Samba, Sendmail & Backups
+
+
+Web Developer at World Health Organization
+March 1999 - February 2000 (1 year)
+   Developed the StopTB website in cooperation with the WHO in Geneva.
+
+
+
+Education
+Mittuniversitetet
+
+MSc,Theoretical Organic Chemistry,1998-1998
+Mid Sweden University
+BSc,Organic Chemistry,1993-1997Petter Abrahamsson
+
+Greater Philadelphia Area
+Senior Devops Engineer at CloudMine
+
+
+
+
+
+1 person has recommended Petter
+
+  "Petter is a very skilled and committed person who always finishes what he starts. He is a great
+
+  team member that constantly performs and excels at what he does. I had the great pleasure of
+  hiring and working closely with Petter for a few years when he relocated to the US from Sweden
+  and can therefor highly recommend Petter, he will be an great asset to any company he works for."
+
+  Johannes Sjlin,Director Infrastructure Services, SCA - Hygiene and Forest Products Company,
+   managed Petter at SCA Americas
+
+
+
+
+Profile Notes and Activity (1)
+
+  11/16/2015View by Amy Dungo

@@ -1,0 +1,78 @@
+Sandeep Peddada
+
+San Francisco Bay Area
+
+Student at Yale University
+
+
+Experience
+
+Research Associate at Yale University
+July 2014 - Present (1 year 6 months)
+
+  Doing research under Yale Electrical Engineering Professor Mark Reed. Started off working on
+   developing FET-based biosensors, and then switched projects. Currently studying divalent ion
+
+   transport through voltage-gated nano-channels. This project has practical applications in medicine
+   as well as energy storage.
+
+Research Associate at Stanford University
+
+September 2013 - September 2014 (1 year 1 month)
+  Worked remotely from Yale under Bioinformatics Professor Nigam Shah, analyzing Stanford
+
+   Hospital patient data in order to evaluate health care quality. SQL was used for a majority of the
+   analysis.
+
+Research And Development Intern at Philips Lumileds
+
+May 2014 - July 2014 (3 months)
+  Worked on the development and characterization of LED materials. Techniques used include
+   Wyko, Hot-Cold wafer probing, Ni-Dot, TEM, SEM, Light microscopy, Laser measurements,
+
+   MOCVD, and Wafer processing. Optimized the Laser characterization measurement technique
+   by writing and executing a LabView program to take optical laser measurements, and analyzed
+
+   the data using Excel. Findings were presented to senior engineers, and recommendations were
+   implemented in future projects.
+
+Software Developer and Research Associate at Stanford University
+
+May 2013 - September 2013 (5 months)
+  Helped develop radiology clinical decision support software under Bioinformatics Professor Daniel
+
+   Rubin. Program was written in Java.
+
+Research Assistant at Stanford University
+March 2010 - March 2012 (2 years 1 month)
+
+  Helped to develop new battery materials under Stanford Materials Science Professor Yi Cui.
+   Graduate student mentor founded the company Alveo Energy using the technology developed.
+   Coauthored 3 publications under Prof. Cui.
+
+
+Research Assistant at Stanford University
+June 2011 - October 2011 (5 months)  Worked under Professor Matthew Porteus on developing a gene therapy-based cure for Sickle-Cell
+   Disease, through the Stanford Institutes for Medical Research (SIMR) program. Techniques used
+
+   include PCR, SEM, Western blot, Gel electrophoresis, and others. Work was presented at a poster
+   session held at Stanford.
+
+
+
+Education
+Yale University
+Bachelor's Degree,Electrical Engineering and Computer Science,2012-2016
+
+Activities and Societies: Varsity Men's Lightweight RowingSandeep Peddada
+San Francisco Bay Area
+Student at Yale University
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  12/12/2015View by Jeleen Alagaban

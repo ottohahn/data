@@ -1,0 +1,63 @@
+Trevor Ranney
+
+Greater Salt Lake City Area
+Software Engineer at International Document Services
+
+
+
+Experience
+
+Software Engineer at International Document Services
+October 2012 - Present (3 years 2 months)
+
+Intern/ Enterprise developer at Nuvi
+January 2013 - April 2013 (4 months)
+
+  Programmed graphs and visual displays to model data aggregated from different social networks.
+  Technologies: MongoDB, C#, Redis , D3js, Svg, Javascript
+
+Enterprise Developer at Rubio's Restaurants, Inc.
+
+October 2012 - December 2012 (3 months)
+  Rebuilding Baja Net SharePoint internal website C#, MySql, Dev Express, Javascript
+
+Intern at Trade West Systems
+July 2012 - September 2012 (3 months)
+
+  Developed a Liquidity Bridge Admin Website Technologies: MVC4 asp.net, Knockout, Less,
+  SignalR, SQL and JavaScript
+
+
+
+Education
+Neumont University
+Bachelor of Science,Computer Science,2010-2013
+
+Agile Roots
+University of ColoradoTrevor Ranney
+
+Greater Salt Lake City Area
+Software Engineer at International Document Services
+
+
+
+
+
+1 person has recommended Trevor
+
+  "Trevor is the best type of person to work with. He is extremely nice and knows so much that he is
+
+  more than willing to teach you as well. If you have an issue, he is willing to put what he is working
+  on aside for a while to help you figure out exactly what the problem is and the best way to fix it. He
+  is not one for the easy fix. He wants to do things right the first time, to create easily maintainable
+
+  code. I loved working under him. It was an amazing experience."
+
+  Erica Bradford,Frontend Developer, thomasARTS, reported to Trevor at International Document
+  Services
+
+
+
+Profile Notes and Activity (1)
+
+  11/26/2015View by Jemmielyn Capalad

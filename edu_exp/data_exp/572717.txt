@@ -1,0 +1,206 @@
+Neeraj Khanna
+
+San Francisco Bay Area
+
+Software Development Manager
+
+
+Summary
+
+Software Development Manager at Amazon, managing mobile music store team. We are
+
+ continuously expanding the boundaries of HTML5 and JavaScript to build high performing mobile
+ applications used by millions of Amazon customers around the world on iOS, Android and Kindle
+
+ devices. * Hands-on Engineering Manager with 15+ years of expertise in building highly scalable,
+ web and mobile applications for complex, high traffic and fast paced consumer environments such as
+ Amazon and eBay * Successfully managed and delivered highly visible and multi-teams projects like
+
+ Prime Music, Kindle and Fire Phone launches * Experience in managing full stack web development
+ using JavaScript, Node.js, HTML5, CSS3, Java/JSP, PHP, Spring MVC, Backbone, Android,
+
+ and mobile web user interfaces * Passionate about user experience, latest web technologies
+ and a JavaScript enthusiast. * Proven ability to develop and manage consumer facing internet
+
+ applications; high availability 24x7 multi-site operations; and meet aggressive development and
+ deployment schedules using agile methodologies * Strong in hiring, mentoring and leading high
+ caliber engineering teams in lean and fast paced environments; experience managing offshore
+
+ engineering teams Specialties: Technical Management, Strategic Planning, Agile software
+ development, Hiring and Building teams, web and mobile applications, Site speed/Performance,
+
+ Presentation Platforms, UI Components, Quality Assurance, Continuous integration, Testing &
+ Automation. Technical Skills: JavaScript, NodeJS, ReactJS, HTML5, CSS3, ES6, Polyer, Web
+
+ Components, WebSocket, WebRTC, Sprint MVC, PHP, Java, Web Services, Backbone, Angular,
+ ExtJS, Amazon AWS
+
+
+Experience
+
+Software Development Manager at Amazon Music
+January 2013 - Present (2 years 3 months)
+
+  * Managing mobile MP3 Store team to build music discovery experience on mobile apps across
+  iOS, Android and Kindle devices. * Mobile app is a single page JavaScript app used by millions of
+
+  Amazon customers every day around the world. * Successfully Led the team to launch mission
+  critical Prime Music service across all the mobile devices * Led the team through device launch
+
+  cycle for three generation of Kindle devices. * Strategic partnership with product and business
+  teams to build product road map and resource planning/ * Provide technical direction and strategy
+  for JavaScript applications and performance improvements. * Hired and grew the high performance
+
+  full stack front-end engineering team.Principal Engineer, Presentation Platform at eBay Inc.
+February 2011 - January 2013 (2 years)
+
+  Key member of platform team to create presentation framework for eBay's complex web
+   applications. In this framework, I am responsible for strategies and direction related to JavaScript,
+
+   HTML5, UI Components, JavaScript templates and mobile web development. * Developed
+   RaptorJS an open source modular JavaScript framework. JS framework provides features like
+
+   namespace, classes, modules, inheritance, mixins, logging and PubSub. * Evaluate open source
+   technologies and integrate in our framework and also promote eBay's technologies to open source
+
+   community. * Developed UI components infrastructure to create universal components to work
+   on server as well as client-side. * Leading mobile strategy to convert eBays mobile web apps on
+   new framework * Integration of dust templates on client-side as well as on server in node and JVM
+
+   environment. * Developed support for responsive web applications
+
+Staff Engineer (MTS I) at eBay Inc
+
+June 2004 - January 2011 (6 years 8 months)
+  Led front-end development team for design, development, and scalable strategies for eBays
+
+   flagship Selling domain and application products supporting 2 million global listings daily.
+   Responsible for all the selling web projects in JavaScript, PHP, JSF, Flash, HTML5, CSS, site
+
+   speed performance improvements and introduction of new web technologies.
+
+Sr. Software Engineer at Andale Inc.
+2001 - 2004 (3 years)
+
+
+Software Engineer at Sevant Inc.
+August 2000 - March 2001 (8 months)
+
+Software Engineer at Mindflash Technologies
+
+January 2000 - August 2000 (8 months)
+
+
+Education
+
+Motilal Nehru National Institute Of Technology
+B.E. (Hons.),Electrical and Electronics Engineering,1984-1988Neeraj Khanna
+
+San Francisco Bay Area
+
+Software Development Manager
+
+
+
+
+
+8 people have recommended Neeraj
+
+  "Neeraj worked with me in the Andale engineering team. He always stood out for his very strong
+
+  web development skills and ability to turn things around very quickly and with good quality. Neeraj
+  is also a hard worker who can keep his head down and work long stretches without needing any
+
+  breaks. A sweet soft spoken person and a great team player, would recommend him for any
+  website development projects/teams"
+
+  Chetan Uberoy,Country Head (India), MphRx (My Personal Health Records eXpress),
+  managed Neeraj at Andale Inc.
+
+
+  "I had a pleasure of working with Neeraj in the Presentation Platform at eBay. Neeraj was a perfect
+
+  fit for this team due to his extensive experience in presentation technologies. He was the go-to
+  person for all things related to CSS, JavaScript, JSP, AJAX, Templating, Responsive Design, and
+  many other technologies. In several cases, he was the first one to bring the technology to eBay.
+
+  Thanks to Neeraj's pleasant personality, he was easily approachable. As a result, numerous eBay
+  front-end developers sought out his help and guidance."
+
+  Thuc Nguyen,Cloud Engineer, eBay, worked directly with Neeraj at eBay Inc.
+
+
+  "Neeraj and I have worked together @ Andale during 2001-2004 for a period of 3 yrs. We have
+  interacted quite well during our tenure in executing several engineering projects where Neeraj was
+
+  lead on the web development. He is an excellent team player and has good work ethic. He takes
+  a strong sense of ownership in his work and is completely self driven. He often comes up with
+
+  creative ideas for the most challenging problems. His designs and implementations conveniently
+  scaled well for hundreds and thousands of our users. He will be the most pleasant person to work
+
+  with and has excellent communication skills. His written communication skills are also very good.
+  He is a very good team player and he has interacted with a variety of people including Engineering,
+
+  Product Management, QA and marketing with ease at Andale. I would work with him again in a
+  heart beat."
+
+  Karthik Gajjala,Vice President, Data Infrastructure and Services, [24]7, worked directly with
+  Neeraj at Andale Inc."I have worked with Neeraj in the platform framework group for more than two years. He lead
+
+the new presentation platform efforts, resulting in great developer productivity gain. His deep
+knowledge of latest open source technology help eBay to use some of the best stacks such as Dust
+
+template. He also contribute to open source community by offering JavaScript framework RaptorJs.
+Neeraj is the guru of presentation engineering in eBay. I and many others in eBay get a lot of helps
+
+from him to solve complex problems by his expertise."
+
+David He,Software Engineering Manager, LinkedIn, worked directly with Neeraj at eBay Inc.
+
+
+"Neeraj is a great developer to work with. He is very friendly, patient, thorough, and diligent. He
+is technically sound in JavaScript and understands eBay's JavaScript framework. Whenever he
+
+codes JavaScript, he always considers performance issues and has devised solutions around any
+performance hits. Also, when I started at eBay, Neeraj helped me through the process of rolling
+
+out JavaScript code to production. This is a very tedious and bureaucratic process that was made
+simple by his help. I strongly recommend Neeraj for any software development position."
+
+Bernard Huang,iOS Mobile Engineer, Yahoo!, worked with Neeraj at Andale Inc.
+
+
+"I have worked with Neeraj on many projects while working at eBay. He is truly an expert with
+
+selling side front end technologies. He has very strong technical and leadership skills. His excellent
+organization skills and ability to stay focused on the task at hand helped us deliver projects on time.
+
+Neeraj has designed and implemented various site enhancement projects which have improved
+site performance considerably. His ability to analyze product requirements, providing thoughtful
+
+feedback and identifying possible flaws beforehand has always helped the team achieve a good
+quality product. Working with him has been a privilege."
+
+Sucheta Khot,Software Engineer, eBay, worked directly with Neeraj at eBay Inc.
+
+
+"Neeraj is one of the most proficient engineers I have worked with. He is technically strong in
+
+developing web applications, detail oriented and always thinking about how to improve things. He is
+customer oriented and went the extra mile to debug and fix issues reported by users."
+
+Rajiv Dutta,Sr. Director of Engineering, Visa (PlaySpan), managed Neeraj indirectly at Andale
+Inc.
+
+
+"Neeraj is one of the most proficient engineers I have worked with. He is technically strong in
+
+developing web applications, detail oriented and always thinking about how to improve things. He
+is customer oriented and went the extra mile to debug and fix issues reported by users. I highly
+
+recommend him."
+
+Bernard Huang,iOS Mobile Engineer, Yahoo!, worked directly with Neeraj at eBay Inc.Profile Notes and Activity (1)
+
+  3/30/2015View by Cooper McKinley

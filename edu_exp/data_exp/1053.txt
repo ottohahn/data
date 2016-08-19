@@ -1,0 +1,93 @@
+Philip Gavlan 
+280 Sai Lane ~ Turlock, CA 95382 
+415.519.9239 
+pgavlan@gmail.com 
+ 
+OVERVIEW OF QUALIFICATIONS 
+• Proven punctuality 
+• Strong team player always willing to aid team members  
+• Ability to translate between technical terminology and layman 
+• Experienced in fields outside of IT, such as marketing, sales, and business development  
+• Experienced in people management as well as project management 
+• Able to quickly find where processes lack efficiency and always have ideas for improvement 
+TECHNOLOGY 
+      OPERATING SYSTEMS: 
+• Linux – CentOS, RHEL, Ubuntu, Fedora 
+• Windows (Home/Server) – NT, 2000, 2003, 2008 (7) 
+• Mac – OS 9, OSX 10.3, 10.4, 10.5, 10.6, OSX Server 10.4, 10.5, 10.6 
+       SOFTWARE: 
+• MS Office 2003 / 2007 / 2010 
+• Unix/Cisco/Windows/Mac CLI 
+• Active Directory, MSSQL, IIS 
+• Apache, MySQL 
+• Adobe Creative Suite 3,4,5 
+• Salesforce 
+• NMap 
+• Nagios, Splunk 
+• VMWare GSX/ESX, Xen 
+• Strong familiarity with cloud infrastructure design and implementation 
+ 
+I am looking to grow my career in I.T. by working up to a managerial or Director level role. The 
+next position I am looking for would either be in this realm or have the growth potential to reach 
+it in the future.  
+ 
+ 
+ OBJECTIVE 
+NETWORKING / SECURITY: 
+• Cisco Routers/Switches; CatOS & IOS 
+• Educated in CCNA 
+• 802.11x technologies 
+• 802.11x security protocols and breach testing 
+WEP, WPA & WPA (TKIP & AES) 
+• HW Firewalls – Cisco ASA & Fortinet 
+• SW Firewalls – ZoneAlarm, Windows 
+Advanced Firewall, IpTables 
+• VPN – HW & SW solutions 
+• Load balancing – F5, HA Proxy 
+  
+ 
+EMPLOYMENT HISTORY 
+GoGrid, San Francisco, CA                                                                               March 2010 - Present  
+Technical Account Manager 
+• Handling the management of approx. 700 accounts alongside a Sales Account Manager 
+• Understanding the customer’s needs and goals and offering an appropriate solution within the GoGrid 
+infrastructure to be able to accomplish those goals. 
+• Handling multiple support issues that include system administration of Windows and Linux servers, configuration 
+of Fortinet and Cisco ASA firewalls, VPN configurations (Remote IPSec, Site-to-site IPSec, and SSL), 
+Cisco/Juniper Switch/Route configurations using the CLI, IP management, and customer escalations. 
+• Acting as the general infrastructure architect and liaison between my service team’s territory of accounts and the 
+GoGrid infrastructure and staff. 
+• Hired in 3/10 as Frontline Systems Administrator, promoted to Technical Account Manager in 6/10 
+ 
+ 
+Aegis Media Americas, San Francisco CA                                November 2006 – September 2009 
+Macintosh Administrator 
+• Responsibilities include: Supporting 220+ users. Mac regional projects in North American offices, Apple Remote 
+Desktop deployment, FTP accounts, inventory management, Cisco VOIP phone system, Symantec Ghost system, 
+Mac OSX 10.5 testing and deployment, Research further forms of Macintosh integration 
+*Hired in 11/06 as Desktop Administrator, promoted to Macintosh Administrator in 03/07. 
+ 
+Serverplex Networks, San Francisco, CA                                            December 2005 ~ October 2006 
+Onsite Support Manager 
+• Began as a Project Manager that handled onsite clients. Included receiving support tickets, responding onsite, 
+completing the ticket 
+• Beginning June ’06, I was promoted to Onsite Support Manager. The promotion lead to Store Manager of the San 
+Mateo location beginning in July. I handled all internal IT, was the sole onsite & “in house” PC / Mac technician, 
+and also did B2B sales to gain new business 
+• Responsibilities included: networking, server setups, PC repair, custom PC assembly, Mac repair, iPod repair, 
+graphic design, marketing design, sales, phone support, online remote support, and interviewing potential 
+employees 
+ 
+ 
+*Further info available on LinkedIn; References available on request 
+ 
+TLC Educational Facility,  Turlock, CA                                          July 2004 ~ December 2005 
+I.T. Manager 
+• Responsibilities included: Setup and management of a network consisting of 3 servers and 7 clients. Network 
+included Windows Server 2003, Windows XP Professional, Active Directory, DNS troubleshooting, public and 
+private Ethernet and wifi networks. ProCare software setup and management. On-call support.  
+ 
+EDUCATION 
+ 
+ Turlock High School :: 2000 – 2004 :: Turlock, CA 
+Graduated with a major in Electrical Engineering Technology

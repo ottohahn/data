@@ -1,0 +1,213 @@
+Kiran M
+
+San Francisco Bay Area
+
+Sr.Systems Engineer at Good Technology
+
+
+Summary
+
+ Over 9+ years of total experience in IT industry in the area of RedHat Linux / Oracle EL / CentOS /
+
+ Windows Server / Windows Desktop Support, Wintel / Virtualization with VMware ESX 5.5 and
+ Virtual Center server.  Extensive experience in installing, integrating, tuning, and troubleshooting
+
+ Apache 2.x, 1.3.x webserver, JBoss 4.x, Tomcat and Weblogic 8.x, 9.x application servers  Worked
+ on Amazon Web Services for deploying EC2 instances consisting of various flavors viz., OEL, RHEL,
+ CentOS and Ubuntu in Linux and Windows 2008 and 2012.  Managing Amazon instances by taking
+
+ AMIs and performing administration and monitoring of Amazon instances using Amazon Cloud
+ Watch  Worked on integrating Amazon EC2 instances with on premise Active Directory there by
+
+ enabling user access.  Experience in deploying system stacks for different environments like Dev,
+ UAT, Prod in both on premise and cloud infrastructure.  Experience setting up instances behind the
+
+ Elastic Load Balancer in Amazon Web Services for high availability.  Worked on Auto scaling, Cloud
+ Watch (monitoring), AWS Elastic Beanstalk (app deployments), Amazon S3 (storage) and Amazon
+ EBS (persistent disk storage).  Experience working on configuration management in Linux using
+
+ Chef and Puppet there by developing Puppet Manifests using ruby for provisioning applications and
+ scripts.  Experience working on continuous integration tools using Jenkins and build automation
+
+ using Ant.  Hand on experience handling CheckPoint, Fortinet and Dell SonicWALL Firewalls. 
+ Expert in managing operating systems and end-user software.  Manage deployment, maintenance,
+
+ support and upgrade of servers, hardware, software, operating systems in server environment.
+  Experienced in managing the server cluster environment including configuration, shares and
+ permissions.  Experience in installation, configuration and management of LAMP stack on Ubuntu
+
+ 12.04 and RHEL v6.
+
+
+Experience
+
+Sr.Systems Engineer at Good Technology
+October 2015 - Present (2 months)
+
+  .
+
+Devops Engineer at California Department of Justice
+December 2013 - October 2015 (1 year 11 months)
+
+   Worked on Redhat Enterprise Linux environment 5.x and 6.x by installing, configuring and
+   managing servers there by provisioning servers in clustered environment.  Working with different
+
+   developer teams to plan, provision and manage infrastructure for different environments viz.,   Dev, UAT and Prod environments.  Incident, Problem, & change management adhering ITIL
+
+   processes. Prepare RCA within defined SLAs for the Problem incidents using BMC remedy tool. 
+   Experience working with version control tools such as Subversion (Tortoise) 1.8.x 64 bit and GIT.
+
+    Perform patch management on LAMP Stack that is deployed on top of RHEL v6.  Performed
+   installation, configuration and management of JBoss 5.x application server.  Experience in
+
+   Developing BASH and Python shell scripts to automate cron jobs and system maintenance.
+   Scheduled cron jobs for job automation.  Involved in merging java codes to the latest release
+
+   and deploying it to generate various kinds of reports.  Provisioning Jenkins environment for
+   continuous integration there by easing the build and testing tasks for developers.  Experience
+
+   in Shell scripting (ksh, bash) to automate system administration tasks.  Creation of Virtual
+   Servers (VMWare ESX 5.5) using a process document.  Adding resources to existing Virtual
+
+   Servers including Memory, additional hard disk space, NIC card etc.  Decommission of VMWare
+   Virtual Servers using IS best practices.  Creation of OU's and its sub OU's and permission
+
+   delegation using Quest tools, Creation of new site & subnets in AD Site & Services, DNS & DHCP
+   activities including new DHCP scope creation, static IP assignment and backups.  Addition &
+
+   Decommission of application Servers and Domain Controllers.  Handling the Active Directory
+   Domain, group policies and replication between domain controllers.  Install and run automated
+
+   Puppet and cheff, Puppet to configure, install, manage and bring up jBoss and applications.
+
+DevOps Engineer at Genentech
+January 2012 - November 2013 (1 year 11 months)
+
+   Supporting enterprise datacenter comprising Redhat Linux environment 5.x and 6.x, Oracle
+   Enterprise Linux 6.x, SUSE Linux and Windows 2012 and 2008.  Working with stake holders for
+
+   getting business requirements there by leveraging changes in process to them.  Documented
+   standard operating procedures (SOP) for troubleshooting, configuring, and setting up virtual
+
+   servers.  Worked on Grub, PXE boot, Kick start, Packages, Yum, RPMs, LVM, Boot from SAN,
+   file system configuration.  Ensuring availability of Puppet agents across Linux boxes in order to
+
+   ensure configuration management application via Puppet Master.  Provisioning Adobe Experience
+   Manager Stack to developer team by providing Author and Publisher boxes.  Provisioning GIT
+
+   and SVN configuration management environment for different developer teams.  Configuring LVM
+   as extending Logical Volume and Physical Volume Size.  Worked on installing and managing
+
+   different automation and monitoring tools like Nagios and Splunk.  Configured yum repository
+   server using Chef on RHEL 5.7 in VMware environment.  Performed deployment of Amazon EC2
+
+   instances in AWS environment.  Performed EC2 instances provisioning on AWS environment and
+   implemented security groups, administered VPCs.  Performed configuration of the WebLogic/
+
+  JBoss server for Data Sources, JDBC Connection pools.  Implementing security there by enabling/
+  disabling access to users on different applications and tools like: AWS Management Console,
+
+   Jenkins, Jira and other legacy applications.  Handling & fixing all Server related issue there by,
+   ensuring maximum availability of servers and its services.  Managing and maintain Fortinet 240D   Firewall, ensuring ISP connectivity, Site2Site VPN networks.  Windows OS and customization
+
+   using Blade Logic and MDT deployment tools.  Install and configure the HP c7000 enclosures, HP
+   standalone servers.  Supporting Vendor for various application installations.
+
+Senior Systems Engineer at HBO
+
+January 2010 - December 2011 (2 years)
+   Installation, configuration and troubleshooting of Redhat 5.x/6.x, Ubuntu 12.x, HP-UX 11.x,
+
+   Windows 2008 and 2012 on various on premise hardware platforms and on Amazon AWS cloud
+   services.  Worked on installation and configuration on Apache 2.x, 1.3.x, MySql 5.x  Installing,
+
+   configuring, administration of Windows 2003 servers, Active Directory Services, DNS DHCP, FTP,
+   WSUS, IIS Web Server and SQL Database Server.  Participation from scratch for new servers
+
+   deployment and installing ESX in the servers and making it configured over Intranet.  Installed
+   and configured Splunk Forwarders 64-bit 4.3.3 version to run on Linux and HP-UX client servers.
+
+    Successful implementation and configuration of the ESX servers to existing NAS devices. 
+   Core participation in Datacenter and involved as one of core engineer for the Datacenters.  Also
+
+   participated in some of migration procedures in a Datacenter.  Experienced with x86 / x64 Intel,
+   HP, IBM & Dell hardware like rack-mounted servers, tower servers, desktop, laptop and other
+
+   peripherals.  Monitored the servers and troubleshot the server issues.  Resolved the user issues
+   related to Active Directory Users and Groups.  Install all software required to run process on .Net
+
+   environment like (SCOM 2007, SCCM 2007, SQL Server 2008, Active Directory, MOSS Server,
+   Endeca) in Dev/UAT/ Test/Prod.  Configured SCOM for alerts setting to any service failure.
+
+    Creating and mirroring preconfigured Operating system like Windows/Linux and configuring
+   Oracle/SQL, Web sphere services in the OS.  Developing and implementing backup and disaster
+
+   recovery protocols.  Providing Load balancing capability for the virtual infrastructure.  Developed
+   shell scripts to perform different administration tasks.  Installing, configuring, administering Veritas
+
+   Cluster Server 5.0, creating service groups, adding resources, enabling attributes, testing fail-over.
+
+
+
+Senior Windows & Linux Administrator at California courts of appeal
+September 2007 - December 2009 (2 years 4 months)
+   Started as Systems Administrator and performed various projects including installation,
+
+   configuration and maintenance of on premise data center.  Worked on Windows 2003/2008,
+   RHEL v4.x,v5.x, HP-UX flavors, Sun Solaris v8 and v9 on various hardware platforms 
+
+   Administered cross-platform Network (Linux and Windows)  Implemented a High Availability
+   Cluster using 2 V480s, a T3 and Veritas Cluster Server 4.0.  Worked as single point of contact for
+
+   Installation and Configuration of new server hardware.  Provisioning servers like FTP, Apache,
+   Samba to different teams as per the project requirements.  Designing, configuring, implementing
+
+   and managing DHCP, DNS servers.  Defining and implementing user configurations and policies.
+    Automated several administrative tasks.  Adding/deleting/modifying user account information
+
+   in Domain Controller. There by creating security policies at different levels.  Supporting and   maintaining antivirus products as well as host based firewalls.  Designing, implementing and
+   managing disaster recovery and backup process.  Documenting all the network, server and
+
+   resources configurations.  Backup files and tweak the system & network for optimal performance.
+    Managed system and network disaster recovery plans.  Leveraging knowledge on latest
+
+   application environments to employees  Performing patching on Windows and Linux servers
+   with the aid of WSUS in Windows and Yum in Linux  Implemented system level and network level
+
+   security.  Provided technical support and repairs for windows workstations.  Worked on hardware
+   and software inventory management.
+
+
+Network Trainer at Medha Computers
+July 2006 - August 2007 (1 year 2 months)
+   Responsible for supporting Windows and Linux servers and workstations  Provisioning 24x7
+
+   support to enterprise users on call.  Implementing DHCP and DNS on Windows 2003 servers. 
+   Implementing SAN and NAS storage for enterprise level user access there by provisioning storage
+
+   access to users.  Setting up NFS server on Linux OS to provision storage access to users.
+    Worked on developing scripts to perform backup automation on Oracle database servers. 
+
+   Performed installation of SSH servers on top of linux boxes.  Performed network patching and
+   configuring Cisco routers and Switches in datacenter.  Provided technical support and repairs
+
+   for windows workstations.  Performed asset management of hardware and applications used in
+   enterprise level.
+
+
+
+Education
+Vinayaka Mission's Research Foundation - University
+
+B.com,2003-2005Kiran M
+San Francisco Bay Area
+Sr.Systems Engineer at Good Technology
+
+
+
+
+
+
+Profile Notes and Activity (1)
+
+  11/16/2015View by Issaraporn Bao

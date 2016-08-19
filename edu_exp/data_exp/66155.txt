@@ -1,0 +1,134 @@
+Thomas RICARD
+VP of Engineering @ myERP.com
+Current
+Co-founder
+Lead Developer
+
+Past
+Software Engineer
+Project Manager
+Software Engineer
+
+Education
+Université Paris Nord- Paris 13
+Université Paris Nord- Paris 13
+
+Recommendations Received
+MustaphaEl Gharbi
+
+Summary
+Java developer with 8 years of experience. 
+
+Project Manager with 3 years of experience on ERP projects
+
+Great knowledge of Cloud Computing techno, especially AWS.
+
+Lead developer of myERP, a Saas ERP for small business.
+
+3+ years of Ruby and Ruby on Rails.
+
+Very good knowledge/skill in performance and scalability.
+
+Front-end : GWT, JQuery, HTML5, CSS3
+Backend : JEE, Rails
+
+Experience
+Co-founder
+Les P'tits Mwana
+(Sole Proprietorship;Internet)
+11/2011 - Present
+http://www.lesptitsmwana.com
+
+Les Ptits Mwana (means Small kids in Lingala, an African language) is a website created by my wife and I to help moms with their parenting struggles. Born as a Q&A website, it's evolved to this current form over the last year, becoming more of some kind of a portal for moms and future moms. Les Ptits Mwana, it's currently 50K visitors per month (~150K page views) and growing.
+
+And it's eating up my nights :-)
+
+Full-stack development from the OS up to the front-end javascript
+
+Hosting: Linode
+App server : Rails
+CSS : Twitter Bootstrap, saas
+database : mySQL
+search : ElasticSearch
+Queues : Resque
+Other : Redis
+Other2 : SEO stuff, Google Analytics, Adsense
+
+Mobile: work in progress : IOS development of an app related to Les Ptits Mwana
+Lead Developer
+myERP.com
+(;Information Technology and Services)
+7/2008 - Present
+Once an on-premise Java ERP, myERP.com was migrated to the WEB. It's now a Saas single instance, multi-tenant ERP service.
+
+- led the migration from Java/Swing to GWT
+- chose and migrated the app to Amazon Web Service (EC2, S3, SQS). It was in 2007
+- led the re-architecture to keep up with the increasing load.
+
+=> myERP.com is currently available with already 15,000 small business accounts (Free and Premium)
+
+In March 2010, myERP.com was part of the Google Apps Marketplace. 
+=> 3000 signups the first week.
+
+Techno: 
+Front => GWT, Ext-JS, SmartGWT, Javascript, HTML, Java JSP, Servlet
+Backend => AWS (EC2, S3, SQS, ELB, CloudFront), Tomcat, mysql, Ruby
+Software Engineer
+Avanquest USA
+(;Information Technology and Services)
+12/2006 - 6/2008
+Helped Avanquest Customer Support to fix customer issues
+Developed/debugged Small Business Pro for the US and UK markets
+
+Techno: Java, CruiseControl, Eclipse, Google GWT, Ext-JS
+Project Manager
+Inventime
+(;Computer Software)
+7/2005 - 11/2006
+- Hired new developers
+- Managed other developers
+- Scheduled tasks
+Software Engineer
+Inventime
+(;Information Technology and Services)
+10/2003 - 5/2005
+Source/project/configuration management using Subversion and CruiseControl
+
+Java Development
+
+Reduction of the memory footprint, fix memory leaks, optimization (startup, Garbage Collection)
+
+User interface improvements (better user experience)
+
+Software and Business rules Internationalization(i18N)
+
+Reporting using JasperReport (Invoicing, Audit Trail, Inventory reports, Accounting reports, etc.)
+
+Microsoft Excel and CSV file export
+
+Customer Customization : Implementation of the user customization tools which is used to fit specific business needs easily.
+
+Business Rules: Worked with French, UK/US accounting laws.
+
+CRM : opportunity/Call management
+
+Invoicing/Estimates/Sales-tax management
+
+Inventory control and MRP (Material Requirements Planning)
+
+=> Product Integration and deployment for FotoVista (owner of Pixmania, European leading Hi-tech ecommerce
+web site)
+
+=> Partnership with Avanquest (Ex BVRP): Released Small Business Pro with more than 8,000 users
+
+Education
+Université Paris Nord- Paris 13
+Master Degree,Business Intelligence, Data Mining and Reporting
+
+Université Paris Nord- Paris 13
+Associate Degree,Computer Science
+
+
+Recommendations
+Recommendation Type : colleague ,  Recommender : Mustapha El Gharbi
+Working with Thomas was very instructive for me, that was my first official work. Thomas was extremely present and attentive. As a pro in software programming, his assistance and consultings were invaluable for my work. My first experience at work was really pleasant and i'm looking forward to work again with him.

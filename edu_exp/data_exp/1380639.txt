@@ -1,0 +1,215 @@
+Frank Porcaro
+
+Greater Milwaukee Area
+
+IT Manager and Enterprise Architect
+
+
+Experience
+
+Enterprise Systems Technology Manager at Artisan Partners
+January 2016 - Present (7 months)
+
+
+Vice President, Technology and Application Development at OnCourse Learning
+October 2014 - January 2016 (1 year 4 months)
+
+Solution Architect/Practice Leader at Allium IT
+
+August 2012 - October 2014 (2 years 3 months)
+  Magento Integration
+    - Magento Sync - Custom scala application to receive JSON notifications from Magento for
+
+   Product, Customer, Order and Credit Memo adds and edits. Notifications were analyzed and
+   appropriate corresponding Salesforce objects were created or updated.
+
+    - Partner pricing integration - Design and integrate with custom Magento REST api to create the
+   ability for B2B partners to receive special pricing on orders using pricing rules stored in Salesforce.
+
+   Salesforce Apex code would match pricing rules to Magento products.
+
+  Salesforce development projects
+
+    - Publishing royalty contract and calculation system - Support contract definition for book authors
+   with variable royalty calculation methods and payment timetables. Create statements with detailed
+
+   breakdown of purchase history and royalties due.
+    - Custom jQuery grid to edit pricing rules - Support optimized entry and maintenance of pricing
+
+   rules on a per-customer basis
+    - Automatic contract and renewal opportunity creation - Convert closed won bank compliance
+   training opportunities into annual contracts and create future-dated renewal opportunities for sales
+
+   follow-up.
+    - Fulfillment engine to analyze orders for products, determining which systems need to receive
+
+   enrollment details or physical product delivery instructions.
+    - Custom Apex application for synchronizing data from custom interview scheduling applicaiton
+
+   into Salesforce allowing customer service agents to support interview tech support.
+
+
+  Integration efforts
+    - Implement and support Marketo/Salesforce integration     - EDI integration for pushing drop ship orders from Salesforce to our EDI integration partner with
+
+   support for order acknowledgement and advanced ship notice
+     - Talend ESB job to find and close out opportunities based on orders placed directly into legacy
+
+   Learning Management Systems (LMSs)
+     - Talend ESB job for loading customer and order data from Salesforce into MAS 500 accounting
+
+   system
+
+Project Manager / Senior Developer at Stark Investments
+August 2006 - August 2012 (6 years 1 month)
+
+  Projects include:
+
+
+   Investor Management and Client Relationship Management system implementation  Responsible
+   for design and implementation of Salesforce.com system containing all details for an investor from
+
+   the point first contact is made through investment. This included development of many custom
+   VisualForce and Apex modules for automated workflow implementation and integration with client
+
+   portal. Integrated with internal systems for client reporting and investor document portal. Also
+   included data conversion and migration from existing SalesLogix implementation. This was an
+
+   ongoing, long-term project including maintaining the relationship with the business team, capturing
+   and implementing new requirements, managing the implementation as the resources involved
+
+   changed over time.
+
+
+   Commodity system integration  Integrated KIODEX commodity data with existing instrument
+   master.
+
+
+   Partnership accounting system  Oversaw the selection and implementation and integration of
+
+   a partnership accounting package. This involved working with the potential vendors, helping the
+   business to understand their requirements and move the working team to their final decision.
+
+
+   Live Profit and Loss application  Worked on three-member team to implement tool that tied
+
+   together position management and order management systems with various pricing data sources
+   to provide live profit and loss details for portfolio managers.
+
+
+   Investor Statement Application  Developed C# application to construct investor statements by
+
+   extracting data from partnership accounting spreadsheets and the Investor Management System.
+
+
+   Portal Document Packaging Application  Designed and developed C# application to manage
+   the organization and packaging of investor statements for upload and publishing to a third-party
+
+   investor portal.   Excel training course  Developed and taught Microsoft Excel course focusing on enhancing excel
+
+   skills for casual to moderately-experienced Excel users.
+
+System Architect and Project Manager at Innovative Thinking Inc.
+April 2011 - June 2012 (1 year 3 months)
+
+   Responsible for building, managing and participating on a team of part-time developers to design
+   and implement a consumer-facing, family media site to document and share personal and family
+
+   history in a private, secure, and permanent setting.
+   Utilized many different technologies Java, Vaadin, Tomcat, Amazon Web Services, RESTful API,
+
+   MySQL
+
+Principal/CTO at Techteriors
+October 2001 - August 2006 (4 years 11 months)
+
+   Co-founded company providing integrated technology systems for residences and commercial
+   facilities designed to enhance the entertainment, safety and convenience of our clients.
+
+
+   Responsible for all technology decisions within the company, overseeing all project designs.
+
+
+   Developed custom proposal and project management application using Java, DB4O (Object-
+
+  oriented database) and Eclipse RCP.
+
+Senor Project Manager / Emerging Technologies Team Lead at Compuware Professional Services
+
+November 1992 - October 2001 (9 years)
+   Mobile Development Team  Lead team that built mobile development practice, developing an
+
+   embedded Java wrapper for the PalmOS API. Framework allowed us to build performant mobile
+   applications in the construction software, used oil collection and other mobile industries. Also
+
+   developed a Windows CE application for the pest control industry.
+
+
+   Electronic Voting System Prototype  Swing-based voting station
+  application prototype allowing municipalities to develop interactive ballots and present ballots to
+
+   voters on kiosk-based devices, printing ballot summary and tallying votes.
+
+
+   Pacemaker Programmer Prototype  Embedded Java-based prototype for querying and
+   programming an implanted cardiac rhythm management device. Required simulating implanted
+
+   device information flow and rigorous testing.
+
+
+   Visual Rater  Smalltalk-based graphical programming language allowing insurance raters to
+   define and test ultimately batch run complex rating algorithms.   Visual Telemarketing Script Engine  Smalltalk-based graphical programming language for
+   developing, testing and executing complex telemarketing scripts, including accessing and
+
+   collecting user data from external data sources including SQL databases and flat files.
+
+
+   Developed and taught 3-day object-oriented development course using Smalltalk.
+
+Software Developer at Frontier Technologies Corp
+1991 - 1992 (1 year)
+
+   Responsible for numerous Microsoft Windows C communications projects including an installation
+   program that provided installation and uninstallation of software components with module
+
+   dependencies, a TN3270 emulator and OSI&TCP/IP stack configuration application.
+
+
+Education
+
+University of Wisconsin-Parkside
+Bachelor of Science,Computer Science,1987-1991
+Activities and Societies: Cross Country Team
+St. Catherine's High School
+
+1984-1987Frank Porcaro
+
+Greater Milwaukee Area
+IT Manager and Enterprise Architect
+
+
+
+
+
+1 person has recommended Frank
+
+
+  "I had the pleasure of working with Frank for several years while I served as the COO and CAO
+  of Stark Investments. In addition, I feel that I have worked with many talented professionals over
+  the years and Frank easily falls into the top 2%. As a project manager and senior developer at
+
+  Stark, Frank wore many hats and wore them well. His array of skills is incredibly broad and I know
+  very few people who can align the business with the technology as well as Frank. He truly gets
+  everyone on the same team by communicating effectively and leading the project to a successful
+
+  finish. As most systems were proprietary, the types of projects Frank led were very complex. I can't
+  say enough good things about Frank and unconditionally recommend him for similar roles."
+
+  Bob DiDonato, CIMA,Financial Advisor, Ameriprise Financial Services, Inc., managed Frank
+  indirectly at Stark Investments
+
+
+
+
+Profile Notes and Activity (1)
+  7/19/2016View by Todd Louie Rele

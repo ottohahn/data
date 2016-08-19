@@ -1,0 +1,235 @@
+Chandramohan Yengoti
+
+San Francisco Bay Area
+
+Project Director | Program Director
+
+
+Summary
+
+Summary: My expertise lies in leadership excellence, managing global teams, leading the software
+
+ development lifecycle, and meeting and exceeding goals. I have a well-rounded, diverse experience
+ spanning 15 years, including 9 years in project management and leadership positions with a world-
+
+renowned company. I have a strong portfolio of achievements and key contributions including
+ my current work for SAPs top product priority in 2015, double-digit productivity and quality
+ improvements, and integration of a major acquisition. I am expert at managing multiple products
+
+ including databases, mobile products, and technology platforms. Specialties: Data Collection &
+ Analysis; Interpretation of Survey Results; In-Depth Research Studies; Reports and Forecasts for
+
+ Management; Operations Analysis; Database Management; Goal Setting & Achievement; Program
+ Management; Project Management; Experiment Design & Execution; Internal/External Relationship
+
+ Building; Strategic Planning. Skills and Expertise:  Productivity Improvement  Influencing without
+ Authority  Quality Improvement  Quality Assurance  Cross-functional Team Leadership  Thought
+ Leadership  Team Leadership  Global Strategy  Product Lifecycle Management  Process
+
+ Improvement  Software Development  Program Planning  Collaborative Leadership  Collaborative
+ Solutions  Coaching  Mentoring  Skilled Multi-tasker  Goal Analysis  Training  Problem Solving 
+
+ Testing  Troubleshooting  Design Patents
+
+
+Experience
+
+Production Program Manager in Assembly and Validation Services at SAP Labs
+June 2010 - Present (5 years 4 months)
+
+  Requested to join Quality, Governance & Production team (following SAPs $5.8B purchase
+   of Sybase) to provide leadership in coaching engineering teams on SAPs SDLC processes
+   established by the governing body. Oversee process governance, coaching, and control, supplying
+
+   input to central governance teams. Drive production support in terms of blocking and managing
+   resources. In charge of multiple Validation Services, including Solution Validation, Component
+
+   Validation, Technical Validation, and Customer Validation as well as Post-Acquisition Integration.
+    Reduced non-essential SDLC deliverables 70% within new process definition through
+
+   concentrating on corporate and legal requirements, with additional bare minimum deliverables. 
+   Decreased ongoing landscape set-ups 80% and increased bug identification 3x by conceptualizing
+   and initiating complex customer-like landscapes for validation, representing 1st-time occurrence in
+
+   SAPs 40-year history.  Advised senior management on SDLC strategy for Sybase integration.   Defined SDLC processes for integration and mentored all incoming program managers on SAP
+
+   processes. Reduced standard deliverables by up to 70%.  Designed processes for Managed
+   Cloud as a Service, aiding teams in progressing forward with product release to partners without
+
+   need to wait for the governance team to roll out processes formally.  Introduced Off-Cycle
+   Validations that involved validating cloud product without interfering with short cloud cycles.
+
+   Enabled greater flexibility for engineering team while honoring quality commitment to customers.
+    Initiated Pre-Validation Concept that reduced time gap by 3-4 weeks from end of development
+
+   to release to customer. Additionally completed all product standards testing such as performance,
+   security, and supportability.
+
+Engineerin Program Manager at SAP Labs
+
+June 2007 - May 2010 (3 years)
+  Transitioned from SAP AG due to experience working in SAP HQ in Germany. Brought in to
+
+   handle program management activities as well as operations management functions. Managed
+   portfolio of 4 products: BPC, SM, Spend, and Supply Chain Performance Management. Maintained
+
+   engineerings focus on coding, prepared all SDLC deliverables, and secured approvals from
+   process owners. Directed operations for the Head of Quality, with 80 team members worldwide.
+
+   Coached engineering teams, quality teams, and members of acquired companies in SDLC
+   processes and SAP tools.                 Designed and rolled out Reporting Framework for the
+
+   entire Performance Optimization Application unit, with a focus on simplicity and adoption. Reduced
+   consolidation work by 50% while providing up-to-date status reports on time.  Delivered Q
+
+   Gates at a 100% on-time rate and with minimum involvement from the development / product
+   management teams.  Rolled out PIL trainings to BOBJ teams that facilitated their involvement
+
+   with SAP systems with minimal disruption and high acceptance. Worked with approximately 7
+   teams in the onboarding process.
+
+
+Engineering Development Lead at SAP
+June 2006 - June 2007 (1 year 1 month)
+  Promoted to lead teams in India and Germany on ABAP-based development of services while
+
+   creating services and ensuring quality / testing was in place. Worked with product managers,
+   reviewed requirements with QA, developed services, and signed off following fulfillment of KPI
+
+   objectives. Updated upper management (Director / VP) regarding ongoing status and motivated
+   teams to deliver services on time.  Led teams in achieving record of 100% on-time delivery
+
+   throughout entire tenure, with the large majority of services delivered before the deadline. Instituted
+   detailed planning and coordination to achieve on-time objectives.
+
+
+Software Developer at SAP AG, Walldorf, Germany
+October 2000 - May 2006 (5 years 8 months)
+
+  Hired for developer position with Oil & Gas for development and support. Provided ABAP-based
+   development of IS-OIL downstream features in the Sales & Distribution, Pricing area. Supported   code based on customers needs.  Developed expertise in IS-OIL downstream processes that
+   included MAP, MCOE, HPM, and others. Gained strong background knowledge in standard Sales
+
+   & Distribution, Materials Management, and downstream-specific items in Order to Cash, Formula &
+   Average Pricing, and Material Management of hydrocarbon products.  Created customer-specific
+
+   development and feature enhancements to support high-profile and Fortune 500 customers such
+   as Chevron, Texaco, Saudi Aramco, and Petrobras among others.
+
+Software Engineer at Patni Computer System
+
+1997 - 1998 (1 year)
+  Y2K compliance: Code inspection of Cobol code and testing for Y2K compliance.
+
+
+
+Education
+IBS Hyderabad
+
+Master of Business Administration (MBA),Business Administration and Management, Finance and
+ Information Systems.,1995-1997
+ICFAI University
+
+CFA(icfai),Corporate Finance and Investments and Security Analysis.,1995-1996
+Jawaharlal Nehru Technological University
+B.Tech,Electrical & Electronics Engineering,1990-1994Chandramohan Yengoti
+
+San Francisco Bay Area
+
+Project Director | Program Director
+
+
+
+
+
+5 people have recommended Chandramohan
+
+  " I worked with Chandramohan for almost three years validating Sybase products. During this time
+
+  Chandramohan proved to be incredibly helpful and knowledgeable. He always had an efficient
+  strategy lined up to run the projects smoothly and he communicates his strategy very clearly. His
+
+  project management skills, strategic thinking and dedication helped successful execution and
+  on-time delivering with good quality. He is a calculated risk taker, pragmatic leader and a realist
+
+  who seems to grasp ideas holistically whilst noting the acute details. If you ever need someone to
+  deliver under pressure, no slip-ups, just results, Chandramohan is your man! He is great in dealing
+  with difficult situations and a fantastic problem solver. I would confidently recommend him and
+
+  would be happy to work with him again"
+
+  Pushpanjali Sahoo,Services Quality Senior Specialist, SAP Labs, reported to Chandramohan at
+  SAP Labs
+
+
+  "Chandu reported to me, and I enjoyed working with him on the various projects we took on. Always
+  punctual and a highly motivated expert. Independent, creative and ready to deal with difficult
+
+  situations and solve the problems on time. His project management skills, forward thinking and
+  understanding of dependencies are unique. When needed, Chandu can take on an advisory role
+
+  to the teams involved and guide them to resolve road blocks. He denotes a strong determination
+  to fulfill his goals, always being honest to others. His idea of a "customer like landscape" made
+  validations more "real" and effective. He received accolades from internal customers as well as
+
+  across development units. In short, he strives to simplify the complexities and has an innovative
+  approach to solutions. I can recommend Chandu as a person with great project management skills
+
+  and deep background of the Idea-to-Market framework. "
+
+  Andreas Born,VP, SAP Production Programs: Cloud & Mobile, SAP  Labs LLC, managed
+  Chandramohan indirectly at SAP Labs
+
+
+  "I've been working with Chandramohan for the last 6 months and it has been a real pleasure. He
+  is extremely professional and level headed person. He thinks outside the box and comes up with
+
+  innovative ideas to create better products. In addition, Chandramohan is extremely thorough with
+  product review and validation. He is an asset for any corporation."  Sudipto Chowdhuri,Vice President, Database Engineering, SAP, worked with Chandramohan
+  at SAP Labs
+
+
+  "I have had the pleasure of working with and reporting to Chandu on several Solution Validation
+  projects during my internship at SAP. He is incredibly helpful and a great resource for someone
+
+  new to the project management role. He happily provides guidance and expertise while also
+  entrusting you with the responsibility needed to master and successfully complete a project.
+
+  Additionally, he empowers and commends his colleagues, and consistently looks for new and
+  innovative ways to improve processes and tasks. I highly recommend Chandu both in terms of
+
+  people development and for his product, process, and SDLC knowledge, and I look forward to
+  working with Chandu on future projects."
+
+  Marte Kjelingtveit,Quality Project Manager | Quality Governance and Validation, SAP, worked
+  indirectly for Chandramohan at SAP Labs
+
+
+  "I worked with Chandu in the realm of Mobile Device Management. Chandu was for my team of
+
+  invaluable help and go-to person for advice on making our product enterprise ready (fulfilling all
+  Quality, process and release requirements) to deliver excellent quality product to our customers.
+
+  The collaboration with the development teams was outstanding. This comprised topics like
+  e.g. security, quality/testing measures and metrics, preparing shipments (beta shipments and
+
+  production shipments) to customers in all aspects, etc. Chandramohan is very solution & execution
+  oriented, structured and organized. Meetings are always well prepared and he provides several
+
+  options to get things done and support execution in keeping even the most challenging milestones.
+  He's very innovative and open in his thinking. He has a good understanding of the products and
+
+  customer base for which he is production lead aside from his excellent process knowledge (QA,
+  production, SDLC, etc.). I hope there are in the future again opportunities to work together with
+
+  him."
+
+  Stefan Kircher,Vice President Product Development, Deloitte, managed Chandramohan
+  indirectly at SAP Labs
+
+
+
+
+Profile Notes and Activity (1)
+
+  9/8/2015View by Issaraporn Bao

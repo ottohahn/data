@@ -1,0 +1,178 @@
+Gilles Ruppert
+
+San Francisco Bay Area
+
+Front End Engineer at Facebook
+
+
+Summary
+
+JavaScript/Ajax developer & architect, using node.js, PHP, HTML5, CSS3 & webstandards to create
+ highly interactive and compelling experiences for users on large-scale websites and web apps, whilst
+
+ keeping performance at an optimum. Lots of experience with high-profile websites and remote-
+working in Agile environments.
+
+
+JavaScript, node.js, PHP, semantic HTML, cross-browser CSS.
+
+
+Experience
+
+Front End Engineer at Facebook
+October 2014 - Present (9 months)
+
+Director / Chief Developer at Made of Bytes Ltd.
+
+January 2011 - October 2014 (3 years 10 months)
+  JavaScript and client-side contracting and consulting agency. We are specialised in large-scale
+   JavaScript development and architecture, both on the client and server-side, including TDD, build
+
+   tools and performance work. We use numerous frameworks and libraries and using the appropriate
+   solution for the job.
+
+Senior Frontend engineer at Global Dawn
+
+January 2011 - June 2012 (1 year 6 months)
+  Senior Frontend Engineer, responsible for major rewrite of single-page web application, including
+
+   tooling, architecture, build process, etc.
+
+Client Side Developer at British Broadcasting Corporation
+2009 - January 2011 (2 years)
+  Client-side developer on the BBC iPlayer site.
+
+
+Senior Front-end Developer at BBC Worldwide
+October 2008 - July 2009 (10 months)
+  Client-side developer on BBC Homepage & Topgear.com.
+
+
+UI Developer at BBC Worldwide
+March 2007 - October 2008 (1 year 8 months)
+
+Junior Software Developer / Technical Operations at First Person MediaNovember 2005 - March 2007 (1 year 5 months)
+
+UI Developer at RadioTimes.com
+2007 - 2007
+
+House Engineer at Mark Angelo Studios
+September 2003 - November 2005 (2 years 3 months)
+
+
+
+Education
+Middlesex University
+BA(Hons),Recording Arts,2000-2001
+
+
+Interests
+Music, new technology, snowboarding, readingGilles Ruppert
+
+San Francisco Bay Area
+
+Front End Engineer at Facebook
+
+
+
+
+
+10 people have recommended Gilles
+
+  "My favorite type of developer is one who has a natural flair for coding. These developers often
+
+  have an unconventional background, but gravitated towards development because they found it
+  fascinating. Gilles' is just such a developer. He's self-bootstrapped to the level of JS expert. He
+
+  writes excellent well structured, document and tested code and is always on the lookout for new
+  tools and technologies to apply to his work. I thoroughly enjoyed working with and leading Gilles
+
+  and wouldn't hesitate to do so again in the future."
+  Phil Messenger,Chief Scientist, Intent HQ, managed Gilles at Global Dawn
+
+
+  "I worked with Gilles on the new top gear site (at the time) and it was a pleasure to work with him.
+
+  Gilles is really helpful, thorough, and is always willing to go that bit extra to make the product
+  something special. It was a pleasure to have worked with Gilles. I would recommend Gilles to
+
+  anyone. Usman"
+
+  Usman Hussain,Senior Test Architect, Thomson Reuters, worked directly with Gilles at BBC
+  Worldwide
+
+
+  "Gilles is an astounding developer who I've had the pleasure to work with on numerous occasions.
+  He is a brilliant developer and I've yet to see him not solve a problem. I would not hesitate to
+  recommend Gilles to anybody in need of a web developer and JavaScript guru!"
+
+  Christian Kirkham,Lead Interaction Designer, JACK RENWICK STUDIO LTD, worked directly
+
+  with Gilles at Made of Bytes Ltd.
+
+  "I worked with Gilles for over a year while on the BBC iPlayer project. He has a very deep
+
+  knowledge of Javascript and CSS and is always happy to transfer that knowledge on and give
+  advice to colleagues. Gilles always wants to produce the best code possible so I would say he is an
+
+  asset to any team."
+
+  Aron Shamash,Senior UI Developer, The Times, worked directly with Gilles at British
+  Broadcasting Corporation"Gilles is one of the most passionate developers I have ever met. A joy to be around and work with,
+
+he is an outstanding developer and always brings new ideas and technologies to the team."
+
+Brendan Borgelt,Architect / Developer, Allete IT Ltd, worked directly with Gilles at BBC
+Worldwide
+
+
+"I had a great time working together with Gilles. He is a very skilled frontend hacker with wide area
+of expertise. Always has some good ideas and suggestions for improvements; he is following the
+
+latest trends of application design and architecture solutions. It's a real pleasure for a backend
+developer working with such a brilliant guy!"
+
+Marcin Olichwirowicz,Ruby Developer, Stack Builders, worked directly with Gilles at Global
+Dawn
+
+
+"Gilles manages to share his deep knowledge with non-professionals in the field of Web
+
+development, orients the customer to improved concepts without pushing and delivers remarkable,
+foolproof output. I recommend Gilles to all Website owner who want to achieve superior results at
+
+reasonnable cost."
+
+Jacques Ruppert,Owner, Ruppert Musical instruments S.A., was Gilles's client
+
+
+"Gilles is one of the best front-end (and overall) developers I've worked with. He's constantly
+
+learning and pushing his knowledge, and looking for new and better ways to do things. He picks up
+new ideas quickly, works brilliantly in a team, and is generally a joy to work with."
+
+Nic Wise,Mobile Developer (contract), ANZ Bank, worked directly with Gilles at BBC
+Worldwide
+
+
+"Gilles was one of the more senior developers on the team at Global Dawn. He has expertise in
+
+OO TDD JavaScript, HTML and CSS. He is constantly suggesting improvements which are very
+well thought out and explained clearly to the team. He also has excellent knowledge in GIT source
+
+control and helped the team improve the process in this area. He is not afraid to get his hands dirty
+and he even got knee-deep in writing Ruby seed files. A real asset, I would be more than happy to
+
+recommend Gilles and work with him again in the future."
+
+Adam Silver,Front-end UI developer, JUST EAT, worked directly with Gilles at Global Dawn
+
+
+"Gilles was an indispensable member of the iPlayer team, in both his technical knowledge and
+ability, and his passion for doing things well. He wrote some cool code to some high-aiming
+
+requirements under challenging circumstances. I don't think you could ask for more really."
+
+Simon Frost,Consultant, Veenoct Ltd, managed Gilles indirectly at Made of Bytes Ltd.Profile Notes and Activity (1)
+
+  6/24/2015View by Monica Bungcasan

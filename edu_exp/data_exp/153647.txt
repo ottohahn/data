@@ -1,0 +1,52 @@
+1 1
+ HU Keqiu 
+(917) 8683645     kh2567@columbia.edu 
+Apt 33, 414 W121 St, New York, NY, 10027 
+ 
+EDUCATION 
+2012-2013, Columbia University, The Fu Foundation School of Engineering & Applied Science 
+Master of Engineering, Major: Computer Science (Machine Learning track) 
+Overall GPA: 3.79/4.3  
+2008-2012, City University of Hong Kong, College of Science and Engineering  
+Bachelor of Engineering (Honors), Major: Electronic Engineering, Minor: Finance, Overall GPA: 
+3.72/4.3, Major GPA: 3.94/4.3  
+ 
+PROJECTS EXPERIENCE 
+• NopSec VRM Product Load Balancing, May 2013 – June 2013 
+Designed a middle layer between clients and OpenVAS to balance the scanning workload. Tasks 
+including target IP clustering, scanner completion notification and scanner disaster recovery.  
+• Programming Language EasKey Design and Implementation, Sep 2012 – Dec 2012 
+Designed a programming language that automates iterative keyboard and mouse input, and 
+implementing the corresponding scanner, parser, compiler and interpreter for the language using 
+OCaml and C++. 
+• Web Database Data Mining, Oct 2012-Nov 2012 
+Explored the knowledge inside the NYC 311 Request Databases with Apriori algorithm using Python. 
+• Remotely Operated Vehicle Design, Feb 2011 – July 2011 
+Designed a robust and flexible remotely operated underwater robot to finish a series of tasks like 
+underwater observation, mechanical manipulation and environment measurement. 
+ 
+WORK EXPERIENCE 
+• NopSec Inc, Software Engineer Intern, May 2013 – Aug 2013 
+Designed and developed vulnerability risk management software using Python/Django. Performing 
+the web/network vulnerability assessment with security tool OpenVAS, Metasploit and Arachni. 
+• Columbia U ResearchMatch Team, Web Developer, Sep 2012 – Jan 2013 
+Developed an open-source web based application using Ruby on Rails to facilitate project matching 
+between professors and students. Github address: https://github.com/La-comadreja/ResearchMatch 
+• Changes of Nonlinear Dynamics in Neural Population Spiking Activity, City University 
+of Hong Kong, Research Assistant, Jan 2012 -  June 2012 
+Analysis on neural population spiking activity of human brain under different circumstances and 
+mainly focuses on data analysis using C++ and MATLAB. 
+• Microfluidics for Global Health Disease Detection, City University of Hong Kong, 
+Research Assistant, June 2010 – July 2010 
+Developed a microfluidic embedded system based on CD4+ T cell counter for point of care HIV/AIDS 
+detection and monitoring. 
+ 
+AWARDS 
+2012. Third Prize, Goldman Sachs Group Programming Competition 
+2011. The Department of Electronic and Engineering Industrial Placement Scheme Awards 
+2010. Award of Merit, New Business Adventure Competition 
+2008. Hong Kong SAR Government First Class Scholarship, Government of Hong Kong SAR 
+ 
+KEY SKILLS  
+Programming Skills: Java, Python, C/C++, MATLAB, Django, OpenVAS, Ruby,  OCaml, C# 
+Language: Mandarin (bilingual proficiency) Cantonese (bilingual proficiency) Japanese (basic level)
